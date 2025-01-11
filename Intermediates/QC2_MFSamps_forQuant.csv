@@ -1,0 +1,3682 @@
+MF,Name,SampID
+HNeg_1982,Uridine,A_1C_T0
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T0
+HNeg_2173,Inosine,A_1C_T0
+HNeg_2635,Sucrose,A_1C_T0
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T0
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T0
+HNeg_sky11,D-Gluconic acid,A_1C_T0
+HNeg_sky19,L-Cysteic acid,A_1C_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T0
+HNeg_sky32,Taurine,A_1C_T0
+HNeg_sky36,Thymine,A_1C_T0
+HNeg_sky6,Adenosine monophosphate,A_1C_T0
+HPos_1157,Ectoine,A_1C_T0
+HPos_1241,L-Glutamine,A_1C_T0
+HPos_1496,5-Hydroxyectoine,A_1C_T0
+HPos_1848,Arsenobetaine,A_1C_T0
+HPos_1926,L-Tyrosine,A_1C_T0
+HPos_257,Sarcosine,A_1C_T0
+HPos_261,L-Alanine,A_1C_T0
+HPos_3067,Cytidine,A_1C_T0
+HPos_3196,Deoxyadenosine,A_1C_T0
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T0
+HPos_3429,Adenosine,A_1C_T0
+HPos_3670,Guanosine,A_1C_T0
+HPos_5986,Glutathione disulfide,A_1C_T0
+HPos_639,L-Proline,A_1C_T0
+HPos_705,L-Threonine,A_1C_T0
+HPos_962,L-Aspartic acid,A_1C_T0
+HPos_978,Dimethylsulfoniopropionate,A_1C_T0
+HPos_989,Adenine,A_1C_T0
+HPos_sky16,Creatine,A_1C_T0
+HPos_sky35,Glycine betaine,A_1C_T0
+HPos_sky38,Guanine,A_1C_T0
+HPos_sky45,Hypotaurine,A_1C_T0
+HPos_sky51,L-Glutamic acid,A_1C_T0
+HPos_sky54,L-Homoserine,A_1C_T0
+HPos_sky59,L-Methionine,A_1C_T0
+HPos_sky60,L-Methionine S-oxide,A_1C_T0
+HPos_sky64,L-Serine,A_1C_T0
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T0
+HPos_sky72,Ophthalmic acid,A_1C_T0
+HPos_sky73,Pipecolic acid,A_1C_T0
+HPos_sky74,Proline betaine,A_1C_T0
+RP_14640,Methylthioadenosine,A_1C_T0
+RP_3959,L-Phenylalanine,A_1C_T0
+RP_6828,L-Tryptophan,A_1C_T0
+RP_7155,L-Kynurenine,A_1C_T0
+RP_7669,Desthiobiotin,A_1C_T0
+RP_sky1,Agmatine,A_1C_T0
+RP_sky16,Pantothenic acid,A_1C_T0
+RP_sky17,Pyridoxal,A_1C_T0
+RP_sky21,Pyridoxine,A_1C_T0
+RP_sky23,S-Adenosylhomocysteine,A_1C_T0
+RP_sky24,S-Adenosylmethionine,A_1C_T0
+HNeg_1982,Uridine,A_1C_T12
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T12
+HNeg_2173,Inosine,A_1C_T12
+HNeg_2634,Trehalose,A_1C_T12
+HNeg_2635,Sucrose,A_1C_T12
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T12
+HNeg_609,"Taurine, 2H4",A_1C_T12
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T12
+HNeg_sky11,D-Gluconic acid,A_1C_T12
+HNeg_sky19,L-Cysteic acid,A_1C_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T12
+HNeg_sky32,Taurine,A_1C_T12
+HNeg_sky34,Threonic acid,A_1C_T12
+HNeg_sky6,Adenosine monophosphate,A_1C_T12
+HPos_108,Glycine,A_1C_T12
+HPos_1157,Ectoine,A_1C_T12
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_1C_T12
+HPos_1241,L-Glutamine,A_1C_T12
+HPos_1419,L-Histidine,A_1C_T12
+HPos_1496,5-Hydroxyectoine,A_1C_T12
+HPos_1848,Arsenobetaine,A_1C_T12
+HPos_1926,L-Tyrosine,A_1C_T12
+HPos_257,Sarcosine,A_1C_T12
+HPos_261,L-Alanine,A_1C_T12
+HPos_3067,Cytidine,A_1C_T12
+HPos_3196,Deoxyadenosine,A_1C_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T12
+HPos_3429,Adenosine,A_1C_T12
+HPos_3670,Guanosine,A_1C_T12
+HPos_556,Cytosine,A_1C_T12
+HPos_5986,Glutathione disulfide,A_1C_T12
+HPos_639,L-Proline,A_1C_T12
+HPos_705,L-Threonine,A_1C_T12
+HPos_954,L-Asparagine,A_1C_T12
+HPos_962,L-Aspartic acid,A_1C_T12
+HPos_978,Dimethylsulfoniopropionate,A_1C_T12
+HPos_989,Adenine,A_1C_T12
+HPos_sky16,Creatine,A_1C_T12
+HPos_sky35,Glycine betaine,A_1C_T12
+HPos_sky38,Guanine,A_1C_T12
+HPos_sky45,Hypotaurine,A_1C_T12
+HPos_sky51,L-Glutamic acid,A_1C_T12
+HPos_sky54,L-Homoserine,A_1C_T12
+HPos_sky59,L-Methionine,A_1C_T12
+HPos_sky60,L-Methionine S-oxide,A_1C_T12
+HPos_sky64,L-Serine,A_1C_T12
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T12
+HPos_sky72,Ophthalmic acid,A_1C_T12
+HPos_sky73,Pipecolic acid,A_1C_T12
+HPos_sky74,Proline betaine,A_1C_T12
+RP_14640,Methylthioadenosine,A_1C_T12
+RP_20713,Riboflavin,A_1C_T12
+RP_3959,L-Phenylalanine,A_1C_T12
+RP_6828,L-Tryptophan,A_1C_T12
+RP_7155,L-Kynurenine,A_1C_T12
+RP_7669,Desthiobiotin,A_1C_T12
+RP_sky1,Agmatine,A_1C_T12
+RP_sky16,Pantothenic acid,A_1C_T12
+RP_sky17,Pyridoxal,A_1C_T12
+RP_sky21,Pyridoxine,A_1C_T12
+RP_sky23,S-Adenosylhomocysteine,A_1C_T12
+RP_sky24,S-Adenosylmethionine,A_1C_T12
+HNeg_1982,Uridine,A_1C_T18
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T18
+HNeg_2173,Inosine,A_1C_T18
+HNeg_2634,Trehalose,A_1C_T18
+HNeg_2635,Sucrose,A_1C_T18
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T18
+HNeg_609,"Taurine, 2H4",A_1C_T18
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T18
+HNeg_sky11,D-Gluconic acid,A_1C_T18
+HNeg_sky19,L-Cysteic acid,A_1C_T18
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T18
+HNeg_sky32,Taurine,A_1C_T18
+HNeg_sky6,Adenosine monophosphate,A_1C_T18
+HPos_1157,Ectoine,A_1C_T18
+HPos_1241,L-Glutamine,A_1C_T18
+HPos_1496,5-Hydroxyectoine,A_1C_T18
+HPos_1848,Arsenobetaine,A_1C_T18
+HPos_1926,L-Tyrosine,A_1C_T18
+HPos_257,Sarcosine,A_1C_T18
+HPos_261,L-Alanine,A_1C_T18
+HPos_3067,Cytidine,A_1C_T18
+HPos_3196,Deoxyadenosine,A_1C_T18
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T18
+HPos_3429,Adenosine,A_1C_T18
+HPos_3670,Guanosine,A_1C_T18
+HPos_5986,Glutathione disulfide,A_1C_T18
+HPos_639,L-Proline,A_1C_T18
+HPos_705,L-Threonine,A_1C_T18
+HPos_954,L-Asparagine,A_1C_T18
+HPos_962,L-Aspartic acid,A_1C_T18
+HPos_978,Dimethylsulfoniopropionate,A_1C_T18
+HPos_989,Adenine,A_1C_T18
+HPos_sky16,Creatine,A_1C_T18
+HPos_sky35,Glycine betaine,A_1C_T18
+HPos_sky38,Guanine,A_1C_T18
+HPos_sky45,Hypotaurine,A_1C_T18
+HPos_sky51,L-Glutamic acid,A_1C_T18
+HPos_sky54,L-Homoserine,A_1C_T18
+HPos_sky55,L-Isoleucine,A_1C_T18
+HPos_sky59,L-Methionine,A_1C_T18
+HPos_sky60,L-Methionine S-oxide,A_1C_T18
+HPos_sky64,L-Serine,A_1C_T18
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T18
+HPos_sky72,Ophthalmic acid,A_1C_T18
+HPos_sky73,Pipecolic acid,A_1C_T18
+HPos_sky74,Proline betaine,A_1C_T18
+RP_14640,Methylthioadenosine,A_1C_T18
+RP_20713,Riboflavin,A_1C_T18
+RP_3959,L-Phenylalanine,A_1C_T18
+RP_6828,L-Tryptophan,A_1C_T18
+RP_7155,L-Kynurenine,A_1C_T18
+RP_7669,Desthiobiotin,A_1C_T18
+RP_sky1,Agmatine,A_1C_T18
+RP_sky16,Pantothenic acid,A_1C_T18
+RP_sky17,Pyridoxal,A_1C_T18
+RP_sky21,Pyridoxine,A_1C_T18
+RP_sky23,S-Adenosylhomocysteine,A_1C_T18
+RP_sky24,S-Adenosylmethionine,A_1C_T18
+RP_sky29,Xanthine,A_1C_T18
+HNeg_1963,Thymidine,A_1C_T24
+HNeg_1982,Uridine,A_1C_T24
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T24
+HNeg_2173,Inosine,A_1C_T24
+HNeg_2634,Trehalose,A_1C_T24
+HNeg_2635,Sucrose,A_1C_T24
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T24
+HNeg_609,"Taurine, 2H4",A_1C_T24
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T24
+HNeg_sky11,D-Gluconic acid,A_1C_T24
+HNeg_sky19,L-Cysteic acid,A_1C_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T24
+HNeg_sky27,Succinic acid,A_1C_T24
+HNeg_sky32,Taurine,A_1C_T24
+HNeg_sky36,Thymine,A_1C_T24
+HNeg_sky6,Adenosine monophosphate,A_1C_T24
+HPos_1007,Hypoxanthine,A_1C_T24
+HPos_108,Glycine,A_1C_T24
+HPos_1157,Ectoine,A_1C_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_1C_T24
+HPos_1241,L-Glutamine,A_1C_T24
+HPos_1419,L-Histidine,A_1C_T24
+HPos_1496,5-Hydroxyectoine,A_1C_T24
+HPos_1519,Betonicine,A_1C_T24
+HPos_1848,Arsenobetaine,A_1C_T24
+HPos_1926,L-Tyrosine,A_1C_T24
+HPos_261,L-Alanine,A_1C_T24
+HPos_2837,Ergothioneine,A_1C_T24
+HPos_3067,Cytidine,A_1C_T24
+HPos_3196,Deoxyadenosine,A_1C_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T24
+HPos_3429,Adenosine,A_1C_T24
+HPos_3670,Guanosine,A_1C_T24
+HPos_556,Cytosine,A_1C_T24
+HPos_5986,Glutathione disulfide,A_1C_T24
+HPos_639,L-Proline,A_1C_T24
+HPos_705,L-Threonine,A_1C_T24
+HPos_954,L-Asparagine,A_1C_T24
+HPos_962,L-Aspartic acid,A_1C_T24
+HPos_978,Dimethylsulfoniopropionate,A_1C_T24
+HPos_989,Adenine,A_1C_T24
+HPos_sky16,Creatine,A_1C_T24
+HPos_sky35,Glycine betaine,A_1C_T24
+HPos_sky38,Guanine,A_1C_T24
+HPos_sky45,Hypotaurine,A_1C_T24
+HPos_sky51,L-Glutamic acid,A_1C_T24
+HPos_sky54,L-Homoserine,A_1C_T24
+HPos_sky55,L-Isoleucine,A_1C_T24
+HPos_sky59,L-Methionine,A_1C_T24
+HPos_sky60,L-Methionine S-oxide,A_1C_T24
+HPos_sky64,L-Serine,A_1C_T24
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T24
+HPos_sky72,Ophthalmic acid,A_1C_T24
+HPos_sky73,Pipecolic acid,A_1C_T24
+HPos_sky74,Proline betaine,A_1C_T24
+RP_14640,Methylthioadenosine,A_1C_T24
+RP_20713,Riboflavin,A_1C_T24
+RP_3959,L-Phenylalanine,A_1C_T24
+RP_6828,L-Tryptophan,A_1C_T24
+RP_7155,L-Kynurenine,A_1C_T24
+RP_7669,Desthiobiotin,A_1C_T24
+RP_sky1,Agmatine,A_1C_T24
+RP_sky15,Nicotinic acid,A_1C_T24
+RP_sky16,Pantothenic acid,A_1C_T24
+RP_sky17,Pyridoxal,A_1C_T24
+RP_sky21,Pyridoxine,A_1C_T24
+RP_sky23,S-Adenosylhomocysteine,A_1C_T24
+RP_sky24,S-Adenosylmethionine,A_1C_T24
+RP_sky29,Xanthine,A_1C_T24
+HNeg_1982,Uridine,A_1C_T30
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T30
+HNeg_2173,Inosine,A_1C_T30
+HNeg_2634,Trehalose,A_1C_T30
+HNeg_2635,Sucrose,A_1C_T30
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T30
+HNeg_609,"Taurine, 2H4",A_1C_T30
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T30
+HNeg_sky11,D-Gluconic acid,A_1C_T30
+HNeg_sky19,L-Cysteic acid,A_1C_T30
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T30
+HNeg_sky32,Taurine,A_1C_T30
+HNeg_sky34,Threonic acid,A_1C_T30
+HNeg_sky6,Adenosine monophosphate,A_1C_T30
+HPos_1007,Hypoxanthine,A_1C_T30
+HPos_108,Glycine,A_1C_T30
+HPos_1157,Ectoine,A_1C_T30
+HPos_1241,L-Glutamine,A_1C_T30
+HPos_1419,L-Histidine,A_1C_T30
+HPos_1496,5-Hydroxyectoine,A_1C_T30
+HPos_1848,Arsenobetaine,A_1C_T30
+HPos_1926,L-Tyrosine,A_1C_T30
+HPos_257,Sarcosine,A_1C_T30
+HPos_261,L-Alanine,A_1C_T30
+HPos_2837,Ergothioneine,A_1C_T30
+HPos_3067,Cytidine,A_1C_T30
+HPos_3196,Deoxyadenosine,A_1C_T30
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T30
+HPos_3429,Adenosine,A_1C_T30
+HPos_3670,Guanosine,A_1C_T30
+HPos_5986,Glutathione disulfide,A_1C_T30
+HPos_639,L-Proline,A_1C_T30
+HPos_705,L-Threonine,A_1C_T30
+HPos_954,L-Asparagine,A_1C_T30
+HPos_962,L-Aspartic acid,A_1C_T30
+HPos_978,Dimethylsulfoniopropionate,A_1C_T30
+HPos_989,Adenine,A_1C_T30
+HPos_sky16,Creatine,A_1C_T30
+HPos_sky35,Glycine betaine,A_1C_T30
+HPos_sky38,Guanine,A_1C_T30
+HPos_sky45,Hypotaurine,A_1C_T30
+HPos_sky51,L-Glutamic acid,A_1C_T30
+HPos_sky54,L-Homoserine,A_1C_T30
+HPos_sky55,L-Isoleucine,A_1C_T30
+HPos_sky59,L-Methionine,A_1C_T30
+HPos_sky60,L-Methionine S-oxide,A_1C_T30
+HPos_sky64,L-Serine,A_1C_T30
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T30
+HPos_sky72,Ophthalmic acid,A_1C_T30
+HPos_sky73,Pipecolic acid,A_1C_T30
+HPos_sky74,Proline betaine,A_1C_T30
+RP_14640,Methylthioadenosine,A_1C_T30
+RP_20713,Riboflavin,A_1C_T30
+RP_3959,L-Phenylalanine,A_1C_T30
+RP_6828,L-Tryptophan,A_1C_T30
+RP_7155,L-Kynurenine,A_1C_T30
+RP_7669,Desthiobiotin,A_1C_T30
+RP_sky1,Agmatine,A_1C_T30
+RP_sky16,Pantothenic acid,A_1C_T30
+RP_sky17,Pyridoxal,A_1C_T30
+RP_sky21,Pyridoxine,A_1C_T30
+RP_sky23,S-Adenosylhomocysteine,A_1C_T30
+RP_sky24,S-Adenosylmethionine,A_1C_T30
+RP_sky29,Xanthine,A_1C_T30
+HNeg_1963,Thymidine,A_1C_T36
+HNeg_1982,Uridine,A_1C_T36
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T36
+HNeg_2173,Inosine,A_1C_T36
+HNeg_2634,Trehalose,A_1C_T36
+HNeg_2635,Sucrose,A_1C_T36
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T36
+HNeg_609,"Taurine, 2H4",A_1C_T36
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T36
+HNeg_sky11,D-Gluconic acid,A_1C_T36
+HNeg_sky19,L-Cysteic acid,A_1C_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T36
+HNeg_sky27,Succinic acid,A_1C_T36
+HNeg_sky32,Taurine,A_1C_T36
+HNeg_sky34,Threonic acid,A_1C_T36
+HNeg_sky36,Thymine,A_1C_T36
+HNeg_sky6,Adenosine monophosphate,A_1C_T36
+HPos_1007,Hypoxanthine,A_1C_T36
+HPos_1022,Trigonelline,A_1C_T36
+HPos_108,Glycine,A_1C_T36
+HPos_1157,Ectoine,A_1C_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_1C_T36
+HPos_1241,L-Glutamine,A_1C_T36
+HPos_1251,L-Lysine,A_1C_T36
+HPos_1419,L-Histidine,A_1C_T36
+HPos_1496,5-Hydroxyectoine,A_1C_T36
+HPos_1519,Betonicine,A_1C_T36
+HPos_1848,Arsenobetaine,A_1C_T36
+HPos_1926,L-Tyrosine,A_1C_T36
+HPos_257,Sarcosine,A_1C_T36
+HPos_261,L-Alanine,A_1C_T36
+HPos_2837,Ergothioneine,A_1C_T36
+HPos_3067,Cytidine,A_1C_T36
+HPos_3196,Deoxyadenosine,A_1C_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T36
+HPos_3429,Adenosine,A_1C_T36
+HPos_3670,Guanosine,A_1C_T36
+HPos_556,Cytosine,A_1C_T36
+HPos_5986,Glutathione disulfide,A_1C_T36
+HPos_639,L-Proline,A_1C_T36
+HPos_705,L-Threonine,A_1C_T36
+HPos_954,L-Asparagine,A_1C_T36
+HPos_962,L-Aspartic acid,A_1C_T36
+HPos_978,Dimethylsulfoniopropionate,A_1C_T36
+HPos_989,Adenine,A_1C_T36
+HPos_sky16,Creatine,A_1C_T36
+HPos_sky35,Glycine betaine,A_1C_T36
+HPos_sky38,Guanine,A_1C_T36
+HPos_sky45,Hypotaurine,A_1C_T36
+HPos_sky51,L-Glutamic acid,A_1C_T36
+HPos_sky54,L-Homoserine,A_1C_T36
+HPos_sky55,L-Isoleucine,A_1C_T36
+HPos_sky59,L-Methionine,A_1C_T36
+HPos_sky60,L-Methionine S-oxide,A_1C_T36
+HPos_sky64,L-Serine,A_1C_T36
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T36
+HPos_sky72,Ophthalmic acid,A_1C_T36
+HPos_sky73,Pipecolic acid,A_1C_T36
+HPos_sky74,Proline betaine,A_1C_T36
+RP_14640,Methylthioadenosine,A_1C_T36
+RP_20713,Riboflavin,A_1C_T36
+RP_3959,L-Phenylalanine,A_1C_T36
+RP_6828,L-Tryptophan,A_1C_T36
+RP_7155,L-Kynurenine,A_1C_T36
+RP_7669,Desthiobiotin,A_1C_T36
+RP_sky1,Agmatine,A_1C_T36
+RP_sky15,Nicotinic acid,A_1C_T36
+RP_sky16,Pantothenic acid,A_1C_T36
+RP_sky17,Pyridoxal,A_1C_T36
+RP_sky21,Pyridoxine,A_1C_T36
+RP_sky23,S-Adenosylhomocysteine,A_1C_T36
+RP_sky24,S-Adenosylmethionine,A_1C_T36
+RP_sky29,Xanthine,A_1C_T36
+HNeg_1982,Uridine,A_1C_T42
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T42
+HNeg_2173,Inosine,A_1C_T42
+HNeg_2634,Trehalose,A_1C_T42
+HNeg_2635,Sucrose,A_1C_T42
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T42
+HNeg_609,"Taurine, 2H4",A_1C_T42
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T42
+HNeg_sky11,D-Gluconic acid,A_1C_T42
+HNeg_sky19,L-Cysteic acid,A_1C_T42
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T42
+HNeg_sky32,Taurine,A_1C_T42
+HNeg_sky34,Threonic acid,A_1C_T42
+HNeg_sky36,Thymine,A_1C_T42
+HNeg_sky6,Adenosine monophosphate,A_1C_T42
+HPos_1007,Hypoxanthine,A_1C_T42
+HPos_108,Glycine,A_1C_T42
+HPos_1157,Ectoine,A_1C_T42
+HPos_1241,L-Glutamine,A_1C_T42
+HPos_1496,5-Hydroxyectoine,A_1C_T42
+HPos_1848,Arsenobetaine,A_1C_T42
+HPos_1926,L-Tyrosine,A_1C_T42
+HPos_257,Sarcosine,A_1C_T42
+HPos_261,L-Alanine,A_1C_T42
+HPos_3067,Cytidine,A_1C_T42
+HPos_3196,Deoxyadenosine,A_1C_T42
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T42
+HPos_3429,Adenosine,A_1C_T42
+HPos_3670,Guanosine,A_1C_T42
+HPos_556,Cytosine,A_1C_T42
+HPos_5986,Glutathione disulfide,A_1C_T42
+HPos_639,L-Proline,A_1C_T42
+HPos_705,L-Threonine,A_1C_T42
+HPos_954,L-Asparagine,A_1C_T42
+HPos_962,L-Aspartic acid,A_1C_T42
+HPos_978,Dimethylsulfoniopropionate,A_1C_T42
+HPos_989,Adenine,A_1C_T42
+HPos_sky35,Glycine betaine,A_1C_T42
+HPos_sky38,Guanine,A_1C_T42
+HPos_sky45,Hypotaurine,A_1C_T42
+HPos_sky51,L-Glutamic acid,A_1C_T42
+HPos_sky54,L-Homoserine,A_1C_T42
+HPos_sky55,L-Isoleucine,A_1C_T42
+HPos_sky59,L-Methionine,A_1C_T42
+HPos_sky60,L-Methionine S-oxide,A_1C_T42
+HPos_sky64,L-Serine,A_1C_T42
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T42
+HPos_sky72,Ophthalmic acid,A_1C_T42
+HPos_sky73,Pipecolic acid,A_1C_T42
+HPos_sky74,Proline betaine,A_1C_T42
+RP_14640,Methylthioadenosine,A_1C_T42
+RP_20713,Riboflavin,A_1C_T42
+RP_3959,L-Phenylalanine,A_1C_T42
+RP_6828,L-Tryptophan,A_1C_T42
+RP_7155,L-Kynurenine,A_1C_T42
+RP_7669,Desthiobiotin,A_1C_T42
+RP_sky1,Agmatine,A_1C_T42
+RP_sky15,Nicotinic acid,A_1C_T42
+RP_sky16,Pantothenic acid,A_1C_T42
+RP_sky17,Pyridoxal,A_1C_T42
+RP_sky21,Pyridoxine,A_1C_T42
+RP_sky23,S-Adenosylhomocysteine,A_1C_T42
+RP_sky24,S-Adenosylmethionine,A_1C_T42
+RP_sky29,Xanthine,A_1C_T42
+HNeg_1963,Thymidine,A_1C_T48
+HNeg_1982,Uridine,A_1C_T48
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T48
+HNeg_2173,Inosine,A_1C_T48
+HNeg_2634,Trehalose,A_1C_T48
+HNeg_2635,Sucrose,A_1C_T48
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T48
+HNeg_609,"Taurine, 2H4",A_1C_T48
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T48
+HNeg_sky11,D-Gluconic acid,A_1C_T48
+HNeg_sky19,L-Cysteic acid,A_1C_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T48
+HNeg_sky32,Taurine,A_1C_T48
+HNeg_sky34,Threonic acid,A_1C_T48
+HNeg_sky36,Thymine,A_1C_T48
+HNeg_sky6,Adenosine monophosphate,A_1C_T48
+HPos_1007,Hypoxanthine,A_1C_T48
+HPos_108,Glycine,A_1C_T48
+HPos_1157,Ectoine,A_1C_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_1C_T48
+HPos_1241,L-Glutamine,A_1C_T48
+HPos_1251,L-Lysine,A_1C_T48
+HPos_1419,L-Histidine,A_1C_T48
+HPos_1496,5-Hydroxyectoine,A_1C_T48
+HPos_1519,Betonicine,A_1C_T48
+HPos_1848,Arsenobetaine,A_1C_T48
+HPos_1926,L-Tyrosine,A_1C_T48
+HPos_257,Sarcosine,A_1C_T48
+HPos_261,L-Alanine,A_1C_T48
+HPos_2837,Ergothioneine,A_1C_T48
+HPos_3067,Cytidine,A_1C_T48
+HPos_3196,Deoxyadenosine,A_1C_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_1C_T48
+HPos_3429,Adenosine,A_1C_T48
+HPos_3670,Guanosine,A_1C_T48
+HPos_556,Cytosine,A_1C_T48
+HPos_5986,Glutathione disulfide,A_1C_T48
+HPos_639,L-Proline,A_1C_T48
+HPos_705,L-Threonine,A_1C_T48
+HPos_954,L-Asparagine,A_1C_T48
+HPos_962,L-Aspartic acid,A_1C_T48
+HPos_978,Dimethylsulfoniopropionate,A_1C_T48
+HPos_989,Adenine,A_1C_T48
+HPos_sky16,Creatine,A_1C_T48
+HPos_sky35,Glycine betaine,A_1C_T48
+HPos_sky38,Guanine,A_1C_T48
+HPos_sky45,Hypotaurine,A_1C_T48
+HPos_sky51,L-Glutamic acid,A_1C_T48
+HPos_sky54,L-Homoserine,A_1C_T48
+HPos_sky55,L-Isoleucine,A_1C_T48
+HPos_sky59,L-Methionine,A_1C_T48
+HPos_sky60,L-Methionine S-oxide,A_1C_T48
+HPos_sky64,L-Serine,A_1C_T48
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T48
+HPos_sky72,Ophthalmic acid,A_1C_T48
+HPos_sky73,Pipecolic acid,A_1C_T48
+HPos_sky74,Proline betaine,A_1C_T48
+RP_14640,Methylthioadenosine,A_1C_T48
+RP_20713,Riboflavin,A_1C_T48
+RP_3959,L-Phenylalanine,A_1C_T48
+RP_6828,L-Tryptophan,A_1C_T48
+RP_7155,L-Kynurenine,A_1C_T48
+RP_7669,Desthiobiotin,A_1C_T48
+RP_sky1,Agmatine,A_1C_T48
+RP_sky15,Nicotinic acid,A_1C_T48
+RP_sky16,Pantothenic acid,A_1C_T48
+RP_sky17,Pyridoxal,A_1C_T48
+RP_sky21,Pyridoxine,A_1C_T48
+RP_sky23,S-Adenosylhomocysteine,A_1C_T48
+RP_sky24,S-Adenosylmethionine,A_1C_T48
+RP_sky29,Xanthine,A_1C_T48
+HNeg_1982,Uridine,A_1C_T6
+HNeg_2117,D-Fructose 6-phosphate,A_1C_T6
+HNeg_2173,Inosine,A_1C_T6
+HNeg_2635,Sucrose,A_1C_T6
+HNeg_3117,UDP-N-acetylglucosamine,A_1C_T6
+HNeg_sky1,2-Ketoglutaric acid,A_1C_T6
+HNeg_sky11,D-Gluconic acid,A_1C_T6
+HNeg_sky19,L-Cysteic acid,A_1C_T6
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_1C_T6
+HNeg_sky32,Taurine,A_1C_T6
+HNeg_sky6,Adenosine monophosphate,A_1C_T6
+HPos_108,Glycine,A_1C_T6
+HPos_1157,Ectoine,A_1C_T6
+HPos_1241,L-Glutamine,A_1C_T6
+HPos_1419,L-Histidine,A_1C_T6
+HPos_1496,5-Hydroxyectoine,A_1C_T6
+HPos_1848,Arsenobetaine,A_1C_T6
+HPos_1926,L-Tyrosine,A_1C_T6
+HPos_257,Sarcosine,A_1C_T6
+HPos_261,L-Alanine,A_1C_T6
+HPos_3067,Cytidine,A_1C_T6
+HPos_3196,Deoxyadenosine,A_1C_T6
+HPos_3429,Adenosine,A_1C_T6
+HPos_3670,Guanosine,A_1C_T6
+HPos_5986,Glutathione disulfide,A_1C_T6
+HPos_639,L-Proline,A_1C_T6
+HPos_705,L-Threonine,A_1C_T6
+HPos_962,L-Aspartic acid,A_1C_T6
+HPos_978,Dimethylsulfoniopropionate,A_1C_T6
+HPos_989,Adenine,A_1C_T6
+HPos_sky16,Creatine,A_1C_T6
+HPos_sky35,Glycine betaine,A_1C_T6
+HPos_sky38,Guanine,A_1C_T6
+HPos_sky45,Hypotaurine,A_1C_T6
+HPos_sky51,L-Glutamic acid,A_1C_T6
+HPos_sky54,L-Homoserine,A_1C_T6
+HPos_sky55,L-Isoleucine,A_1C_T6
+HPos_sky59,L-Methionine,A_1C_T6
+HPos_sky60,L-Methionine S-oxide,A_1C_T6
+HPos_sky64,L-Serine,A_1C_T6
+HPos_sky71,N6-Acetyl-L-lysine,A_1C_T6
+HPos_sky72,Ophthalmic acid,A_1C_T6
+HPos_sky73,Pipecolic acid,A_1C_T6
+HPos_sky74,Proline betaine,A_1C_T6
+RP_14640,Methylthioadenosine,A_1C_T6
+RP_20713,Riboflavin,A_1C_T6
+RP_3959,L-Phenylalanine,A_1C_T6
+RP_6828,L-Tryptophan,A_1C_T6
+RP_7155,L-Kynurenine,A_1C_T6
+RP_7669,Desthiobiotin,A_1C_T6
+RP_sky16,Pantothenic acid,A_1C_T6
+RP_sky17,Pyridoxal,A_1C_T6
+RP_sky21,Pyridoxine,A_1C_T6
+RP_sky23,S-Adenosylhomocysteine,A_1C_T6
+RP_sky24,S-Adenosylmethionine,A_1C_T6
+RP_sky29,Xanthine,A_1C_T6
+HNeg_1982,Uridine,A_3LV_T0
+HNeg_2173,Inosine,A_3LV_T0
+HNeg_2635,Sucrose,A_3LV_T0
+HNeg_3117,UDP-N-acetylglucosamine,A_3LV_T0
+HNeg_sky1,2-Ketoglutaric acid,A_3LV_T0
+HNeg_sky11,D-Gluconic acid,A_3LV_T0
+HNeg_sky19,L-Cysteic acid,A_3LV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_3LV_T0
+HNeg_sky32,Taurine,A_3LV_T0
+HNeg_sky6,Adenosine monophosphate,A_3LV_T0
+HPos_1157,Ectoine,A_3LV_T0
+HPos_1241,L-Glutamine,A_3LV_T0
+HPos_1496,5-Hydroxyectoine,A_3LV_T0
+HPos_1519,Betonicine,A_3LV_T0
+HPos_1848,Arsenobetaine,A_3LV_T0
+HPos_257,Sarcosine,A_3LV_T0
+HPos_261,L-Alanine,A_3LV_T0
+HPos_3067,Cytidine,A_3LV_T0
+HPos_3196,Deoxyadenosine,A_3LV_T0
+HPos_3429,Adenosine,A_3LV_T0
+HPos_3670,Guanosine,A_3LV_T0
+HPos_556,Cytosine,A_3LV_T0
+HPos_5986,Glutathione disulfide,A_3LV_T0
+HPos_705,L-Threonine,A_3LV_T0
+HPos_962,L-Aspartic acid,A_3LV_T0
+HPos_978,Dimethylsulfoniopropionate,A_3LV_T0
+HPos_989,Adenine,A_3LV_T0
+HPos_sky35,Glycine betaine,A_3LV_T0
+HPos_sky38,Guanine,A_3LV_T0
+HPos_sky45,Hypotaurine,A_3LV_T0
+HPos_sky51,L-Glutamic acid,A_3LV_T0
+HPos_sky54,L-Homoserine,A_3LV_T0
+HPos_sky55,L-Isoleucine,A_3LV_T0
+HPos_sky59,L-Methionine,A_3LV_T0
+HPos_sky60,L-Methionine S-oxide,A_3LV_T0
+HPos_sky64,L-Serine,A_3LV_T0
+HPos_sky71,N6-Acetyl-L-lysine,A_3LV_T0
+HPos_sky72,Ophthalmic acid,A_3LV_T0
+HPos_sky73,Pipecolic acid,A_3LV_T0
+HPos_sky74,Proline betaine,A_3LV_T0
+RP_14640,Methylthioadenosine,A_3LV_T0
+RP_3959,L-Phenylalanine,A_3LV_T0
+RP_6828,L-Tryptophan,A_3LV_T0
+RP_7155,L-Kynurenine,A_3LV_T0
+RP_7669,Desthiobiotin,A_3LV_T0
+RP_sky1,Agmatine,A_3LV_T0
+RP_sky15,Nicotinic acid,A_3LV_T0
+RP_sky16,Pantothenic acid,A_3LV_T0
+RP_sky17,Pyridoxal,A_3LV_T0
+RP_sky21,Pyridoxine,A_3LV_T0
+RP_sky23,S-Adenosylhomocysteine,A_3LV_T0
+RP_sky24,S-Adenosylmethionine,A_3LV_T0
+RP_sky29,Xanthine,A_3LV_T0
+HNeg_1963,Thymidine,A_3LV_T12
+HNeg_1982,Uridine,A_3LV_T12
+HNeg_2117,D-Fructose 6-phosphate,A_3LV_T12
+HNeg_2173,Inosine,A_3LV_T12
+HNeg_2634,Trehalose,A_3LV_T12
+HNeg_2635,Sucrose,A_3LV_T12
+HNeg_3117,UDP-N-acetylglucosamine,A_3LV_T12
+HNeg_sky1,2-Ketoglutaric acid,A_3LV_T12
+HNeg_sky11,D-Gluconic acid,A_3LV_T12
+HNeg_sky19,L-Cysteic acid,A_3LV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_3LV_T12
+HNeg_sky32,Taurine,A_3LV_T12
+HNeg_sky6,Adenosine monophosphate,A_3LV_T12
+HPos_108,Glycine,A_3LV_T12
+HPos_1157,Ectoine,A_3LV_T12
+HPos_1241,L-Glutamine,A_3LV_T12
+HPos_1496,5-Hydroxyectoine,A_3LV_T12
+HPos_1848,Arsenobetaine,A_3LV_T12
+HPos_1926,L-Tyrosine,A_3LV_T12
+HPos_257,Sarcosine,A_3LV_T12
+HPos_261,L-Alanine,A_3LV_T12
+HPos_3067,Cytidine,A_3LV_T12
+HPos_3196,Deoxyadenosine,A_3LV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_3LV_T12
+HPos_3429,Adenosine,A_3LV_T12
+HPos_3670,Guanosine,A_3LV_T12
+HPos_556,Cytosine,A_3LV_T12
+HPos_5986,Glutathione disulfide,A_3LV_T12
+HPos_639,L-Proline,A_3LV_T12
+HPos_705,L-Threonine,A_3LV_T12
+HPos_962,L-Aspartic acid,A_3LV_T12
+HPos_978,Dimethylsulfoniopropionate,A_3LV_T12
+HPos_989,Adenine,A_3LV_T12
+HPos_sky16,Creatine,A_3LV_T12
+HPos_sky35,Glycine betaine,A_3LV_T12
+HPos_sky38,Guanine,A_3LV_T12
+HPos_sky45,Hypotaurine,A_3LV_T12
+HPos_sky51,L-Glutamic acid,A_3LV_T12
+HPos_sky54,L-Homoserine,A_3LV_T12
+HPos_sky55,L-Isoleucine,A_3LV_T12
+HPos_sky59,L-Methionine,A_3LV_T12
+HPos_sky60,L-Methionine S-oxide,A_3LV_T12
+HPos_sky64,L-Serine,A_3LV_T12
+HPos_sky71,N6-Acetyl-L-lysine,A_3LV_T12
+HPos_sky72,Ophthalmic acid,A_3LV_T12
+HPos_sky74,Proline betaine,A_3LV_T12
+RP_14640,Methylthioadenosine,A_3LV_T12
+RP_3959,L-Phenylalanine,A_3LV_T12
+RP_6828,L-Tryptophan,A_3LV_T12
+RP_7155,L-Kynurenine,A_3LV_T12
+RP_7669,Desthiobiotin,A_3LV_T12
+RP_sky16,Pantothenic acid,A_3LV_T12
+RP_sky17,Pyridoxal,A_3LV_T12
+RP_sky21,Pyridoxine,A_3LV_T12
+RP_sky23,S-Adenosylhomocysteine,A_3LV_T12
+RP_sky24,S-Adenosylmethionine,A_3LV_T12
+HNeg_1963,Thymidine,A_3LV_T24
+HNeg_1982,Uridine,A_3LV_T24
+HNeg_2117,D-Fructose 6-phosphate,A_3LV_T24
+HNeg_2173,Inosine,A_3LV_T24
+HNeg_2634,Trehalose,A_3LV_T24
+HNeg_2635,Sucrose,A_3LV_T24
+HNeg_3117,UDP-N-acetylglucosamine,A_3LV_T24
+HNeg_609,"Taurine, 2H4",A_3LV_T24
+HNeg_sky1,2-Ketoglutaric acid,A_3LV_T24
+HNeg_sky11,D-Gluconic acid,A_3LV_T24
+HNeg_sky19,L-Cysteic acid,A_3LV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_3LV_T24
+HNeg_sky27,Succinic acid,A_3LV_T24
+HNeg_sky32,Taurine,A_3LV_T24
+HNeg_sky34,Threonic acid,A_3LV_T24
+HNeg_sky36,Thymine,A_3LV_T24
+HNeg_sky6,Adenosine monophosphate,A_3LV_T24
+HPos_1007,Hypoxanthine,A_3LV_T24
+HPos_108,Glycine,A_3LV_T24
+HPos_1157,Ectoine,A_3LV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_3LV_T24
+HPos_1241,L-Glutamine,A_3LV_T24
+HPos_1419,L-Histidine,A_3LV_T24
+HPos_1496,5-Hydroxyectoine,A_3LV_T24
+HPos_1519,Betonicine,A_3LV_T24
+HPos_1848,Arsenobetaine,A_3LV_T24
+HPos_1926,L-Tyrosine,A_3LV_T24
+HPos_257,Sarcosine,A_3LV_T24
+HPos_261,L-Alanine,A_3LV_T24
+HPos_2837,Ergothioneine,A_3LV_T24
+HPos_3067,Cytidine,A_3LV_T24
+HPos_3196,Deoxyadenosine,A_3LV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_3LV_T24
+HPos_3429,Adenosine,A_3LV_T24
+HPos_3670,Guanosine,A_3LV_T24
+HPos_556,Cytosine,A_3LV_T24
+HPos_5986,Glutathione disulfide,A_3LV_T24
+HPos_639,L-Proline,A_3LV_T24
+HPos_705,L-Threonine,A_3LV_T24
+HPos_954,L-Asparagine,A_3LV_T24
+HPos_962,L-Aspartic acid,A_3LV_T24
+HPos_978,Dimethylsulfoniopropionate,A_3LV_T24
+HPos_989,Adenine,A_3LV_T24
+HPos_sky16,Creatine,A_3LV_T24
+HPos_sky35,Glycine betaine,A_3LV_T24
+HPos_sky38,Guanine,A_3LV_T24
+HPos_sky45,Hypotaurine,A_3LV_T24
+HPos_sky51,L-Glutamic acid,A_3LV_T24
+HPos_sky54,L-Homoserine,A_3LV_T24
+HPos_sky55,L-Isoleucine,A_3LV_T24
+HPos_sky59,L-Methionine,A_3LV_T24
+HPos_sky60,L-Methionine S-oxide,A_3LV_T24
+HPos_sky64,L-Serine,A_3LV_T24
+HPos_sky71,N6-Acetyl-L-lysine,A_3LV_T24
+HPos_sky72,Ophthalmic acid,A_3LV_T24
+HPos_sky73,Pipecolic acid,A_3LV_T24
+HPos_sky74,Proline betaine,A_3LV_T24
+RP_14640,Methylthioadenosine,A_3LV_T24
+RP_20713,Riboflavin,A_3LV_T24
+RP_3959,L-Phenylalanine,A_3LV_T24
+RP_6828,L-Tryptophan,A_3LV_T24
+RP_7155,L-Kynurenine,A_3LV_T24
+RP_7669,Desthiobiotin,A_3LV_T24
+RP_sky1,Agmatine,A_3LV_T24
+RP_sky15,Nicotinic acid,A_3LV_T24
+RP_sky16,Pantothenic acid,A_3LV_T24
+RP_sky17,Pyridoxal,A_3LV_T24
+RP_sky21,Pyridoxine,A_3LV_T24
+RP_sky23,S-Adenosylhomocysteine,A_3LV_T24
+RP_sky24,S-Adenosylmethionine,A_3LV_T24
+RP_sky29,Xanthine,A_3LV_T24
+HNeg_1963,Thymidine,A_3LV_T36
+HNeg_1982,Uridine,A_3LV_T36
+HNeg_2117,D-Fructose 6-phosphate,A_3LV_T36
+HNeg_2173,Inosine,A_3LV_T36
+HNeg_2634,Trehalose,A_3LV_T36
+HNeg_2635,Sucrose,A_3LV_T36
+HNeg_3117,UDP-N-acetylglucosamine,A_3LV_T36
+HNeg_609,"Taurine, 2H4",A_3LV_T36
+HNeg_sky1,2-Ketoglutaric acid,A_3LV_T36
+HNeg_sky11,D-Gluconic acid,A_3LV_T36
+HNeg_sky19,L-Cysteic acid,A_3LV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_3LV_T36
+HNeg_sky27,Succinic acid,A_3LV_T36
+HNeg_sky32,Taurine,A_3LV_T36
+HNeg_sky34,Threonic acid,A_3LV_T36
+HNeg_sky36,Thymine,A_3LV_T36
+HNeg_sky6,Adenosine monophosphate,A_3LV_T36
+HPos_1007,Hypoxanthine,A_3LV_T36
+HPos_1022,Trigonelline,A_3LV_T36
+HPos_108,Glycine,A_3LV_T36
+HPos_1157,Ectoine,A_3LV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_3LV_T36
+HPos_1241,L-Glutamine,A_3LV_T36
+HPos_1251,L-Lysine,A_3LV_T36
+HPos_1419,L-Histidine,A_3LV_T36
+HPos_1496,5-Hydroxyectoine,A_3LV_T36
+HPos_1519,Betonicine,A_3LV_T36
+HPos_1848,Arsenobetaine,A_3LV_T36
+HPos_1926,L-Tyrosine,A_3LV_T36
+HPos_257,Sarcosine,A_3LV_T36
+HPos_261,L-Alanine,A_3LV_T36
+HPos_2837,Ergothioneine,A_3LV_T36
+HPos_3067,Cytidine,A_3LV_T36
+HPos_3196,Deoxyadenosine,A_3LV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_3LV_T36
+HPos_3429,Adenosine,A_3LV_T36
+HPos_3670,Guanosine,A_3LV_T36
+HPos_556,Cytosine,A_3LV_T36
+HPos_5986,Glutathione disulfide,A_3LV_T36
+HPos_639,L-Proline,A_3LV_T36
+HPos_705,L-Threonine,A_3LV_T36
+HPos_954,L-Asparagine,A_3LV_T36
+HPos_962,L-Aspartic acid,A_3LV_T36
+HPos_978,Dimethylsulfoniopropionate,A_3LV_T36
+HPos_989,Adenine,A_3LV_T36
+HPos_sky16,Creatine,A_3LV_T36
+HPos_sky35,Glycine betaine,A_3LV_T36
+HPos_sky38,Guanine,A_3LV_T36
+HPos_sky45,Hypotaurine,A_3LV_T36
+HPos_sky51,L-Glutamic acid,A_3LV_T36
+HPos_sky54,L-Homoserine,A_3LV_T36
+HPos_sky55,L-Isoleucine,A_3LV_T36
+HPos_sky59,L-Methionine,A_3LV_T36
+HPos_sky60,L-Methionine S-oxide,A_3LV_T36
+HPos_sky64,L-Serine,A_3LV_T36
+HPos_sky71,N6-Acetyl-L-lysine,A_3LV_T36
+HPos_sky72,Ophthalmic acid,A_3LV_T36
+HPos_sky73,Pipecolic acid,A_3LV_T36
+HPos_sky74,Proline betaine,A_3LV_T36
+RP_14640,Methylthioadenosine,A_3LV_T36
+RP_20713,Riboflavin,A_3LV_T36
+RP_3959,L-Phenylalanine,A_3LV_T36
+RP_6828,L-Tryptophan,A_3LV_T36
+RP_7155,L-Kynurenine,A_3LV_T36
+RP_7669,Desthiobiotin,A_3LV_T36
+RP_sky1,Agmatine,A_3LV_T36
+RP_sky15,Nicotinic acid,A_3LV_T36
+RP_sky16,Pantothenic acid,A_3LV_T36
+RP_sky17,Pyridoxal,A_3LV_T36
+RP_sky21,Pyridoxine,A_3LV_T36
+RP_sky23,S-Adenosylhomocysteine,A_3LV_T36
+RP_sky24,S-Adenosylmethionine,A_3LV_T36
+RP_sky29,Xanthine,A_3LV_T36
+HNeg_1963,Thymidine,A_3LV_T48
+HNeg_1982,Uridine,A_3LV_T48
+HNeg_2117,D-Fructose 6-phosphate,A_3LV_T48
+HNeg_2173,Inosine,A_3LV_T48
+HNeg_2634,Trehalose,A_3LV_T48
+HNeg_2635,Sucrose,A_3LV_T48
+HNeg_3117,UDP-N-acetylglucosamine,A_3LV_T48
+HNeg_609,"Taurine, 2H4",A_3LV_T48
+HNeg_sky1,2-Ketoglutaric acid,A_3LV_T48
+HNeg_sky11,D-Gluconic acid,A_3LV_T48
+HNeg_sky19,L-Cysteic acid,A_3LV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_3LV_T48
+HNeg_sky27,Succinic acid,A_3LV_T48
+HNeg_sky32,Taurine,A_3LV_T48
+HNeg_sky36,Thymine,A_3LV_T48
+HNeg_sky6,Adenosine monophosphate,A_3LV_T48
+HPos_1007,Hypoxanthine,A_3LV_T48
+HPos_108,Glycine,A_3LV_T48
+HPos_1157,Ectoine,A_3LV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_3LV_T48
+HPos_1241,L-Glutamine,A_3LV_T48
+HPos_1251,L-Lysine,A_3LV_T48
+HPos_1419,L-Histidine,A_3LV_T48
+HPos_1496,5-Hydroxyectoine,A_3LV_T48
+HPos_1519,Betonicine,A_3LV_T48
+HPos_1848,Arsenobetaine,A_3LV_T48
+HPos_1926,L-Tyrosine,A_3LV_T48
+HPos_257,Sarcosine,A_3LV_T48
+HPos_261,L-Alanine,A_3LV_T48
+HPos_2837,Ergothioneine,A_3LV_T48
+HPos_3067,Cytidine,A_3LV_T48
+HPos_3196,Deoxyadenosine,A_3LV_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_3LV_T48
+HPos_3429,Adenosine,A_3LV_T48
+HPos_3670,Guanosine,A_3LV_T48
+HPos_556,Cytosine,A_3LV_T48
+HPos_5986,Glutathione disulfide,A_3LV_T48
+HPos_639,L-Proline,A_3LV_T48
+HPos_705,L-Threonine,A_3LV_T48
+HPos_954,L-Asparagine,A_3LV_T48
+HPos_962,L-Aspartic acid,A_3LV_T48
+HPos_978,Dimethylsulfoniopropionate,A_3LV_T48
+HPos_989,Adenine,A_3LV_T48
+HPos_sky16,Creatine,A_3LV_T48
+HPos_sky35,Glycine betaine,A_3LV_T48
+HPos_sky38,Guanine,A_3LV_T48
+HPos_sky45,Hypotaurine,A_3LV_T48
+HPos_sky51,L-Glutamic acid,A_3LV_T48
+HPos_sky54,L-Homoserine,A_3LV_T48
+HPos_sky55,L-Isoleucine,A_3LV_T48
+HPos_sky59,L-Methionine,A_3LV_T48
+HPos_sky60,L-Methionine S-oxide,A_3LV_T48
+HPos_sky64,L-Serine,A_3LV_T48
+HPos_sky71,N6-Acetyl-L-lysine,A_3LV_T48
+HPos_sky72,Ophthalmic acid,A_3LV_T48
+HPos_sky73,Pipecolic acid,A_3LV_T48
+HPos_sky74,Proline betaine,A_3LV_T48
+RP_14640,Methylthioadenosine,A_3LV_T48
+RP_20713,Riboflavin,A_3LV_T48
+RP_3959,L-Phenylalanine,A_3LV_T48
+RP_6828,L-Tryptophan,A_3LV_T48
+RP_7155,L-Kynurenine,A_3LV_T48
+RP_7669,Desthiobiotin,A_3LV_T48
+RP_sky1,Agmatine,A_3LV_T48
+RP_sky15,Nicotinic acid,A_3LV_T48
+RP_sky16,Pantothenic acid,A_3LV_T48
+RP_sky17,Pyridoxal,A_3LV_T48
+RP_sky21,Pyridoxine,A_3LV_T48
+RP_sky23,S-Adenosylhomocysteine,A_3LV_T48
+RP_sky24,S-Adenosylmethionine,A_3LV_T48
+RP_sky29,Xanthine,A_3LV_T48
+HNeg_1963,Thymidine,A_6HV_T0
+HNeg_1982,Uridine,A_6HV_T0
+HNeg_2117,D-Fructose 6-phosphate,A_6HV_T0
+HNeg_2173,Inosine,A_6HV_T0
+HNeg_2635,Sucrose,A_6HV_T0
+HNeg_3117,UDP-N-acetylglucosamine,A_6HV_T0
+HNeg_sky1,2-Ketoglutaric acid,A_6HV_T0
+HNeg_sky11,D-Gluconic acid,A_6HV_T0
+HNeg_sky19,L-Cysteic acid,A_6HV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_6HV_T0
+HNeg_sky32,Taurine,A_6HV_T0
+HNeg_sky6,Adenosine monophosphate,A_6HV_T0
+HPos_1157,Ectoine,A_6HV_T0
+HPos_1241,L-Glutamine,A_6HV_T0
+HPos_1848,Arsenobetaine,A_6HV_T0
+HPos_257,Sarcosine,A_6HV_T0
+HPos_261,L-Alanine,A_6HV_T0
+HPos_3067,Cytidine,A_6HV_T0
+HPos_3196,Deoxyadenosine,A_6HV_T0
+HPos_3429,Adenosine,A_6HV_T0
+HPos_3670,Guanosine,A_6HV_T0
+HPos_556,Cytosine,A_6HV_T0
+HPos_5986,Glutathione disulfide,A_6HV_T0
+HPos_705,L-Threonine,A_6HV_T0
+HPos_962,L-Aspartic acid,A_6HV_T0
+HPos_978,Dimethylsulfoniopropionate,A_6HV_T0
+HPos_989,Adenine,A_6HV_T0
+HPos_sky35,Glycine betaine,A_6HV_T0
+HPos_sky38,Guanine,A_6HV_T0
+HPos_sky45,Hypotaurine,A_6HV_T0
+HPos_sky51,L-Glutamic acid,A_6HV_T0
+HPos_sky54,L-Homoserine,A_6HV_T0
+HPos_sky55,L-Isoleucine,A_6HV_T0
+HPos_sky59,L-Methionine,A_6HV_T0
+HPos_sky60,L-Methionine S-oxide,A_6HV_T0
+HPos_sky64,L-Serine,A_6HV_T0
+HPos_sky71,N6-Acetyl-L-lysine,A_6HV_T0
+HPos_sky72,Ophthalmic acid,A_6HV_T0
+HPos_sky73,Pipecolic acid,A_6HV_T0
+HPos_sky74,Proline betaine,A_6HV_T0
+RP_14640,Methylthioadenosine,A_6HV_T0
+RP_20713,Riboflavin,A_6HV_T0
+RP_3959,L-Phenylalanine,A_6HV_T0
+RP_6828,L-Tryptophan,A_6HV_T0
+RP_7155,L-Kynurenine,A_6HV_T0
+RP_7669,Desthiobiotin,A_6HV_T0
+RP_sky1,Agmatine,A_6HV_T0
+RP_sky15,Nicotinic acid,A_6HV_T0
+RP_sky16,Pantothenic acid,A_6HV_T0
+RP_sky17,Pyridoxal,A_6HV_T0
+RP_sky21,Pyridoxine,A_6HV_T0
+RP_sky23,S-Adenosylhomocysteine,A_6HV_T0
+RP_sky24,S-Adenosylmethionine,A_6HV_T0
+HNeg_1963,Thymidine,A_6HV_T12
+HNeg_1982,Uridine,A_6HV_T12
+HNeg_2117,D-Fructose 6-phosphate,A_6HV_T12
+HNeg_2173,Inosine,A_6HV_T12
+HNeg_2634,Trehalose,A_6HV_T12
+HNeg_2635,Sucrose,A_6HV_T12
+HNeg_3117,UDP-N-acetylglucosamine,A_6HV_T12
+HNeg_sky1,2-Ketoglutaric acid,A_6HV_T12
+HNeg_sky11,D-Gluconic acid,A_6HV_T12
+HNeg_sky19,L-Cysteic acid,A_6HV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_6HV_T12
+HNeg_sky32,Taurine,A_6HV_T12
+HNeg_sky36,Thymine,A_6HV_T12
+HNeg_sky6,Adenosine monophosphate,A_6HV_T12
+HPos_1007,Hypoxanthine,A_6HV_T12
+HPos_1157,Ectoine,A_6HV_T12
+HPos_1241,L-Glutamine,A_6HV_T12
+HPos_1419,L-Histidine,A_6HV_T12
+HPos_1848,Arsenobetaine,A_6HV_T12
+HPos_1926,L-Tyrosine,A_6HV_T12
+HPos_257,Sarcosine,A_6HV_T12
+HPos_261,L-Alanine,A_6HV_T12
+HPos_3067,Cytidine,A_6HV_T12
+HPos_3196,Deoxyadenosine,A_6HV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_6HV_T12
+HPos_3429,Adenosine,A_6HV_T12
+HPos_3670,Guanosine,A_6HV_T12
+HPos_556,Cytosine,A_6HV_T12
+HPos_5986,Glutathione disulfide,A_6HV_T12
+HPos_639,L-Proline,A_6HV_T12
+HPos_705,L-Threonine,A_6HV_T12
+HPos_962,L-Aspartic acid,A_6HV_T12
+HPos_978,Dimethylsulfoniopropionate,A_6HV_T12
+HPos_989,Adenine,A_6HV_T12
+HPos_sky16,Creatine,A_6HV_T12
+HPos_sky35,Glycine betaine,A_6HV_T12
+HPos_sky38,Guanine,A_6HV_T12
+HPos_sky45,Hypotaurine,A_6HV_T12
+HPos_sky51,L-Glutamic acid,A_6HV_T12
+HPos_sky54,L-Homoserine,A_6HV_T12
+HPos_sky55,L-Isoleucine,A_6HV_T12
+HPos_sky59,L-Methionine,A_6HV_T12
+HPos_sky60,L-Methionine S-oxide,A_6HV_T12
+HPos_sky64,L-Serine,A_6HV_T12
+HPos_sky71,N6-Acetyl-L-lysine,A_6HV_T12
+HPos_sky72,Ophthalmic acid,A_6HV_T12
+HPos_sky73,Pipecolic acid,A_6HV_T12
+HPos_sky74,Proline betaine,A_6HV_T12
+RP_14640,Methylthioadenosine,A_6HV_T12
+RP_20713,Riboflavin,A_6HV_T12
+RP_3959,L-Phenylalanine,A_6HV_T12
+RP_6828,L-Tryptophan,A_6HV_T12
+RP_7155,L-Kynurenine,A_6HV_T12
+RP_7669,Desthiobiotin,A_6HV_T12
+RP_sky1,Agmatine,A_6HV_T12
+RP_sky16,Pantothenic acid,A_6HV_T12
+RP_sky17,Pyridoxal,A_6HV_T12
+RP_sky21,Pyridoxine,A_6HV_T12
+RP_sky23,S-Adenosylhomocysteine,A_6HV_T12
+RP_sky24,S-Adenosylmethionine,A_6HV_T12
+RP_sky29,Xanthine,A_6HV_T12
+HNeg_1963,Thymidine,A_6HV_T24
+HNeg_1982,Uridine,A_6HV_T24
+HNeg_2117,D-Fructose 6-phosphate,A_6HV_T24
+HNeg_2173,Inosine,A_6HV_T24
+HNeg_2634,Trehalose,A_6HV_T24
+HNeg_2635,Sucrose,A_6HV_T24
+HNeg_3117,UDP-N-acetylglucosamine,A_6HV_T24
+HNeg_sky1,2-Ketoglutaric acid,A_6HV_T24
+HNeg_sky11,D-Gluconic acid,A_6HV_T24
+HNeg_sky19,L-Cysteic acid,A_6HV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_6HV_T24
+HNeg_sky32,Taurine,A_6HV_T24
+HNeg_sky36,Thymine,A_6HV_T24
+HNeg_sky6,Adenosine monophosphate,A_6HV_T24
+HPos_1007,Hypoxanthine,A_6HV_T24
+HPos_1157,Ectoine,A_6HV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_6HV_T24
+HPos_1241,L-Glutamine,A_6HV_T24
+HPos_1496,5-Hydroxyectoine,A_6HV_T24
+HPos_1848,Arsenobetaine,A_6HV_T24
+HPos_257,Sarcosine,A_6HV_T24
+HPos_261,L-Alanine,A_6HV_T24
+HPos_3067,Cytidine,A_6HV_T24
+HPos_3196,Deoxyadenosine,A_6HV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_6HV_T24
+HPos_3429,Adenosine,A_6HV_T24
+HPos_3670,Guanosine,A_6HV_T24
+HPos_556,Cytosine,A_6HV_T24
+HPos_5986,Glutathione disulfide,A_6HV_T24
+HPos_639,L-Proline,A_6HV_T24
+HPos_705,L-Threonine,A_6HV_T24
+HPos_962,L-Aspartic acid,A_6HV_T24
+HPos_978,Dimethylsulfoniopropionate,A_6HV_T24
+HPos_989,Adenine,A_6HV_T24
+HPos_sky16,Creatine,A_6HV_T24
+HPos_sky35,Glycine betaine,A_6HV_T24
+HPos_sky38,Guanine,A_6HV_T24
+HPos_sky45,Hypotaurine,A_6HV_T24
+HPos_sky51,L-Glutamic acid,A_6HV_T24
+HPos_sky54,L-Homoserine,A_6HV_T24
+HPos_sky55,L-Isoleucine,A_6HV_T24
+HPos_sky59,L-Methionine,A_6HV_T24
+HPos_sky60,L-Methionine S-oxide,A_6HV_T24
+HPos_sky64,L-Serine,A_6HV_T24
+HPos_sky71,N6-Acetyl-L-lysine,A_6HV_T24
+HPos_sky72,Ophthalmic acid,A_6HV_T24
+HPos_sky73,Pipecolic acid,A_6HV_T24
+HPos_sky74,Proline betaine,A_6HV_T24
+RP_14640,Methylthioadenosine,A_6HV_T24
+RP_20713,Riboflavin,A_6HV_T24
+RP_3959,L-Phenylalanine,A_6HV_T24
+RP_6828,L-Tryptophan,A_6HV_T24
+RP_7155,L-Kynurenine,A_6HV_T24
+RP_7669,Desthiobiotin,A_6HV_T24
+RP_sky1,Agmatine,A_6HV_T24
+RP_sky15,Nicotinic acid,A_6HV_T24
+RP_sky16,Pantothenic acid,A_6HV_T24
+RP_sky17,Pyridoxal,A_6HV_T24
+RP_sky21,Pyridoxine,A_6HV_T24
+RP_sky23,S-Adenosylhomocysteine,A_6HV_T24
+RP_sky24,S-Adenosylmethionine,A_6HV_T24
+RP_sky29,Xanthine,A_6HV_T24
+HNeg_1963,Thymidine,A_6HV_T36
+HNeg_1982,Uridine,A_6HV_T36
+HNeg_2117,D-Fructose 6-phosphate,A_6HV_T36
+HNeg_2173,Inosine,A_6HV_T36
+HNeg_2634,Trehalose,A_6HV_T36
+HNeg_2635,Sucrose,A_6HV_T36
+HNeg_3117,UDP-N-acetylglucosamine,A_6HV_T36
+HNeg_609,"Taurine, 2H4",A_6HV_T36
+HNeg_sky1,2-Ketoglutaric acid,A_6HV_T36
+HNeg_sky11,D-Gluconic acid,A_6HV_T36
+HNeg_sky19,L-Cysteic acid,A_6HV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_6HV_T36
+HNeg_sky27,Succinic acid,A_6HV_T36
+HNeg_sky32,Taurine,A_6HV_T36
+HNeg_sky34,Threonic acid,A_6HV_T36
+HNeg_sky36,Thymine,A_6HV_T36
+HNeg_sky6,Adenosine monophosphate,A_6HV_T36
+HPos_1007,Hypoxanthine,A_6HV_T36
+HPos_1022,Trigonelline,A_6HV_T36
+HPos_108,Glycine,A_6HV_T36
+HPos_1157,Ectoine,A_6HV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_6HV_T36
+HPos_1241,L-Glutamine,A_6HV_T36
+HPos_1251,L-Lysine,A_6HV_T36
+HPos_1419,L-Histidine,A_6HV_T36
+HPos_1496,5-Hydroxyectoine,A_6HV_T36
+HPos_1519,Betonicine,A_6HV_T36
+HPos_1848,Arsenobetaine,A_6HV_T36
+HPos_1926,L-Tyrosine,A_6HV_T36
+HPos_261,L-Alanine,A_6HV_T36
+HPos_2837,Ergothioneine,A_6HV_T36
+HPos_3067,Cytidine,A_6HV_T36
+HPos_3196,Deoxyadenosine,A_6HV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_6HV_T36
+HPos_3429,Adenosine,A_6HV_T36
+HPos_3670,Guanosine,A_6HV_T36
+HPos_556,Cytosine,A_6HV_T36
+HPos_5986,Glutathione disulfide,A_6HV_T36
+HPos_639,L-Proline,A_6HV_T36
+HPos_705,L-Threonine,A_6HV_T36
+HPos_954,L-Asparagine,A_6HV_T36
+HPos_962,L-Aspartic acid,A_6HV_T36
+HPos_978,Dimethylsulfoniopropionate,A_6HV_T36
+HPos_989,Adenine,A_6HV_T36
+HPos_sky16,Creatine,A_6HV_T36
+HPos_sky35,Glycine betaine,A_6HV_T36
+HPos_sky38,Guanine,A_6HV_T36
+HPos_sky45,Hypotaurine,A_6HV_T36
+HPos_sky51,L-Glutamic acid,A_6HV_T36
+HPos_sky54,L-Homoserine,A_6HV_T36
+HPos_sky55,L-Isoleucine,A_6HV_T36
+HPos_sky59,L-Methionine,A_6HV_T36
+HPos_sky60,L-Methionine S-oxide,A_6HV_T36
+HPos_sky64,L-Serine,A_6HV_T36
+HPos_sky71,N6-Acetyl-L-lysine,A_6HV_T36
+HPos_sky72,Ophthalmic acid,A_6HV_T36
+HPos_sky73,Pipecolic acid,A_6HV_T36
+HPos_sky74,Proline betaine,A_6HV_T36
+RP_14640,Methylthioadenosine,A_6HV_T36
+RP_20713,Riboflavin,A_6HV_T36
+RP_3959,L-Phenylalanine,A_6HV_T36
+RP_6828,L-Tryptophan,A_6HV_T36
+RP_7155,L-Kynurenine,A_6HV_T36
+RP_7669,Desthiobiotin,A_6HV_T36
+RP_sky1,Agmatine,A_6HV_T36
+RP_sky15,Nicotinic acid,A_6HV_T36
+RP_sky16,Pantothenic acid,A_6HV_T36
+RP_sky17,Pyridoxal,A_6HV_T36
+RP_sky21,Pyridoxine,A_6HV_T36
+RP_sky23,S-Adenosylhomocysteine,A_6HV_T36
+RP_sky24,S-Adenosylmethionine,A_6HV_T36
+RP_sky29,Xanthine,A_6HV_T36
+HNeg_1963,Thymidine,A_6HV_T48
+HNeg_1982,Uridine,A_6HV_T48
+HNeg_2117,D-Fructose 6-phosphate,A_6HV_T48
+HNeg_2173,Inosine,A_6HV_T48
+HNeg_2634,Trehalose,A_6HV_T48
+HNeg_3117,UDP-N-acetylglucosamine,A_6HV_T48
+HNeg_sky1,2-Ketoglutaric acid,A_6HV_T48
+HNeg_sky11,D-Gluconic acid,A_6HV_T48
+HNeg_sky19,L-Cysteic acid,A_6HV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,A_6HV_T48
+HNeg_sky32,Taurine,A_6HV_T48
+HNeg_sky34,Threonic acid,A_6HV_T48
+HNeg_sky36,Thymine,A_6HV_T48
+HNeg_sky6,Adenosine monophosphate,A_6HV_T48
+HPos_1007,Hypoxanthine,A_6HV_T48
+HPos_108,Glycine,A_6HV_T48
+HPos_1157,Ectoine,A_6HV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,A_6HV_T48
+HPos_1241,L-Glutamine,A_6HV_T48
+HPos_1419,L-Histidine,A_6HV_T48
+HPos_1496,5-Hydroxyectoine,A_6HV_T48
+HPos_1519,Betonicine,A_6HV_T48
+HPos_1848,Arsenobetaine,A_6HV_T48
+HPos_1926,L-Tyrosine,A_6HV_T48
+HPos_257,Sarcosine,A_6HV_T48
+HPos_261,L-Alanine,A_6HV_T48
+HPos_2837,Ergothioneine,A_6HV_T48
+HPos_3067,Cytidine,A_6HV_T48
+HPos_3196,Deoxyadenosine,A_6HV_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_6HV_T48
+HPos_3429,Adenosine,A_6HV_T48
+HPos_3670,Guanosine,A_6HV_T48
+HPos_556,Cytosine,A_6HV_T48
+HPos_5986,Glutathione disulfide,A_6HV_T48
+HPos_639,L-Proline,A_6HV_T48
+HPos_705,L-Threonine,A_6HV_T48
+HPos_954,L-Asparagine,A_6HV_T48
+HPos_962,L-Aspartic acid,A_6HV_T48
+HPos_978,Dimethylsulfoniopropionate,A_6HV_T48
+HPos_989,Adenine,A_6HV_T48
+HPos_sky16,Creatine,A_6HV_T48
+HPos_sky35,Glycine betaine,A_6HV_T48
+HPos_sky38,Guanine,A_6HV_T48
+HPos_sky45,Hypotaurine,A_6HV_T48
+HPos_sky51,L-Glutamic acid,A_6HV_T48
+HPos_sky54,L-Homoserine,A_6HV_T48
+HPos_sky55,L-Isoleucine,A_6HV_T48
+HPos_sky59,L-Methionine,A_6HV_T48
+HPos_sky60,L-Methionine S-oxide,A_6HV_T48
+HPos_sky64,L-Serine,A_6HV_T48
+HPos_sky71,N6-Acetyl-L-lysine,A_6HV_T48
+HPos_sky73,Pipecolic acid,A_6HV_T48
+HPos_sky74,Proline betaine,A_6HV_T48
+RP_14640,Methylthioadenosine,A_6HV_T48
+RP_20713,Riboflavin,A_6HV_T48
+RP_3959,L-Phenylalanine,A_6HV_T48
+RP_6828,L-Tryptophan,A_6HV_T48
+RP_7155,L-Kynurenine,A_6HV_T48
+RP_7669,Desthiobiotin,A_6HV_T48
+RP_sky15,Nicotinic acid,A_6HV_T48
+RP_sky16,Pantothenic acid,A_6HV_T48
+RP_sky17,Pyridoxal,A_6HV_T48
+RP_sky21,Pyridoxine,A_6HV_T48
+RP_sky23,S-Adenosylhomocysteine,A_6HV_T48
+RP_sky24,S-Adenosylmethionine,A_6HV_T48
+RP_sky29,Xanthine,A_6HV_T48
+HNeg_1982,Uridine,A_9V_T0
+HNeg_sky32,Taurine,A_9V_T0
+HNeg_sky36,Thymine,A_9V_T0
+HPos_3196,Deoxyadenosine,A_9V_T0
+HPos_3236,2-O-alpha-D-Glucosylglycerol,A_9V_T0
+HPos_3429,Adenosine,A_9V_T0
+HPos_sky55,L-Isoleucine,A_9V_T0
+HPos_sky60,L-Methionine S-oxide,A_9V_T0
+HPos_sky71,N6-Acetyl-L-lysine,A_9V_T0
+RP_6828,L-Tryptophan,A_9V_T0
+RP_7155,L-Kynurenine,A_9V_T0
+HNeg_1982,Uridine,B_1C_T0
+HNeg_2173,Inosine,B_1C_T0
+HNeg_2635,Sucrose,B_1C_T0
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T0
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T0
+HNeg_sky11,D-Gluconic acid,B_1C_T0
+HNeg_sky19,L-Cysteic acid,B_1C_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T0
+HNeg_sky32,Taurine,B_1C_T0
+HNeg_sky6,Adenosine monophosphate,B_1C_T0
+HPos_1157,Ectoine,B_1C_T0
+HPos_1241,L-Glutamine,B_1C_T0
+HPos_1419,L-Histidine,B_1C_T0
+HPos_1496,5-Hydroxyectoine,B_1C_T0
+HPos_1519,Betonicine,B_1C_T0
+HPos_1848,Arsenobetaine,B_1C_T0
+HPos_1926,L-Tyrosine,B_1C_T0
+HPos_257,Sarcosine,B_1C_T0
+HPos_261,L-Alanine,B_1C_T0
+HPos_2837,Ergothioneine,B_1C_T0
+HPos_3067,Cytidine,B_1C_T0
+HPos_3196,Deoxyadenosine,B_1C_T0
+HPos_3429,Adenosine,B_1C_T0
+HPos_3670,Guanosine,B_1C_T0
+HPos_5986,Glutathione disulfide,B_1C_T0
+HPos_639,L-Proline,B_1C_T0
+HPos_705,L-Threonine,B_1C_T0
+HPos_962,L-Aspartic acid,B_1C_T0
+HPos_978,Dimethylsulfoniopropionate,B_1C_T0
+HPos_989,Adenine,B_1C_T0
+HPos_sky16,Creatine,B_1C_T0
+HPos_sky35,Glycine betaine,B_1C_T0
+HPos_sky38,Guanine,B_1C_T0
+HPos_sky45,Hypotaurine,B_1C_T0
+HPos_sky51,L-Glutamic acid,B_1C_T0
+HPos_sky54,L-Homoserine,B_1C_T0
+HPos_sky59,L-Methionine,B_1C_T0
+HPos_sky60,L-Methionine S-oxide,B_1C_T0
+HPos_sky64,L-Serine,B_1C_T0
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T0
+HPos_sky72,Ophthalmic acid,B_1C_T0
+HPos_sky73,Pipecolic acid,B_1C_T0
+HPos_sky74,Proline betaine,B_1C_T0
+RP_14640,Methylthioadenosine,B_1C_T0
+RP_20713,Riboflavin,B_1C_T0
+RP_3959,L-Phenylalanine,B_1C_T0
+RP_6828,L-Tryptophan,B_1C_T0
+RP_7155,L-Kynurenine,B_1C_T0
+RP_7669,Desthiobiotin,B_1C_T0
+RP_sky1,Agmatine,B_1C_T0
+RP_sky16,Pantothenic acid,B_1C_T0
+RP_sky17,Pyridoxal,B_1C_T0
+RP_sky21,Pyridoxine,B_1C_T0
+RP_sky23,S-Adenosylhomocysteine,B_1C_T0
+RP_sky24,S-Adenosylmethionine,B_1C_T0
+HNeg_1982,Uridine,B_1C_T12
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T12
+HNeg_2173,Inosine,B_1C_T12
+HNeg_2634,Trehalose,B_1C_T12
+HNeg_2635,Sucrose,B_1C_T12
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T12
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T12
+HNeg_sky11,D-Gluconic acid,B_1C_T12
+HNeg_sky19,L-Cysteic acid,B_1C_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T12
+HNeg_sky32,Taurine,B_1C_T12
+HNeg_sky36,Thymine,B_1C_T12
+HNeg_sky6,Adenosine monophosphate,B_1C_T12
+HPos_1007,Hypoxanthine,B_1C_T12
+HPos_1022,Trigonelline,B_1C_T12
+HPos_108,Glycine,B_1C_T12
+HPos_1157,Ectoine,B_1C_T12
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_1C_T12
+HPos_1241,L-Glutamine,B_1C_T12
+HPos_1419,L-Histidine,B_1C_T12
+HPos_1496,5-Hydroxyectoine,B_1C_T12
+HPos_1519,Betonicine,B_1C_T12
+HPos_1848,Arsenobetaine,B_1C_T12
+HPos_1926,L-Tyrosine,B_1C_T12
+HPos_257,Sarcosine,B_1C_T12
+HPos_261,L-Alanine,B_1C_T12
+HPos_3067,Cytidine,B_1C_T12
+HPos_3196,Deoxyadenosine,B_1C_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T12
+HPos_3429,Adenosine,B_1C_T12
+HPos_3670,Guanosine,B_1C_T12
+HPos_556,Cytosine,B_1C_T12
+HPos_5986,Glutathione disulfide,B_1C_T12
+HPos_639,L-Proline,B_1C_T12
+HPos_705,L-Threonine,B_1C_T12
+HPos_962,L-Aspartic acid,B_1C_T12
+HPos_978,Dimethylsulfoniopropionate,B_1C_T12
+HPos_989,Adenine,B_1C_T12
+HPos_sky16,Creatine,B_1C_T12
+HPos_sky35,Glycine betaine,B_1C_T12
+HPos_sky38,Guanine,B_1C_T12
+HPos_sky45,Hypotaurine,B_1C_T12
+HPos_sky51,L-Glutamic acid,B_1C_T12
+HPos_sky54,L-Homoserine,B_1C_T12
+HPos_sky55,L-Isoleucine,B_1C_T12
+HPos_sky59,L-Methionine,B_1C_T12
+HPos_sky60,L-Methionine S-oxide,B_1C_T12
+HPos_sky64,L-Serine,B_1C_T12
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T12
+HPos_sky72,Ophthalmic acid,B_1C_T12
+HPos_sky73,Pipecolic acid,B_1C_T12
+HPos_sky74,Proline betaine,B_1C_T12
+RP_14640,Methylthioadenosine,B_1C_T12
+RP_20713,Riboflavin,B_1C_T12
+RP_3959,L-Phenylalanine,B_1C_T12
+RP_6828,L-Tryptophan,B_1C_T12
+RP_7155,L-Kynurenine,B_1C_T12
+RP_7669,Desthiobiotin,B_1C_T12
+RP_sky16,Pantothenic acid,B_1C_T12
+RP_sky17,Pyridoxal,B_1C_T12
+RP_sky21,Pyridoxine,B_1C_T12
+RP_sky23,S-Adenosylhomocysteine,B_1C_T12
+RP_sky24,S-Adenosylmethionine,B_1C_T12
+RP_sky29,Xanthine,B_1C_T12
+HNeg_1982,Uridine,B_1C_T18
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T18
+HNeg_2173,Inosine,B_1C_T18
+HNeg_2634,Trehalose,B_1C_T18
+HNeg_2635,Sucrose,B_1C_T18
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T18
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T18
+HNeg_sky11,D-Gluconic acid,B_1C_T18
+HNeg_sky19,L-Cysteic acid,B_1C_T18
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T18
+HNeg_sky32,Taurine,B_1C_T18
+HNeg_sky6,Adenosine monophosphate,B_1C_T18
+HPos_1007,Hypoxanthine,B_1C_T18
+HPos_108,Glycine,B_1C_T18
+HPos_1157,Ectoine,B_1C_T18
+HPos_1241,L-Glutamine,B_1C_T18
+HPos_1496,5-Hydroxyectoine,B_1C_T18
+HPos_1848,Arsenobetaine,B_1C_T18
+HPos_1926,L-Tyrosine,B_1C_T18
+HPos_261,L-Alanine,B_1C_T18
+HPos_3067,Cytidine,B_1C_T18
+HPos_3196,Deoxyadenosine,B_1C_T18
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T18
+HPos_3429,Adenosine,B_1C_T18
+HPos_3670,Guanosine,B_1C_T18
+HPos_5986,Glutathione disulfide,B_1C_T18
+HPos_639,L-Proline,B_1C_T18
+HPos_705,L-Threonine,B_1C_T18
+HPos_954,L-Asparagine,B_1C_T18
+HPos_962,L-Aspartic acid,B_1C_T18
+HPos_978,Dimethylsulfoniopropionate,B_1C_T18
+HPos_989,Adenine,B_1C_T18
+HPos_sky16,Creatine,B_1C_T18
+HPos_sky35,Glycine betaine,B_1C_T18
+HPos_sky38,Guanine,B_1C_T18
+HPos_sky45,Hypotaurine,B_1C_T18
+HPos_sky51,L-Glutamic acid,B_1C_T18
+HPos_sky54,L-Homoserine,B_1C_T18
+HPos_sky55,L-Isoleucine,B_1C_T18
+HPos_sky59,L-Methionine,B_1C_T18
+HPos_sky60,L-Methionine S-oxide,B_1C_T18
+HPos_sky64,L-Serine,B_1C_T18
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T18
+HPos_sky72,Ophthalmic acid,B_1C_T18
+HPos_sky73,Pipecolic acid,B_1C_T18
+HPos_sky74,Proline betaine,B_1C_T18
+RP_14640,Methylthioadenosine,B_1C_T18
+RP_20713,Riboflavin,B_1C_T18
+RP_3959,L-Phenylalanine,B_1C_T18
+RP_6828,L-Tryptophan,B_1C_T18
+RP_7155,L-Kynurenine,B_1C_T18
+RP_7669,Desthiobiotin,B_1C_T18
+RP_sky16,Pantothenic acid,B_1C_T18
+RP_sky17,Pyridoxal,B_1C_T18
+RP_sky21,Pyridoxine,B_1C_T18
+RP_sky23,S-Adenosylhomocysteine,B_1C_T18
+RP_sky24,S-Adenosylmethionine,B_1C_T18
+RP_sky29,Xanthine,B_1C_T18
+HNeg_1963,Thymidine,B_1C_T24
+HNeg_1982,Uridine,B_1C_T24
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T24
+HNeg_2173,Inosine,B_1C_T24
+HNeg_2634,Trehalose,B_1C_T24
+HNeg_2635,Sucrose,B_1C_T24
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T24
+HNeg_609,"Taurine, 2H4",B_1C_T24
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T24
+HNeg_sky11,D-Gluconic acid,B_1C_T24
+HNeg_sky19,L-Cysteic acid,B_1C_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T24
+HNeg_sky27,Succinic acid,B_1C_T24
+HNeg_sky32,Taurine,B_1C_T24
+HNeg_sky34,Threonic acid,B_1C_T24
+HNeg_sky36,Thymine,B_1C_T24
+HNeg_sky6,Adenosine monophosphate,B_1C_T24
+HPos_1007,Hypoxanthine,B_1C_T24
+HPos_108,Glycine,B_1C_T24
+HPos_1157,Ectoine,B_1C_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_1C_T24
+HPos_1241,L-Glutamine,B_1C_T24
+HPos_1251,L-Lysine,B_1C_T24
+HPos_1419,L-Histidine,B_1C_T24
+HPos_1496,5-Hydroxyectoine,B_1C_T24
+HPos_1519,Betonicine,B_1C_T24
+HPos_1848,Arsenobetaine,B_1C_T24
+HPos_1926,L-Tyrosine,B_1C_T24
+HPos_257,Sarcosine,B_1C_T24
+HPos_261,L-Alanine,B_1C_T24
+HPos_2837,Ergothioneine,B_1C_T24
+HPos_3067,Cytidine,B_1C_T24
+HPos_3196,Deoxyadenosine,B_1C_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T24
+HPos_3429,Adenosine,B_1C_T24
+HPos_3670,Guanosine,B_1C_T24
+HPos_556,Cytosine,B_1C_T24
+HPos_5986,Glutathione disulfide,B_1C_T24
+HPos_639,L-Proline,B_1C_T24
+HPos_705,L-Threonine,B_1C_T24
+HPos_954,L-Asparagine,B_1C_T24
+HPos_962,L-Aspartic acid,B_1C_T24
+HPos_978,Dimethylsulfoniopropionate,B_1C_T24
+HPos_989,Adenine,B_1C_T24
+HPos_sky16,Creatine,B_1C_T24
+HPos_sky35,Glycine betaine,B_1C_T24
+HPos_sky38,Guanine,B_1C_T24
+HPos_sky45,Hypotaurine,B_1C_T24
+HPos_sky51,L-Glutamic acid,B_1C_T24
+HPos_sky54,L-Homoserine,B_1C_T24
+HPos_sky55,L-Isoleucine,B_1C_T24
+HPos_sky59,L-Methionine,B_1C_T24
+HPos_sky60,L-Methionine S-oxide,B_1C_T24
+HPos_sky64,L-Serine,B_1C_T24
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T24
+HPos_sky72,Ophthalmic acid,B_1C_T24
+HPos_sky73,Pipecolic acid,B_1C_T24
+HPos_sky74,Proline betaine,B_1C_T24
+RP_14640,Methylthioadenosine,B_1C_T24
+RP_20713,Riboflavin,B_1C_T24
+RP_3959,L-Phenylalanine,B_1C_T24
+RP_6828,L-Tryptophan,B_1C_T24
+RP_7155,L-Kynurenine,B_1C_T24
+RP_7669,Desthiobiotin,B_1C_T24
+RP_sky1,Agmatine,B_1C_T24
+RP_sky16,Pantothenic acid,B_1C_T24
+RP_sky17,Pyridoxal,B_1C_T24
+RP_sky21,Pyridoxine,B_1C_T24
+RP_sky23,S-Adenosylhomocysteine,B_1C_T24
+RP_sky24,S-Adenosylmethionine,B_1C_T24
+HNeg_1963,Thymidine,B_1C_T30
+HNeg_1982,Uridine,B_1C_T30
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T30
+HNeg_2173,Inosine,B_1C_T30
+HNeg_2634,Trehalose,B_1C_T30
+HNeg_2635,Sucrose,B_1C_T30
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T30
+HNeg_609,"Taurine, 2H4",B_1C_T30
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T30
+HNeg_sky11,D-Gluconic acid,B_1C_T30
+HNeg_sky19,L-Cysteic acid,B_1C_T30
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T30
+HNeg_sky32,Taurine,B_1C_T30
+HNeg_sky34,Threonic acid,B_1C_T30
+HNeg_sky6,Adenosine monophosphate,B_1C_T30
+HPos_1007,Hypoxanthine,B_1C_T30
+HPos_108,Glycine,B_1C_T30
+HPos_1157,Ectoine,B_1C_T30
+HPos_1241,L-Glutamine,B_1C_T30
+HPos_1519,Betonicine,B_1C_T30
+HPos_1848,Arsenobetaine,B_1C_T30
+HPos_1926,L-Tyrosine,B_1C_T30
+HPos_257,Sarcosine,B_1C_T30
+HPos_261,L-Alanine,B_1C_T30
+HPos_3067,Cytidine,B_1C_T30
+HPos_3196,Deoxyadenosine,B_1C_T30
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T30
+HPos_3429,Adenosine,B_1C_T30
+HPos_3670,Guanosine,B_1C_T30
+HPos_556,Cytosine,B_1C_T30
+HPos_5986,Glutathione disulfide,B_1C_T30
+HPos_639,L-Proline,B_1C_T30
+HPos_705,L-Threonine,B_1C_T30
+HPos_954,L-Asparagine,B_1C_T30
+HPos_962,L-Aspartic acid,B_1C_T30
+HPos_978,Dimethylsulfoniopropionate,B_1C_T30
+HPos_989,Adenine,B_1C_T30
+HPos_sky35,Glycine betaine,B_1C_T30
+HPos_sky38,Guanine,B_1C_T30
+HPos_sky45,Hypotaurine,B_1C_T30
+HPos_sky51,L-Glutamic acid,B_1C_T30
+HPos_sky54,L-Homoserine,B_1C_T30
+HPos_sky59,L-Methionine,B_1C_T30
+HPos_sky60,L-Methionine S-oxide,B_1C_T30
+HPos_sky64,L-Serine,B_1C_T30
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T30
+HPos_sky72,Ophthalmic acid,B_1C_T30
+HPos_sky73,Pipecolic acid,B_1C_T30
+HPos_sky74,Proline betaine,B_1C_T30
+RP_14640,Methylthioadenosine,B_1C_T30
+RP_20713,Riboflavin,B_1C_T30
+RP_3959,L-Phenylalanine,B_1C_T30
+RP_6828,L-Tryptophan,B_1C_T30
+RP_7155,L-Kynurenine,B_1C_T30
+RP_7669,Desthiobiotin,B_1C_T30
+RP_sky1,Agmatine,B_1C_T30
+RP_sky16,Pantothenic acid,B_1C_T30
+RP_sky17,Pyridoxal,B_1C_T30
+RP_sky21,Pyridoxine,B_1C_T30
+RP_sky23,S-Adenosylhomocysteine,B_1C_T30
+RP_sky24,S-Adenosylmethionine,B_1C_T30
+RP_sky29,Xanthine,B_1C_T30
+HNeg_1963,Thymidine,B_1C_T36
+HNeg_1982,Uridine,B_1C_T36
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T36
+HNeg_2173,Inosine,B_1C_T36
+HNeg_2634,Trehalose,B_1C_T36
+HNeg_2635,Sucrose,B_1C_T36
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T36
+HNeg_609,"Taurine, 2H4",B_1C_T36
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T36
+HNeg_sky11,D-Gluconic acid,B_1C_T36
+HNeg_sky19,L-Cysteic acid,B_1C_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T36
+HNeg_sky27,Succinic acid,B_1C_T36
+HNeg_sky32,Taurine,B_1C_T36
+HNeg_sky34,Threonic acid,B_1C_T36
+HNeg_sky36,Thymine,B_1C_T36
+HNeg_sky6,Adenosine monophosphate,B_1C_T36
+HPos_1007,Hypoxanthine,B_1C_T36
+HPos_1022,Trigonelline,B_1C_T36
+HPos_108,Glycine,B_1C_T36
+HPos_1157,Ectoine,B_1C_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_1C_T36
+HPos_1241,L-Glutamine,B_1C_T36
+HPos_1251,L-Lysine,B_1C_T36
+HPos_1419,L-Histidine,B_1C_T36
+HPos_1496,5-Hydroxyectoine,B_1C_T36
+HPos_1519,Betonicine,B_1C_T36
+HPos_1848,Arsenobetaine,B_1C_T36
+HPos_1926,L-Tyrosine,B_1C_T36
+HPos_257,Sarcosine,B_1C_T36
+HPos_261,L-Alanine,B_1C_T36
+HPos_2837,Ergothioneine,B_1C_T36
+HPos_3067,Cytidine,B_1C_T36
+HPos_3196,Deoxyadenosine,B_1C_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T36
+HPos_3429,Adenosine,B_1C_T36
+HPos_3670,Guanosine,B_1C_T36
+HPos_556,Cytosine,B_1C_T36
+HPos_5986,Glutathione disulfide,B_1C_T36
+HPos_639,L-Proline,B_1C_T36
+HPos_705,L-Threonine,B_1C_T36
+HPos_954,L-Asparagine,B_1C_T36
+HPos_962,L-Aspartic acid,B_1C_T36
+HPos_978,Dimethylsulfoniopropionate,B_1C_T36
+HPos_989,Adenine,B_1C_T36
+HPos_sky16,Creatine,B_1C_T36
+HPos_sky35,Glycine betaine,B_1C_T36
+HPos_sky38,Guanine,B_1C_T36
+HPos_sky45,Hypotaurine,B_1C_T36
+HPos_sky51,L-Glutamic acid,B_1C_T36
+HPos_sky54,L-Homoserine,B_1C_T36
+HPos_sky55,L-Isoleucine,B_1C_T36
+HPos_sky59,L-Methionine,B_1C_T36
+HPos_sky60,L-Methionine S-oxide,B_1C_T36
+HPos_sky64,L-Serine,B_1C_T36
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T36
+HPos_sky72,Ophthalmic acid,B_1C_T36
+HPos_sky73,Pipecolic acid,B_1C_T36
+HPos_sky74,Proline betaine,B_1C_T36
+RP_14640,Methylthioadenosine,B_1C_T36
+RP_20713,Riboflavin,B_1C_T36
+RP_3959,L-Phenylalanine,B_1C_T36
+RP_6828,L-Tryptophan,B_1C_T36
+RP_7155,L-Kynurenine,B_1C_T36
+RP_7669,Desthiobiotin,B_1C_T36
+RP_sky1,Agmatine,B_1C_T36
+RP_sky16,Pantothenic acid,B_1C_T36
+RP_sky17,Pyridoxal,B_1C_T36
+RP_sky21,Pyridoxine,B_1C_T36
+RP_sky23,S-Adenosylhomocysteine,B_1C_T36
+RP_sky24,S-Adenosylmethionine,B_1C_T36
+RP_sky29,Xanthine,B_1C_T36
+HNeg_1982,Uridine,B_1C_T42
+HNeg_2173,Inosine,B_1C_T42
+HNeg_2634,Trehalose,B_1C_T42
+HNeg_2635,Sucrose,B_1C_T42
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T42
+HNeg_609,"Taurine, 2H4",B_1C_T42
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T42
+HNeg_sky11,D-Gluconic acid,B_1C_T42
+HNeg_sky19,L-Cysteic acid,B_1C_T42
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T42
+HNeg_sky32,Taurine,B_1C_T42
+HNeg_sky36,Thymine,B_1C_T42
+HPos_1007,Hypoxanthine,B_1C_T42
+HPos_108,Glycine,B_1C_T42
+HPos_1157,Ectoine,B_1C_T42
+HPos_1241,L-Glutamine,B_1C_T42
+HPos_1848,Arsenobetaine,B_1C_T42
+HPos_1926,L-Tyrosine,B_1C_T42
+HPos_257,Sarcosine,B_1C_T42
+HPos_261,L-Alanine,B_1C_T42
+HPos_3067,Cytidine,B_1C_T42
+HPos_3196,Deoxyadenosine,B_1C_T42
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T42
+HPos_3429,Adenosine,B_1C_T42
+HPos_3670,Guanosine,B_1C_T42
+HPos_556,Cytosine,B_1C_T42
+HPos_5986,Glutathione disulfide,B_1C_T42
+HPos_639,L-Proline,B_1C_T42
+HPos_705,L-Threonine,B_1C_T42
+HPos_954,L-Asparagine,B_1C_T42
+HPos_962,L-Aspartic acid,B_1C_T42
+HPos_978,Dimethylsulfoniopropionate,B_1C_T42
+HPos_989,Adenine,B_1C_T42
+HPos_sky16,Creatine,B_1C_T42
+HPos_sky35,Glycine betaine,B_1C_T42
+HPos_sky38,Guanine,B_1C_T42
+HPos_sky45,Hypotaurine,B_1C_T42
+HPos_sky51,L-Glutamic acid,B_1C_T42
+HPos_sky54,L-Homoserine,B_1C_T42
+HPos_sky55,L-Isoleucine,B_1C_T42
+HPos_sky59,L-Methionine,B_1C_T42
+HPos_sky60,L-Methionine S-oxide,B_1C_T42
+HPos_sky64,L-Serine,B_1C_T42
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T42
+HPos_sky72,Ophthalmic acid,B_1C_T42
+HPos_sky73,Pipecolic acid,B_1C_T42
+HPos_sky74,Proline betaine,B_1C_T42
+RP_14640,Methylthioadenosine,B_1C_T42
+RP_20713,Riboflavin,B_1C_T42
+RP_3959,L-Phenylalanine,B_1C_T42
+RP_6828,L-Tryptophan,B_1C_T42
+RP_7155,L-Kynurenine,B_1C_T42
+RP_7669,Desthiobiotin,B_1C_T42
+RP_sky1,Agmatine,B_1C_T42
+RP_sky16,Pantothenic acid,B_1C_T42
+RP_sky17,Pyridoxal,B_1C_T42
+RP_sky21,Pyridoxine,B_1C_T42
+RP_sky23,S-Adenosylhomocysteine,B_1C_T42
+RP_sky24,S-Adenosylmethionine,B_1C_T42
+HNeg_1963,Thymidine,B_1C_T48
+HNeg_1982,Uridine,B_1C_T48
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T48
+HNeg_2173,Inosine,B_1C_T48
+HNeg_2634,Trehalose,B_1C_T48
+HNeg_2635,Sucrose,B_1C_T48
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T48
+HNeg_609,"Taurine, 2H4",B_1C_T48
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T48
+HNeg_sky11,D-Gluconic acid,B_1C_T48
+HNeg_sky19,L-Cysteic acid,B_1C_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T48
+HNeg_sky32,Taurine,B_1C_T48
+HNeg_sky34,Threonic acid,B_1C_T48
+HNeg_sky36,Thymine,B_1C_T48
+HNeg_sky6,Adenosine monophosphate,B_1C_T48
+HPos_1007,Hypoxanthine,B_1C_T48
+HPos_108,Glycine,B_1C_T48
+HPos_1157,Ectoine,B_1C_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_1C_T48
+HPos_1241,L-Glutamine,B_1C_T48
+HPos_1251,L-Lysine,B_1C_T48
+HPos_1419,L-Histidine,B_1C_T48
+HPos_1496,5-Hydroxyectoine,B_1C_T48
+HPos_1519,Betonicine,B_1C_T48
+HPos_1848,Arsenobetaine,B_1C_T48
+HPos_1926,L-Tyrosine,B_1C_T48
+HPos_257,Sarcosine,B_1C_T48
+HPos_261,L-Alanine,B_1C_T48
+HPos_2837,Ergothioneine,B_1C_T48
+HPos_3067,Cytidine,B_1C_T48
+HPos_3196,Deoxyadenosine,B_1C_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_1C_T48
+HPos_3429,Adenosine,B_1C_T48
+HPos_3670,Guanosine,B_1C_T48
+HPos_556,Cytosine,B_1C_T48
+HPos_5986,Glutathione disulfide,B_1C_T48
+HPos_639,L-Proline,B_1C_T48
+HPos_705,L-Threonine,B_1C_T48
+HPos_954,L-Asparagine,B_1C_T48
+HPos_962,L-Aspartic acid,B_1C_T48
+HPos_978,Dimethylsulfoniopropionate,B_1C_T48
+HPos_989,Adenine,B_1C_T48
+HPos_sky16,Creatine,B_1C_T48
+HPos_sky35,Glycine betaine,B_1C_T48
+HPos_sky38,Guanine,B_1C_T48
+HPos_sky45,Hypotaurine,B_1C_T48
+HPos_sky51,L-Glutamic acid,B_1C_T48
+HPos_sky54,L-Homoserine,B_1C_T48
+HPos_sky55,L-Isoleucine,B_1C_T48
+HPos_sky59,L-Methionine,B_1C_T48
+HPos_sky60,L-Methionine S-oxide,B_1C_T48
+HPos_sky64,L-Serine,B_1C_T48
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T48
+HPos_sky72,Ophthalmic acid,B_1C_T48
+HPos_sky73,Pipecolic acid,B_1C_T48
+HPos_sky74,Proline betaine,B_1C_T48
+RP_14640,Methylthioadenosine,B_1C_T48
+RP_20713,Riboflavin,B_1C_T48
+RP_3959,L-Phenylalanine,B_1C_T48
+RP_6828,L-Tryptophan,B_1C_T48
+RP_7155,L-Kynurenine,B_1C_T48
+RP_7669,Desthiobiotin,B_1C_T48
+RP_sky1,Agmatine,B_1C_T48
+RP_sky16,Pantothenic acid,B_1C_T48
+RP_sky17,Pyridoxal,B_1C_T48
+RP_sky21,Pyridoxine,B_1C_T48
+RP_sky23,S-Adenosylhomocysteine,B_1C_T48
+RP_sky24,S-Adenosylmethionine,B_1C_T48
+RP_sky29,Xanthine,B_1C_T48
+HNeg_1982,Uridine,B_1C_T6
+HNeg_2117,D-Fructose 6-phosphate,B_1C_T6
+HNeg_2173,Inosine,B_1C_T6
+HNeg_2634,Trehalose,B_1C_T6
+HNeg_2635,Sucrose,B_1C_T6
+HNeg_3117,UDP-N-acetylglucosamine,B_1C_T6
+HNeg_sky1,2-Ketoglutaric acid,B_1C_T6
+HNeg_sky11,D-Gluconic acid,B_1C_T6
+HNeg_sky19,L-Cysteic acid,B_1C_T6
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_1C_T6
+HNeg_sky32,Taurine,B_1C_T6
+HNeg_sky6,Adenosine monophosphate,B_1C_T6
+HPos_108,Glycine,B_1C_T6
+HPos_1157,Ectoine,B_1C_T6
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_1C_T6
+HPos_1241,L-Glutamine,B_1C_T6
+HPos_1419,L-Histidine,B_1C_T6
+HPos_1496,5-Hydroxyectoine,B_1C_T6
+HPos_1519,Betonicine,B_1C_T6
+HPos_1848,Arsenobetaine,B_1C_T6
+HPos_1926,L-Tyrosine,B_1C_T6
+HPos_257,Sarcosine,B_1C_T6
+HPos_261,L-Alanine,B_1C_T6
+HPos_3067,Cytidine,B_1C_T6
+HPos_3196,Deoxyadenosine,B_1C_T6
+HPos_3429,Adenosine,B_1C_T6
+HPos_3670,Guanosine,B_1C_T6
+HPos_5986,Glutathione disulfide,B_1C_T6
+HPos_639,L-Proline,B_1C_T6
+HPos_705,L-Threonine,B_1C_T6
+HPos_962,L-Aspartic acid,B_1C_T6
+HPos_978,Dimethylsulfoniopropionate,B_1C_T6
+HPos_989,Adenine,B_1C_T6
+HPos_sky16,Creatine,B_1C_T6
+HPos_sky35,Glycine betaine,B_1C_T6
+HPos_sky38,Guanine,B_1C_T6
+HPos_sky45,Hypotaurine,B_1C_T6
+HPos_sky51,L-Glutamic acid,B_1C_T6
+HPos_sky55,L-Isoleucine,B_1C_T6
+HPos_sky59,L-Methionine,B_1C_T6
+HPos_sky60,L-Methionine S-oxide,B_1C_T6
+HPos_sky64,L-Serine,B_1C_T6
+HPos_sky71,N6-Acetyl-L-lysine,B_1C_T6
+HPos_sky72,Ophthalmic acid,B_1C_T6
+HPos_sky73,Pipecolic acid,B_1C_T6
+HPos_sky74,Proline betaine,B_1C_T6
+RP_14640,Methylthioadenosine,B_1C_T6
+RP_20713,Riboflavin,B_1C_T6
+RP_3959,L-Phenylalanine,B_1C_T6
+RP_6828,L-Tryptophan,B_1C_T6
+RP_7155,L-Kynurenine,B_1C_T6
+RP_7669,Desthiobiotin,B_1C_T6
+RP_sky1,Agmatine,B_1C_T6
+RP_sky16,Pantothenic acid,B_1C_T6
+RP_sky17,Pyridoxal,B_1C_T6
+RP_sky21,Pyridoxine,B_1C_T6
+RP_sky23,S-Adenosylhomocysteine,B_1C_T6
+RP_sky24,S-Adenosylmethionine,B_1C_T6
+RP_sky29,Xanthine,B_1C_T6
+HNeg_1982,Uridine,B_3LV_T0
+HNeg_2173,Inosine,B_3LV_T0
+HNeg_2635,Sucrose,B_3LV_T0
+HNeg_3117,UDP-N-acetylglucosamine,B_3LV_T0
+HNeg_sky1,2-Ketoglutaric acid,B_3LV_T0
+HNeg_sky11,D-Gluconic acid,B_3LV_T0
+HNeg_sky19,L-Cysteic acid,B_3LV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_3LV_T0
+HNeg_sky32,Taurine,B_3LV_T0
+HNeg_sky6,Adenosine monophosphate,B_3LV_T0
+HPos_1157,Ectoine,B_3LV_T0
+HPos_1241,L-Glutamine,B_3LV_T0
+HPos_1496,5-Hydroxyectoine,B_3LV_T0
+HPos_1519,Betonicine,B_3LV_T0
+HPos_1848,Arsenobetaine,B_3LV_T0
+HPos_1926,L-Tyrosine,B_3LV_T0
+HPos_257,Sarcosine,B_3LV_T0
+HPos_261,L-Alanine,B_3LV_T0
+HPos_3067,Cytidine,B_3LV_T0
+HPos_3196,Deoxyadenosine,B_3LV_T0
+HPos_3429,Adenosine,B_3LV_T0
+HPos_3670,Guanosine,B_3LV_T0
+HPos_5986,Glutathione disulfide,B_3LV_T0
+HPos_639,L-Proline,B_3LV_T0
+HPos_705,L-Threonine,B_3LV_T0
+HPos_962,L-Aspartic acid,B_3LV_T0
+HPos_978,Dimethylsulfoniopropionate,B_3LV_T0
+HPos_989,Adenine,B_3LV_T0
+HPos_sky16,Creatine,B_3LV_T0
+HPos_sky35,Glycine betaine,B_3LV_T0
+HPos_sky38,Guanine,B_3LV_T0
+HPos_sky45,Hypotaurine,B_3LV_T0
+HPos_sky51,L-Glutamic acid,B_3LV_T0
+HPos_sky54,L-Homoserine,B_3LV_T0
+HPos_sky55,L-Isoleucine,B_3LV_T0
+HPos_sky59,L-Methionine,B_3LV_T0
+HPos_sky60,L-Methionine S-oxide,B_3LV_T0
+HPos_sky64,L-Serine,B_3LV_T0
+HPos_sky71,N6-Acetyl-L-lysine,B_3LV_T0
+HPos_sky72,Ophthalmic acid,B_3LV_T0
+HPos_sky73,Pipecolic acid,B_3LV_T0
+HPos_sky74,Proline betaine,B_3LV_T0
+RP_14640,Methylthioadenosine,B_3LV_T0
+RP_20713,Riboflavin,B_3LV_T0
+RP_3959,L-Phenylalanine,B_3LV_T0
+RP_6828,L-Tryptophan,B_3LV_T0
+RP_7155,L-Kynurenine,B_3LV_T0
+RP_7669,Desthiobiotin,B_3LV_T0
+RP_sky1,Agmatine,B_3LV_T0
+RP_sky16,Pantothenic acid,B_3LV_T0
+RP_sky17,Pyridoxal,B_3LV_T0
+RP_sky21,Pyridoxine,B_3LV_T0
+RP_sky23,S-Adenosylhomocysteine,B_3LV_T0
+RP_sky24,S-Adenosylmethionine,B_3LV_T0
+HNeg_1982,Uridine,B_3LV_T12
+HNeg_2117,D-Fructose 6-phosphate,B_3LV_T12
+HNeg_2173,Inosine,B_3LV_T12
+HNeg_2634,Trehalose,B_3LV_T12
+HNeg_2635,Sucrose,B_3LV_T12
+HNeg_3117,UDP-N-acetylglucosamine,B_3LV_T12
+HNeg_sky1,2-Ketoglutaric acid,B_3LV_T12
+HNeg_sky11,D-Gluconic acid,B_3LV_T12
+HNeg_sky19,L-Cysteic acid,B_3LV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_3LV_T12
+HNeg_sky32,Taurine,B_3LV_T12
+HNeg_sky6,Adenosine monophosphate,B_3LV_T12
+HPos_1007,Hypoxanthine,B_3LV_T12
+HPos_108,Glycine,B_3LV_T12
+HPos_1157,Ectoine,B_3LV_T12
+HPos_1241,L-Glutamine,B_3LV_T12
+HPos_1496,5-Hydroxyectoine,B_3LV_T12
+HPos_1848,Arsenobetaine,B_3LV_T12
+HPos_1926,L-Tyrosine,B_3LV_T12
+HPos_257,Sarcosine,B_3LV_T12
+HPos_261,L-Alanine,B_3LV_T12
+HPos_3067,Cytidine,B_3LV_T12
+HPos_3196,Deoxyadenosine,B_3LV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_3LV_T12
+HPos_3429,Adenosine,B_3LV_T12
+HPos_3670,Guanosine,B_3LV_T12
+HPos_556,Cytosine,B_3LV_T12
+HPos_5986,Glutathione disulfide,B_3LV_T12
+HPos_639,L-Proline,B_3LV_T12
+HPos_705,L-Threonine,B_3LV_T12
+HPos_962,L-Aspartic acid,B_3LV_T12
+HPos_978,Dimethylsulfoniopropionate,B_3LV_T12
+HPos_989,Adenine,B_3LV_T12
+HPos_sky16,Creatine,B_3LV_T12
+HPos_sky35,Glycine betaine,B_3LV_T12
+HPos_sky38,Guanine,B_3LV_T12
+HPos_sky45,Hypotaurine,B_3LV_T12
+HPos_sky51,L-Glutamic acid,B_3LV_T12
+HPos_sky54,L-Homoserine,B_3LV_T12
+HPos_sky59,L-Methionine,B_3LV_T12
+HPos_sky60,L-Methionine S-oxide,B_3LV_T12
+HPos_sky64,L-Serine,B_3LV_T12
+HPos_sky71,N6-Acetyl-L-lysine,B_3LV_T12
+HPos_sky72,Ophthalmic acid,B_3LV_T12
+HPos_sky73,Pipecolic acid,B_3LV_T12
+HPos_sky74,Proline betaine,B_3LV_T12
+RP_14640,Methylthioadenosine,B_3LV_T12
+RP_20713,Riboflavin,B_3LV_T12
+RP_3959,L-Phenylalanine,B_3LV_T12
+RP_6828,L-Tryptophan,B_3LV_T12
+RP_7155,L-Kynurenine,B_3LV_T12
+RP_7669,Desthiobiotin,B_3LV_T12
+RP_sky1,Agmatine,B_3LV_T12
+RP_sky16,Pantothenic acid,B_3LV_T12
+RP_sky17,Pyridoxal,B_3LV_T12
+RP_sky21,Pyridoxine,B_3LV_T12
+RP_sky23,S-Adenosylhomocysteine,B_3LV_T12
+RP_sky24,S-Adenosylmethionine,B_3LV_T12
+HNeg_1963,Thymidine,B_3LV_T24
+HNeg_1982,Uridine,B_3LV_T24
+HNeg_2117,D-Fructose 6-phosphate,B_3LV_T24
+HNeg_2173,Inosine,B_3LV_T24
+HNeg_2634,Trehalose,B_3LV_T24
+HNeg_2635,Sucrose,B_3LV_T24
+HNeg_3117,UDP-N-acetylglucosamine,B_3LV_T24
+HNeg_609,"Taurine, 2H4",B_3LV_T24
+HNeg_sky1,2-Ketoglutaric acid,B_3LV_T24
+HNeg_sky11,D-Gluconic acid,B_3LV_T24
+HNeg_sky19,L-Cysteic acid,B_3LV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_3LV_T24
+HNeg_sky32,Taurine,B_3LV_T24
+HNeg_sky36,Thymine,B_3LV_T24
+HNeg_sky6,Adenosine monophosphate,B_3LV_T24
+HPos_1007,Hypoxanthine,B_3LV_T24
+HPos_108,Glycine,B_3LV_T24
+HPos_1157,Ectoine,B_3LV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_3LV_T24
+HPos_1241,L-Glutamine,B_3LV_T24
+HPos_1419,L-Histidine,B_3LV_T24
+HPos_1496,5-Hydroxyectoine,B_3LV_T24
+HPos_1519,Betonicine,B_3LV_T24
+HPos_1848,Arsenobetaine,B_3LV_T24
+HPos_1926,L-Tyrosine,B_3LV_T24
+HPos_257,Sarcosine,B_3LV_T24
+HPos_261,L-Alanine,B_3LV_T24
+HPos_2837,Ergothioneine,B_3LV_T24
+HPos_3067,Cytidine,B_3LV_T24
+HPos_3196,Deoxyadenosine,B_3LV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_3LV_T24
+HPos_3429,Adenosine,B_3LV_T24
+HPos_3670,Guanosine,B_3LV_T24
+HPos_556,Cytosine,B_3LV_T24
+HPos_5986,Glutathione disulfide,B_3LV_T24
+HPos_639,L-Proline,B_3LV_T24
+HPos_705,L-Threonine,B_3LV_T24
+HPos_954,L-Asparagine,B_3LV_T24
+HPos_962,L-Aspartic acid,B_3LV_T24
+HPos_978,Dimethylsulfoniopropionate,B_3LV_T24
+HPos_989,Adenine,B_3LV_T24
+HPos_sky16,Creatine,B_3LV_T24
+HPos_sky35,Glycine betaine,B_3LV_T24
+HPos_sky38,Guanine,B_3LV_T24
+HPos_sky45,Hypotaurine,B_3LV_T24
+HPos_sky51,L-Glutamic acid,B_3LV_T24
+HPos_sky54,L-Homoserine,B_3LV_T24
+HPos_sky55,L-Isoleucine,B_3LV_T24
+HPos_sky59,L-Methionine,B_3LV_T24
+HPos_sky60,L-Methionine S-oxide,B_3LV_T24
+HPos_sky64,L-Serine,B_3LV_T24
+HPos_sky71,N6-Acetyl-L-lysine,B_3LV_T24
+HPos_sky72,Ophthalmic acid,B_3LV_T24
+HPos_sky73,Pipecolic acid,B_3LV_T24
+HPos_sky74,Proline betaine,B_3LV_T24
+RP_14640,Methylthioadenosine,B_3LV_T24
+RP_20713,Riboflavin,B_3LV_T24
+RP_3959,L-Phenylalanine,B_3LV_T24
+RP_6828,L-Tryptophan,B_3LV_T24
+RP_7155,L-Kynurenine,B_3LV_T24
+RP_7669,Desthiobiotin,B_3LV_T24
+RP_sky1,Agmatine,B_3LV_T24
+RP_sky15,Nicotinic acid,B_3LV_T24
+RP_sky16,Pantothenic acid,B_3LV_T24
+RP_sky17,Pyridoxal,B_3LV_T24
+RP_sky21,Pyridoxine,B_3LV_T24
+RP_sky23,S-Adenosylhomocysteine,B_3LV_T24
+RP_sky24,S-Adenosylmethionine,B_3LV_T24
+RP_sky29,Xanthine,B_3LV_T24
+HNeg_1963,Thymidine,B_3LV_T36
+HNeg_1982,Uridine,B_3LV_T36
+HNeg_2117,D-Fructose 6-phosphate,B_3LV_T36
+HNeg_2173,Inosine,B_3LV_T36
+HNeg_2634,Trehalose,B_3LV_T36
+HNeg_2635,Sucrose,B_3LV_T36
+HNeg_3117,UDP-N-acetylglucosamine,B_3LV_T36
+HNeg_609,"Taurine, 2H4",B_3LV_T36
+HNeg_sky1,2-Ketoglutaric acid,B_3LV_T36
+HNeg_sky11,D-Gluconic acid,B_3LV_T36
+HNeg_sky19,L-Cysteic acid,B_3LV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_3LV_T36
+HNeg_sky27,Succinic acid,B_3LV_T36
+HNeg_sky32,Taurine,B_3LV_T36
+HNeg_sky34,Threonic acid,B_3LV_T36
+HNeg_sky36,Thymine,B_3LV_T36
+HNeg_sky6,Adenosine monophosphate,B_3LV_T36
+HPos_1007,Hypoxanthine,B_3LV_T36
+HPos_1022,Trigonelline,B_3LV_T36
+HPos_108,Glycine,B_3LV_T36
+HPos_1157,Ectoine,B_3LV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_3LV_T36
+HPos_1241,L-Glutamine,B_3LV_T36
+HPos_1251,L-Lysine,B_3LV_T36
+HPos_1419,L-Histidine,B_3LV_T36
+HPos_1496,5-Hydroxyectoine,B_3LV_T36
+HPos_1519,Betonicine,B_3LV_T36
+HPos_1848,Arsenobetaine,B_3LV_T36
+HPos_1926,L-Tyrosine,B_3LV_T36
+HPos_257,Sarcosine,B_3LV_T36
+HPos_261,L-Alanine,B_3LV_T36
+HPos_2837,Ergothioneine,B_3LV_T36
+HPos_3067,Cytidine,B_3LV_T36
+HPos_3196,Deoxyadenosine,B_3LV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_3LV_T36
+HPos_3429,Adenosine,B_3LV_T36
+HPos_3670,Guanosine,B_3LV_T36
+HPos_556,Cytosine,B_3LV_T36
+HPos_5986,Glutathione disulfide,B_3LV_T36
+HPos_639,L-Proline,B_3LV_T36
+HPos_705,L-Threonine,B_3LV_T36
+HPos_954,L-Asparagine,B_3LV_T36
+HPos_962,L-Aspartic acid,B_3LV_T36
+HPos_978,Dimethylsulfoniopropionate,B_3LV_T36
+HPos_989,Adenine,B_3LV_T36
+HPos_sky16,Creatine,B_3LV_T36
+HPos_sky35,Glycine betaine,B_3LV_T36
+HPos_sky38,Guanine,B_3LV_T36
+HPos_sky45,Hypotaurine,B_3LV_T36
+HPos_sky51,L-Glutamic acid,B_3LV_T36
+HPos_sky54,L-Homoserine,B_3LV_T36
+HPos_sky55,L-Isoleucine,B_3LV_T36
+HPos_sky59,L-Methionine,B_3LV_T36
+HPos_sky60,L-Methionine S-oxide,B_3LV_T36
+HPos_sky64,L-Serine,B_3LV_T36
+HPos_sky71,N6-Acetyl-L-lysine,B_3LV_T36
+HPos_sky72,Ophthalmic acid,B_3LV_T36
+HPos_sky73,Pipecolic acid,B_3LV_T36
+HPos_sky74,Proline betaine,B_3LV_T36
+RP_14640,Methylthioadenosine,B_3LV_T36
+RP_20713,Riboflavin,B_3LV_T36
+RP_3959,L-Phenylalanine,B_3LV_T36
+RP_6828,L-Tryptophan,B_3LV_T36
+RP_7155,L-Kynurenine,B_3LV_T36
+RP_7669,Desthiobiotin,B_3LV_T36
+RP_sky1,Agmatine,B_3LV_T36
+RP_sky15,Nicotinic acid,B_3LV_T36
+RP_sky16,Pantothenic acid,B_3LV_T36
+RP_sky17,Pyridoxal,B_3LV_T36
+RP_sky21,Pyridoxine,B_3LV_T36
+RP_sky23,S-Adenosylhomocysteine,B_3LV_T36
+RP_sky24,S-Adenosylmethionine,B_3LV_T36
+RP_sky29,Xanthine,B_3LV_T36
+HNeg_1963,Thymidine,B_3LV_T48
+HNeg_1982,Uridine,B_3LV_T48
+HNeg_2117,D-Fructose 6-phosphate,B_3LV_T48
+HNeg_2173,Inosine,B_3LV_T48
+HNeg_2634,Trehalose,B_3LV_T48
+HNeg_2635,Sucrose,B_3LV_T48
+HNeg_3117,UDP-N-acetylglucosamine,B_3LV_T48
+HNeg_609,"Taurine, 2H4",B_3LV_T48
+HNeg_sky1,2-Ketoglutaric acid,B_3LV_T48
+HNeg_sky11,D-Gluconic acid,B_3LV_T48
+HNeg_sky19,L-Cysteic acid,B_3LV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_3LV_T48
+HNeg_sky27,Succinic acid,B_3LV_T48
+HNeg_sky32,Taurine,B_3LV_T48
+HNeg_sky34,Threonic acid,B_3LV_T48
+HNeg_sky36,Thymine,B_3LV_T48
+HNeg_sky6,Adenosine monophosphate,B_3LV_T48
+HPos_1007,Hypoxanthine,B_3LV_T48
+HPos_1022,Trigonelline,B_3LV_T48
+HPos_108,Glycine,B_3LV_T48
+HPos_1157,Ectoine,B_3LV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_3LV_T48
+HPos_1241,L-Glutamine,B_3LV_T48
+HPos_1251,L-Lysine,B_3LV_T48
+HPos_1419,L-Histidine,B_3LV_T48
+HPos_1496,5-Hydroxyectoine,B_3LV_T48
+HPos_1519,Betonicine,B_3LV_T48
+HPos_1848,Arsenobetaine,B_3LV_T48
+HPos_1926,L-Tyrosine,B_3LV_T48
+HPos_257,Sarcosine,B_3LV_T48
+HPos_261,L-Alanine,B_3LV_T48
+HPos_2837,Ergothioneine,B_3LV_T48
+HPos_3067,Cytidine,B_3LV_T48
+HPos_3196,Deoxyadenosine,B_3LV_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_3LV_T48
+HPos_3429,Adenosine,B_3LV_T48
+HPos_3670,Guanosine,B_3LV_T48
+HPos_556,Cytosine,B_3LV_T48
+HPos_5986,Glutathione disulfide,B_3LV_T48
+HPos_639,L-Proline,B_3LV_T48
+HPos_705,L-Threonine,B_3LV_T48
+HPos_954,L-Asparagine,B_3LV_T48
+HPos_962,L-Aspartic acid,B_3LV_T48
+HPos_978,Dimethylsulfoniopropionate,B_3LV_T48
+HPos_989,Adenine,B_3LV_T48
+HPos_sky35,Glycine betaine,B_3LV_T48
+HPos_sky38,Guanine,B_3LV_T48
+HPos_sky45,Hypotaurine,B_3LV_T48
+HPos_sky51,L-Glutamic acid,B_3LV_T48
+HPos_sky54,L-Homoserine,B_3LV_T48
+HPos_sky55,L-Isoleucine,B_3LV_T48
+HPos_sky59,L-Methionine,B_3LV_T48
+HPos_sky60,L-Methionine S-oxide,B_3LV_T48
+HPos_sky64,L-Serine,B_3LV_T48
+HPos_sky71,N6-Acetyl-L-lysine,B_3LV_T48
+HPos_sky72,Ophthalmic acid,B_3LV_T48
+HPos_sky73,Pipecolic acid,B_3LV_T48
+HPos_sky74,Proline betaine,B_3LV_T48
+RP_14640,Methylthioadenosine,B_3LV_T48
+RP_20713,Riboflavin,B_3LV_T48
+RP_3959,L-Phenylalanine,B_3LV_T48
+RP_6828,L-Tryptophan,B_3LV_T48
+RP_7155,L-Kynurenine,B_3LV_T48
+RP_7669,Desthiobiotin,B_3LV_T48
+RP_sky1,Agmatine,B_3LV_T48
+RP_sky15,Nicotinic acid,B_3LV_T48
+RP_sky16,Pantothenic acid,B_3LV_T48
+RP_sky17,Pyridoxal,B_3LV_T48
+RP_sky21,Pyridoxine,B_3LV_T48
+RP_sky23,S-Adenosylhomocysteine,B_3LV_T48
+RP_sky24,S-Adenosylmethionine,B_3LV_T48
+RP_sky29,Xanthine,B_3LV_T48
+HNeg_1963,Thymidine,B_6HV_T0
+HNeg_1982,Uridine,B_6HV_T0
+HNeg_2117,D-Fructose 6-phosphate,B_6HV_T0
+HNeg_2173,Inosine,B_6HV_T0
+HNeg_2635,Sucrose,B_6HV_T0
+HNeg_3117,UDP-N-acetylglucosamine,B_6HV_T0
+HNeg_sky1,2-Ketoglutaric acid,B_6HV_T0
+HNeg_sky11,D-Gluconic acid,B_6HV_T0
+HNeg_sky19,L-Cysteic acid,B_6HV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_6HV_T0
+HNeg_sky32,Taurine,B_6HV_T0
+HNeg_sky6,Adenosine monophosphate,B_6HV_T0
+HPos_1007,Hypoxanthine,B_6HV_T0
+HPos_1157,Ectoine,B_6HV_T0
+HPos_1241,L-Glutamine,B_6HV_T0
+HPos_1496,5-Hydroxyectoine,B_6HV_T0
+HPos_1519,Betonicine,B_6HV_T0
+HPos_1848,Arsenobetaine,B_6HV_T0
+HPos_261,L-Alanine,B_6HV_T0
+HPos_3067,Cytidine,B_6HV_T0
+HPos_3196,Deoxyadenosine,B_6HV_T0
+HPos_3429,Adenosine,B_6HV_T0
+HPos_3670,Guanosine,B_6HV_T0
+HPos_556,Cytosine,B_6HV_T0
+HPos_5986,Glutathione disulfide,B_6HV_T0
+HPos_639,L-Proline,B_6HV_T0
+HPos_705,L-Threonine,B_6HV_T0
+HPos_962,L-Aspartic acid,B_6HV_T0
+HPos_978,Dimethylsulfoniopropionate,B_6HV_T0
+HPos_989,Adenine,B_6HV_T0
+HPos_sky16,Creatine,B_6HV_T0
+HPos_sky35,Glycine betaine,B_6HV_T0
+HPos_sky38,Guanine,B_6HV_T0
+HPos_sky45,Hypotaurine,B_6HV_T0
+HPos_sky51,L-Glutamic acid,B_6HV_T0
+HPos_sky54,L-Homoserine,B_6HV_T0
+HPos_sky59,L-Methionine,B_6HV_T0
+HPos_sky60,L-Methionine S-oxide,B_6HV_T0
+HPos_sky64,L-Serine,B_6HV_T0
+HPos_sky71,N6-Acetyl-L-lysine,B_6HV_T0
+HPos_sky72,Ophthalmic acid,B_6HV_T0
+HPos_sky73,Pipecolic acid,B_6HV_T0
+HPos_sky74,Proline betaine,B_6HV_T0
+RP_14640,Methylthioadenosine,B_6HV_T0
+RP_7669,Desthiobiotin,B_6HV_T0
+RP_sky16,Pantothenic acid,B_6HV_T0
+RP_sky17,Pyridoxal,B_6HV_T0
+RP_sky21,Pyridoxine,B_6HV_T0
+RP_sky23,S-Adenosylhomocysteine,B_6HV_T0
+RP_sky24,S-Adenosylmethionine,B_6HV_T0
+HNeg_1982,Uridine,B_6HV_T12
+HNeg_2117,D-Fructose 6-phosphate,B_6HV_T12
+HNeg_2173,Inosine,B_6HV_T12
+HNeg_2634,Trehalose,B_6HV_T12
+HNeg_2635,Sucrose,B_6HV_T12
+HNeg_3117,UDP-N-acetylglucosamine,B_6HV_T12
+HNeg_sky1,2-Ketoglutaric acid,B_6HV_T12
+HNeg_sky11,D-Gluconic acid,B_6HV_T12
+HNeg_sky19,L-Cysteic acid,B_6HV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_6HV_T12
+HNeg_sky32,Taurine,B_6HV_T12
+HNeg_sky36,Thymine,B_6HV_T12
+HNeg_sky6,Adenosine monophosphate,B_6HV_T12
+HPos_1007,Hypoxanthine,B_6HV_T12
+HPos_1157,Ectoine,B_6HV_T12
+HPos_1241,L-Glutamine,B_6HV_T12
+HPos_1496,5-Hydroxyectoine,B_6HV_T12
+HPos_1519,Betonicine,B_6HV_T12
+HPos_1848,Arsenobetaine,B_6HV_T12
+HPos_1926,L-Tyrosine,B_6HV_T12
+HPos_257,Sarcosine,B_6HV_T12
+HPos_261,L-Alanine,B_6HV_T12
+HPos_3067,Cytidine,B_6HV_T12
+HPos_3196,Deoxyadenosine,B_6HV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_6HV_T12
+HPos_3429,Adenosine,B_6HV_T12
+HPos_3670,Guanosine,B_6HV_T12
+HPos_556,Cytosine,B_6HV_T12
+HPos_5986,Glutathione disulfide,B_6HV_T12
+HPos_639,L-Proline,B_6HV_T12
+HPos_705,L-Threonine,B_6HV_T12
+HPos_962,L-Aspartic acid,B_6HV_T12
+HPos_978,Dimethylsulfoniopropionate,B_6HV_T12
+HPos_989,Adenine,B_6HV_T12
+HPos_sky16,Creatine,B_6HV_T12
+HPos_sky35,Glycine betaine,B_6HV_T12
+HPos_sky38,Guanine,B_6HV_T12
+HPos_sky45,Hypotaurine,B_6HV_T12
+HPos_sky51,L-Glutamic acid,B_6HV_T12
+HPos_sky54,L-Homoserine,B_6HV_T12
+HPos_sky55,L-Isoleucine,B_6HV_T12
+HPos_sky59,L-Methionine,B_6HV_T12
+HPos_sky60,L-Methionine S-oxide,B_6HV_T12
+HPos_sky64,L-Serine,B_6HV_T12
+HPos_sky71,N6-Acetyl-L-lysine,B_6HV_T12
+HPos_sky72,Ophthalmic acid,B_6HV_T12
+HPos_sky73,Pipecolic acid,B_6HV_T12
+HPos_sky74,Proline betaine,B_6HV_T12
+RP_14640,Methylthioadenosine,B_6HV_T12
+RP_20713,Riboflavin,B_6HV_T12
+RP_3959,L-Phenylalanine,B_6HV_T12
+RP_6828,L-Tryptophan,B_6HV_T12
+RP_7155,L-Kynurenine,B_6HV_T12
+RP_7669,Desthiobiotin,B_6HV_T12
+RP_sky1,Agmatine,B_6HV_T12
+RP_sky16,Pantothenic acid,B_6HV_T12
+RP_sky17,Pyridoxal,B_6HV_T12
+RP_sky21,Pyridoxine,B_6HV_T12
+RP_sky23,S-Adenosylhomocysteine,B_6HV_T12
+RP_sky24,S-Adenosylmethionine,B_6HV_T12
+HNeg_1963,Thymidine,B_6HV_T24
+HNeg_1982,Uridine,B_6HV_T24
+HNeg_2117,D-Fructose 6-phosphate,B_6HV_T24
+HNeg_2173,Inosine,B_6HV_T24
+HNeg_2634,Trehalose,B_6HV_T24
+HNeg_2635,Sucrose,B_6HV_T24
+HNeg_3117,UDP-N-acetylglucosamine,B_6HV_T24
+HNeg_sky1,2-Ketoglutaric acid,B_6HV_T24
+HNeg_sky11,D-Gluconic acid,B_6HV_T24
+HNeg_sky19,L-Cysteic acid,B_6HV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_6HV_T24
+HNeg_sky32,Taurine,B_6HV_T24
+HNeg_sky36,Thymine,B_6HV_T24
+HNeg_sky6,Adenosine monophosphate,B_6HV_T24
+HPos_1007,Hypoxanthine,B_6HV_T24
+HPos_1157,Ectoine,B_6HV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_6HV_T24
+HPos_1241,L-Glutamine,B_6HV_T24
+HPos_1419,L-Histidine,B_6HV_T24
+HPos_1496,5-Hydroxyectoine,B_6HV_T24
+HPos_1519,Betonicine,B_6HV_T24
+HPos_1848,Arsenobetaine,B_6HV_T24
+HPos_1926,L-Tyrosine,B_6HV_T24
+HPos_257,Sarcosine,B_6HV_T24
+HPos_261,L-Alanine,B_6HV_T24
+HPos_3067,Cytidine,B_6HV_T24
+HPos_3196,Deoxyadenosine,B_6HV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_6HV_T24
+HPos_3429,Adenosine,B_6HV_T24
+HPos_3670,Guanosine,B_6HV_T24
+HPos_556,Cytosine,B_6HV_T24
+HPos_5986,Glutathione disulfide,B_6HV_T24
+HPos_639,L-Proline,B_6HV_T24
+HPos_705,L-Threonine,B_6HV_T24
+HPos_962,L-Aspartic acid,B_6HV_T24
+HPos_978,Dimethylsulfoniopropionate,B_6HV_T24
+HPos_989,Adenine,B_6HV_T24
+HPos_sky16,Creatine,B_6HV_T24
+HPos_sky35,Glycine betaine,B_6HV_T24
+HPos_sky38,Guanine,B_6HV_T24
+HPos_sky45,Hypotaurine,B_6HV_T24
+HPos_sky51,L-Glutamic acid,B_6HV_T24
+HPos_sky54,L-Homoserine,B_6HV_T24
+HPos_sky55,L-Isoleucine,B_6HV_T24
+HPos_sky59,L-Methionine,B_6HV_T24
+HPos_sky60,L-Methionine S-oxide,B_6HV_T24
+HPos_sky64,L-Serine,B_6HV_T24
+HPos_sky71,N6-Acetyl-L-lysine,B_6HV_T24
+HPos_sky72,Ophthalmic acid,B_6HV_T24
+HPos_sky73,Pipecolic acid,B_6HV_T24
+HPos_sky74,Proline betaine,B_6HV_T24
+RP_14640,Methylthioadenosine,B_6HV_T24
+RP_20713,Riboflavin,B_6HV_T24
+RP_3959,L-Phenylalanine,B_6HV_T24
+RP_6828,L-Tryptophan,B_6HV_T24
+RP_7155,L-Kynurenine,B_6HV_T24
+RP_7669,Desthiobiotin,B_6HV_T24
+RP_sky1,Agmatine,B_6HV_T24
+RP_sky15,Nicotinic acid,B_6HV_T24
+RP_sky16,Pantothenic acid,B_6HV_T24
+RP_sky17,Pyridoxal,B_6HV_T24
+RP_sky21,Pyridoxine,B_6HV_T24
+RP_sky23,S-Adenosylhomocysteine,B_6HV_T24
+RP_sky24,S-Adenosylmethionine,B_6HV_T24
+RP_sky29,Xanthine,B_6HV_T24
+HNeg_1963,Thymidine,B_6HV_T36
+HNeg_1982,Uridine,B_6HV_T36
+HNeg_2117,D-Fructose 6-phosphate,B_6HV_T36
+HNeg_2173,Inosine,B_6HV_T36
+HNeg_2634,Trehalose,B_6HV_T36
+HNeg_2635,Sucrose,B_6HV_T36
+HNeg_3117,UDP-N-acetylglucosamine,B_6HV_T36
+HNeg_609,"Taurine, 2H4",B_6HV_T36
+HNeg_sky1,2-Ketoglutaric acid,B_6HV_T36
+HNeg_sky11,D-Gluconic acid,B_6HV_T36
+HNeg_sky19,L-Cysteic acid,B_6HV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_6HV_T36
+HNeg_sky27,Succinic acid,B_6HV_T36
+HNeg_sky32,Taurine,B_6HV_T36
+HNeg_sky34,Threonic acid,B_6HV_T36
+HNeg_sky36,Thymine,B_6HV_T36
+HNeg_sky6,Adenosine monophosphate,B_6HV_T36
+HPos_1007,Hypoxanthine,B_6HV_T36
+HPos_1022,Trigonelline,B_6HV_T36
+HPos_108,Glycine,B_6HV_T36
+HPos_1157,Ectoine,B_6HV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_6HV_T36
+HPos_1241,L-Glutamine,B_6HV_T36
+HPos_1251,L-Lysine,B_6HV_T36
+HPos_1419,L-Histidine,B_6HV_T36
+HPos_1496,5-Hydroxyectoine,B_6HV_T36
+HPos_1519,Betonicine,B_6HV_T36
+HPos_1848,Arsenobetaine,B_6HV_T36
+HPos_1926,L-Tyrosine,B_6HV_T36
+HPos_257,Sarcosine,B_6HV_T36
+HPos_261,L-Alanine,B_6HV_T36
+HPos_2837,Ergothioneine,B_6HV_T36
+HPos_3067,Cytidine,B_6HV_T36
+HPos_3196,Deoxyadenosine,B_6HV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_6HV_T36
+HPos_3429,Adenosine,B_6HV_T36
+HPos_3670,Guanosine,B_6HV_T36
+HPos_556,Cytosine,B_6HV_T36
+HPos_5986,Glutathione disulfide,B_6HV_T36
+HPos_639,L-Proline,B_6HV_T36
+HPos_705,L-Threonine,B_6HV_T36
+HPos_954,L-Asparagine,B_6HV_T36
+HPos_962,L-Aspartic acid,B_6HV_T36
+HPos_978,Dimethylsulfoniopropionate,B_6HV_T36
+HPos_989,Adenine,B_6HV_T36
+HPos_sky16,Creatine,B_6HV_T36
+HPos_sky35,Glycine betaine,B_6HV_T36
+HPos_sky38,Guanine,B_6HV_T36
+HPos_sky45,Hypotaurine,B_6HV_T36
+HPos_sky51,L-Glutamic acid,B_6HV_T36
+HPos_sky54,L-Homoserine,B_6HV_T36
+HPos_sky55,L-Isoleucine,B_6HV_T36
+HPos_sky59,L-Methionine,B_6HV_T36
+HPos_sky60,L-Methionine S-oxide,B_6HV_T36
+HPos_sky64,L-Serine,B_6HV_T36
+HPos_sky71,N6-Acetyl-L-lysine,B_6HV_T36
+HPos_sky72,Ophthalmic acid,B_6HV_T36
+HPos_sky73,Pipecolic acid,B_6HV_T36
+HPos_sky74,Proline betaine,B_6HV_T36
+RP_14640,Methylthioadenosine,B_6HV_T36
+RP_20713,Riboflavin,B_6HV_T36
+RP_3959,L-Phenylalanine,B_6HV_T36
+RP_6828,L-Tryptophan,B_6HV_T36
+RP_7155,L-Kynurenine,B_6HV_T36
+RP_7669,Desthiobiotin,B_6HV_T36
+RP_sky1,Agmatine,B_6HV_T36
+RP_sky15,Nicotinic acid,B_6HV_T36
+RP_sky16,Pantothenic acid,B_6HV_T36
+RP_sky17,Pyridoxal,B_6HV_T36
+RP_sky21,Pyridoxine,B_6HV_T36
+RP_sky23,S-Adenosylhomocysteine,B_6HV_T36
+RP_sky24,S-Adenosylmethionine,B_6HV_T36
+RP_sky29,Xanthine,B_6HV_T36
+HNeg_1963,Thymidine,B_6HV_T48
+HNeg_1982,Uridine,B_6HV_T48
+HNeg_2117,D-Fructose 6-phosphate,B_6HV_T48
+HNeg_2173,Inosine,B_6HV_T48
+HNeg_2634,Trehalose,B_6HV_T48
+HNeg_2635,Sucrose,B_6HV_T48
+HNeg_3117,UDP-N-acetylglucosamine,B_6HV_T48
+HNeg_sky1,2-Ketoglutaric acid,B_6HV_T48
+HNeg_sky11,D-Gluconic acid,B_6HV_T48
+HNeg_sky19,L-Cysteic acid,B_6HV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,B_6HV_T48
+HNeg_sky27,Succinic acid,B_6HV_T48
+HNeg_sky32,Taurine,B_6HV_T48
+HNeg_sky34,Threonic acid,B_6HV_T48
+HNeg_sky36,Thymine,B_6HV_T48
+HNeg_sky6,Adenosine monophosphate,B_6HV_T48
+HPos_1007,Hypoxanthine,B_6HV_T48
+HPos_1022,Trigonelline,B_6HV_T48
+HPos_108,Glycine,B_6HV_T48
+HPos_1157,Ectoine,B_6HV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,B_6HV_T48
+HPos_1241,L-Glutamine,B_6HV_T48
+HPos_1251,L-Lysine,B_6HV_T48
+HPos_1419,L-Histidine,B_6HV_T48
+HPos_1496,5-Hydroxyectoine,B_6HV_T48
+HPos_1519,Betonicine,B_6HV_T48
+HPos_1848,Arsenobetaine,B_6HV_T48
+HPos_1926,L-Tyrosine,B_6HV_T48
+HPos_257,Sarcosine,B_6HV_T48
+HPos_261,L-Alanine,B_6HV_T48
+HPos_2837,Ergothioneine,B_6HV_T48
+HPos_3067,Cytidine,B_6HV_T48
+HPos_3196,Deoxyadenosine,B_6HV_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,B_6HV_T48
+HPos_3429,Adenosine,B_6HV_T48
+HPos_3670,Guanosine,B_6HV_T48
+HPos_556,Cytosine,B_6HV_T48
+HPos_5986,Glutathione disulfide,B_6HV_T48
+HPos_639,L-Proline,B_6HV_T48
+HPos_705,L-Threonine,B_6HV_T48
+HPos_962,L-Aspartic acid,B_6HV_T48
+HPos_978,Dimethylsulfoniopropionate,B_6HV_T48
+HPos_989,Adenine,B_6HV_T48
+HPos_sky16,Creatine,B_6HV_T48
+HPos_sky35,Glycine betaine,B_6HV_T48
+HPos_sky38,Guanine,B_6HV_T48
+HPos_sky45,Hypotaurine,B_6HV_T48
+HPos_sky51,L-Glutamic acid,B_6HV_T48
+HPos_sky54,L-Homoserine,B_6HV_T48
+HPos_sky55,L-Isoleucine,B_6HV_T48
+HPos_sky59,L-Methionine,B_6HV_T48
+HPos_sky60,L-Methionine S-oxide,B_6HV_T48
+HPos_sky64,L-Serine,B_6HV_T48
+HPos_sky71,N6-Acetyl-L-lysine,B_6HV_T48
+HPos_sky72,Ophthalmic acid,B_6HV_T48
+HPos_sky73,Pipecolic acid,B_6HV_T48
+HPos_sky74,Proline betaine,B_6HV_T48
+RP_14640,Methylthioadenosine,B_6HV_T48
+RP_20713,Riboflavin,B_6HV_T48
+RP_3959,L-Phenylalanine,B_6HV_T48
+RP_6828,L-Tryptophan,B_6HV_T48
+RP_7155,L-Kynurenine,B_6HV_T48
+RP_7669,Desthiobiotin,B_6HV_T48
+RP_sky15,Nicotinic acid,B_6HV_T48
+RP_sky16,Pantothenic acid,B_6HV_T48
+RP_sky17,Pyridoxal,B_6HV_T48
+RP_sky21,Pyridoxine,B_6HV_T48
+RP_sky23,S-Adenosylhomocysteine,B_6HV_T48
+RP_sky24,S-Adenosylmethionine,B_6HV_T48
+RP_sky29,Xanthine,B_6HV_T48
+HNeg_1963,Thymidine,C_1C_T0
+HNeg_1982,Uridine,C_1C_T0
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T0
+HNeg_2173,Inosine,C_1C_T0
+HNeg_2635,Sucrose,C_1C_T0
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T0
+HNeg_609,"Taurine, 2H4",C_1C_T0
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T0
+HNeg_sky11,D-Gluconic acid,C_1C_T0
+HNeg_sky19,L-Cysteic acid,C_1C_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T0
+HNeg_sky32,Taurine,C_1C_T0
+HNeg_sky36,Thymine,C_1C_T0
+HNeg_sky6,Adenosine monophosphate,C_1C_T0
+HPos_108,Glycine,C_1C_T0
+HPos_1157,Ectoine,C_1C_T0
+HPos_1241,L-Glutamine,C_1C_T0
+HPos_1848,Arsenobetaine,C_1C_T0
+HPos_1926,L-Tyrosine,C_1C_T0
+HPos_257,Sarcosine,C_1C_T0
+HPos_261,L-Alanine,C_1C_T0
+HPos_3067,Cytidine,C_1C_T0
+HPos_3196,Deoxyadenosine,C_1C_T0
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T0
+HPos_3429,Adenosine,C_1C_T0
+HPos_3670,Guanosine,C_1C_T0
+HPos_556,Cytosine,C_1C_T0
+HPos_5986,Glutathione disulfide,C_1C_T0
+HPos_639,L-Proline,C_1C_T0
+HPos_705,L-Threonine,C_1C_T0
+HPos_962,L-Aspartic acid,C_1C_T0
+HPos_978,Dimethylsulfoniopropionate,C_1C_T0
+HPos_989,Adenine,C_1C_T0
+HPos_sky35,Glycine betaine,C_1C_T0
+HPos_sky38,Guanine,C_1C_T0
+HPos_sky45,Hypotaurine,C_1C_T0
+HPos_sky51,L-Glutamic acid,C_1C_T0
+HPos_sky54,L-Homoserine,C_1C_T0
+HPos_sky55,L-Isoleucine,C_1C_T0
+HPos_sky59,L-Methionine,C_1C_T0
+HPos_sky60,L-Methionine S-oxide,C_1C_T0
+HPos_sky64,L-Serine,C_1C_T0
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T0
+HPos_sky72,Ophthalmic acid,C_1C_T0
+HPos_sky73,Pipecolic acid,C_1C_T0
+HPos_sky74,Proline betaine,C_1C_T0
+RP_14640,Methylthioadenosine,C_1C_T0
+RP_20713,Riboflavin,C_1C_T0
+RP_3959,L-Phenylalanine,C_1C_T0
+RP_6828,L-Tryptophan,C_1C_T0
+RP_7155,L-Kynurenine,C_1C_T0
+RP_7669,Desthiobiotin,C_1C_T0
+RP_sky1,Agmatine,C_1C_T0
+RP_sky16,Pantothenic acid,C_1C_T0
+RP_sky17,Pyridoxal,C_1C_T0
+RP_sky21,Pyridoxine,C_1C_T0
+RP_sky23,S-Adenosylhomocysteine,C_1C_T0
+RP_sky24,S-Adenosylmethionine,C_1C_T0
+HNeg_1963,Thymidine,C_1C_T12
+HNeg_1982,Uridine,C_1C_T12
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T12
+HNeg_2173,Inosine,C_1C_T12
+HNeg_2634,Trehalose,C_1C_T12
+HNeg_2635,Sucrose,C_1C_T12
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T12
+HNeg_609,"Taurine, 2H4",C_1C_T12
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T12
+HNeg_sky11,D-Gluconic acid,C_1C_T12
+HNeg_sky19,L-Cysteic acid,C_1C_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T12
+HNeg_sky32,Taurine,C_1C_T12
+HNeg_sky34,Threonic acid,C_1C_T12
+HNeg_sky36,Thymine,C_1C_T12
+HNeg_sky6,Adenosine monophosphate,C_1C_T12
+HPos_1007,Hypoxanthine,C_1C_T12
+HPos_108,Glycine,C_1C_T12
+HPos_1157,Ectoine,C_1C_T12
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T12
+HPos_1241,L-Glutamine,C_1C_T12
+HPos_1419,L-Histidine,C_1C_T12
+HPos_1496,5-Hydroxyectoine,C_1C_T12
+HPos_1519,Betonicine,C_1C_T12
+HPos_1848,Arsenobetaine,C_1C_T12
+HPos_1926,L-Tyrosine,C_1C_T12
+HPos_257,Sarcosine,C_1C_T12
+HPos_261,L-Alanine,C_1C_T12
+HPos_3067,Cytidine,C_1C_T12
+HPos_3196,Deoxyadenosine,C_1C_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T12
+HPos_3429,Adenosine,C_1C_T12
+HPos_3670,Guanosine,C_1C_T12
+HPos_556,Cytosine,C_1C_T12
+HPos_5986,Glutathione disulfide,C_1C_T12
+HPos_639,L-Proline,C_1C_T12
+HPos_705,L-Threonine,C_1C_T12
+HPos_954,L-Asparagine,C_1C_T12
+HPos_962,L-Aspartic acid,C_1C_T12
+HPos_978,Dimethylsulfoniopropionate,C_1C_T12
+HPos_989,Adenine,C_1C_T12
+HPos_sky16,Creatine,C_1C_T12
+HPos_sky35,Glycine betaine,C_1C_T12
+HPos_sky38,Guanine,C_1C_T12
+HPos_sky45,Hypotaurine,C_1C_T12
+HPos_sky51,L-Glutamic acid,C_1C_T12
+HPos_sky54,L-Homoserine,C_1C_T12
+HPos_sky55,L-Isoleucine,C_1C_T12
+HPos_sky59,L-Methionine,C_1C_T12
+HPos_sky60,L-Methionine S-oxide,C_1C_T12
+HPos_sky64,L-Serine,C_1C_T12
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T12
+HPos_sky72,Ophthalmic acid,C_1C_T12
+HPos_sky73,Pipecolic acid,C_1C_T12
+HPos_sky74,Proline betaine,C_1C_T12
+RP_14640,Methylthioadenosine,C_1C_T12
+RP_20713,Riboflavin,C_1C_T12
+RP_3959,L-Phenylalanine,C_1C_T12
+RP_6828,L-Tryptophan,C_1C_T12
+RP_7155,L-Kynurenine,C_1C_T12
+RP_7669,Desthiobiotin,C_1C_T12
+RP_sky1,Agmatine,C_1C_T12
+RP_sky16,Pantothenic acid,C_1C_T12
+RP_sky17,Pyridoxal,C_1C_T12
+RP_sky21,Pyridoxine,C_1C_T12
+RP_sky23,S-Adenosylhomocysteine,C_1C_T12
+RP_sky24,S-Adenosylmethionine,C_1C_T12
+HNeg_1963,Thymidine,C_1C_T18
+HNeg_1982,Uridine,C_1C_T18
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T18
+HNeg_2173,Inosine,C_1C_T18
+HNeg_2634,Trehalose,C_1C_T18
+HNeg_2635,Sucrose,C_1C_T18
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T18
+HNeg_609,"Taurine, 2H4",C_1C_T18
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T18
+HNeg_sky11,D-Gluconic acid,C_1C_T18
+HNeg_sky19,L-Cysteic acid,C_1C_T18
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T18
+HNeg_sky32,Taurine,C_1C_T18
+HNeg_sky36,Thymine,C_1C_T18
+HNeg_sky6,Adenosine monophosphate,C_1C_T18
+HPos_1007,Hypoxanthine,C_1C_T18
+HPos_108,Glycine,C_1C_T18
+HPos_1157,Ectoine,C_1C_T18
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T18
+HPos_1241,L-Glutamine,C_1C_T18
+HPos_1496,5-Hydroxyectoine,C_1C_T18
+HPos_1519,Betonicine,C_1C_T18
+HPos_1848,Arsenobetaine,C_1C_T18
+HPos_1926,L-Tyrosine,C_1C_T18
+HPos_261,L-Alanine,C_1C_T18
+HPos_3067,Cytidine,C_1C_T18
+HPos_3196,Deoxyadenosine,C_1C_T18
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T18
+HPos_3429,Adenosine,C_1C_T18
+HPos_3670,Guanosine,C_1C_T18
+HPos_556,Cytosine,C_1C_T18
+HPos_5986,Glutathione disulfide,C_1C_T18
+HPos_639,L-Proline,C_1C_T18
+HPos_705,L-Threonine,C_1C_T18
+HPos_954,L-Asparagine,C_1C_T18
+HPos_962,L-Aspartic acid,C_1C_T18
+HPos_978,Dimethylsulfoniopropionate,C_1C_T18
+HPos_989,Adenine,C_1C_T18
+HPos_sky35,Glycine betaine,C_1C_T18
+HPos_sky38,Guanine,C_1C_T18
+HPos_sky45,Hypotaurine,C_1C_T18
+HPos_sky51,L-Glutamic acid,C_1C_T18
+HPos_sky54,L-Homoserine,C_1C_T18
+HPos_sky55,L-Isoleucine,C_1C_T18
+HPos_sky59,L-Methionine,C_1C_T18
+HPos_sky60,L-Methionine S-oxide,C_1C_T18
+HPos_sky64,L-Serine,C_1C_T18
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T18
+HPos_sky72,Ophthalmic acid,C_1C_T18
+HPos_sky73,Pipecolic acid,C_1C_T18
+HPos_sky74,Proline betaine,C_1C_T18
+RP_14640,Methylthioadenosine,C_1C_T18
+RP_20713,Riboflavin,C_1C_T18
+RP_3959,L-Phenylalanine,C_1C_T18
+RP_6828,L-Tryptophan,C_1C_T18
+RP_7155,L-Kynurenine,C_1C_T18
+RP_7669,Desthiobiotin,C_1C_T18
+RP_sky1,Agmatine,C_1C_T18
+RP_sky16,Pantothenic acid,C_1C_T18
+RP_sky17,Pyridoxal,C_1C_T18
+RP_sky21,Pyridoxine,C_1C_T18
+RP_sky23,S-Adenosylhomocysteine,C_1C_T18
+RP_sky24,S-Adenosylmethionine,C_1C_T18
+HNeg_1963,Thymidine,C_1C_T24
+HNeg_1982,Uridine,C_1C_T24
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T24
+HNeg_2173,Inosine,C_1C_T24
+HNeg_2634,Trehalose,C_1C_T24
+HNeg_2635,Sucrose,C_1C_T24
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T24
+HNeg_609,"Taurine, 2H4",C_1C_T24
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T24
+HNeg_sky11,D-Gluconic acid,C_1C_T24
+HNeg_sky19,L-Cysteic acid,C_1C_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T24
+HNeg_sky27,Succinic acid,C_1C_T24
+HNeg_sky32,Taurine,C_1C_T24
+HNeg_sky34,Threonic acid,C_1C_T24
+HNeg_sky36,Thymine,C_1C_T24
+HNeg_sky6,Adenosine monophosphate,C_1C_T24
+HPos_1007,Hypoxanthine,C_1C_T24
+HPos_108,Glycine,C_1C_T24
+HPos_1157,Ectoine,C_1C_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T24
+HPos_1241,L-Glutamine,C_1C_T24
+HPos_1251,L-Lysine,C_1C_T24
+HPos_1419,L-Histidine,C_1C_T24
+HPos_1496,5-Hydroxyectoine,C_1C_T24
+HPos_1519,Betonicine,C_1C_T24
+HPos_1848,Arsenobetaine,C_1C_T24
+HPos_1926,L-Tyrosine,C_1C_T24
+HPos_257,Sarcosine,C_1C_T24
+HPos_261,L-Alanine,C_1C_T24
+HPos_2837,Ergothioneine,C_1C_T24
+HPos_3067,Cytidine,C_1C_T24
+HPos_3196,Deoxyadenosine,C_1C_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T24
+HPos_3429,Adenosine,C_1C_T24
+HPos_3670,Guanosine,C_1C_T24
+HPos_556,Cytosine,C_1C_T24
+HPos_5986,Glutathione disulfide,C_1C_T24
+HPos_639,L-Proline,C_1C_T24
+HPos_705,L-Threonine,C_1C_T24
+HPos_954,L-Asparagine,C_1C_T24
+HPos_962,L-Aspartic acid,C_1C_T24
+HPos_978,Dimethylsulfoniopropionate,C_1C_T24
+HPos_989,Adenine,C_1C_T24
+HPos_sky16,Creatine,C_1C_T24
+HPos_sky35,Glycine betaine,C_1C_T24
+HPos_sky38,Guanine,C_1C_T24
+HPos_sky45,Hypotaurine,C_1C_T24
+HPos_sky51,L-Glutamic acid,C_1C_T24
+HPos_sky54,L-Homoserine,C_1C_T24
+HPos_sky55,L-Isoleucine,C_1C_T24
+HPos_sky59,L-Methionine,C_1C_T24
+HPos_sky60,L-Methionine S-oxide,C_1C_T24
+HPos_sky64,L-Serine,C_1C_T24
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T24
+HPos_sky72,Ophthalmic acid,C_1C_T24
+HPos_sky73,Pipecolic acid,C_1C_T24
+HPos_sky74,Proline betaine,C_1C_T24
+RP_14640,Methylthioadenosine,C_1C_T24
+RP_20713,Riboflavin,C_1C_T24
+RP_3959,L-Phenylalanine,C_1C_T24
+RP_6828,L-Tryptophan,C_1C_T24
+RP_7155,L-Kynurenine,C_1C_T24
+RP_7669,Desthiobiotin,C_1C_T24
+RP_sky1,Agmatine,C_1C_T24
+RP_sky15,Nicotinic acid,C_1C_T24
+RP_sky16,Pantothenic acid,C_1C_T24
+RP_sky17,Pyridoxal,C_1C_T24
+RP_sky21,Pyridoxine,C_1C_T24
+RP_sky23,S-Adenosylhomocysteine,C_1C_T24
+RP_sky24,S-Adenosylmethionine,C_1C_T24
+HNeg_1963,Thymidine,C_1C_T30
+HNeg_1982,Uridine,C_1C_T30
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T30
+HNeg_2173,Inosine,C_1C_T30
+HNeg_2634,Trehalose,C_1C_T30
+HNeg_2635,Sucrose,C_1C_T30
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T30
+HNeg_609,"Taurine, 2H4",C_1C_T30
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T30
+HNeg_sky11,D-Gluconic acid,C_1C_T30
+HNeg_sky19,L-Cysteic acid,C_1C_T30
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T30
+HNeg_sky27,Succinic acid,C_1C_T30
+HNeg_sky32,Taurine,C_1C_T30
+HNeg_sky34,Threonic acid,C_1C_T30
+HNeg_sky36,Thymine,C_1C_T30
+HNeg_sky6,Adenosine monophosphate,C_1C_T30
+HPos_1007,Hypoxanthine,C_1C_T30
+HPos_108,Glycine,C_1C_T30
+HPos_1157,Ectoine,C_1C_T30
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T30
+HPos_1241,L-Glutamine,C_1C_T30
+HPos_1419,L-Histidine,C_1C_T30
+HPos_1496,5-Hydroxyectoine,C_1C_T30
+HPos_1519,Betonicine,C_1C_T30
+HPos_1848,Arsenobetaine,C_1C_T30
+HPos_1926,L-Tyrosine,C_1C_T30
+HPos_257,Sarcosine,C_1C_T30
+HPos_261,L-Alanine,C_1C_T30
+HPos_2837,Ergothioneine,C_1C_T30
+HPos_3067,Cytidine,C_1C_T30
+HPos_3196,Deoxyadenosine,C_1C_T30
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T30
+HPos_3429,Adenosine,C_1C_T30
+HPos_3670,Guanosine,C_1C_T30
+HPos_556,Cytosine,C_1C_T30
+HPos_5986,Glutathione disulfide,C_1C_T30
+HPos_639,L-Proline,C_1C_T30
+HPos_705,L-Threonine,C_1C_T30
+HPos_954,L-Asparagine,C_1C_T30
+HPos_962,L-Aspartic acid,C_1C_T30
+HPos_978,Dimethylsulfoniopropionate,C_1C_T30
+HPos_989,Adenine,C_1C_T30
+HPos_sky16,Creatine,C_1C_T30
+HPos_sky35,Glycine betaine,C_1C_T30
+HPos_sky38,Guanine,C_1C_T30
+HPos_sky45,Hypotaurine,C_1C_T30
+HPos_sky51,L-Glutamic acid,C_1C_T30
+HPos_sky54,L-Homoserine,C_1C_T30
+HPos_sky55,L-Isoleucine,C_1C_T30
+HPos_sky59,L-Methionine,C_1C_T30
+HPos_sky60,L-Methionine S-oxide,C_1C_T30
+HPos_sky64,L-Serine,C_1C_T30
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T30
+HPos_sky72,Ophthalmic acid,C_1C_T30
+HPos_sky73,Pipecolic acid,C_1C_T30
+HPos_sky74,Proline betaine,C_1C_T30
+RP_14640,Methylthioadenosine,C_1C_T30
+RP_20713,Riboflavin,C_1C_T30
+RP_3959,L-Phenylalanine,C_1C_T30
+RP_6828,L-Tryptophan,C_1C_T30
+RP_7155,L-Kynurenine,C_1C_T30
+RP_7669,Desthiobiotin,C_1C_T30
+RP_sky1,Agmatine,C_1C_T30
+RP_sky16,Pantothenic acid,C_1C_T30
+RP_sky17,Pyridoxal,C_1C_T30
+RP_sky21,Pyridoxine,C_1C_T30
+RP_sky23,S-Adenosylhomocysteine,C_1C_T30
+RP_sky24,S-Adenosylmethionine,C_1C_T30
+HNeg_1963,Thymidine,C_1C_T36
+HNeg_1982,Uridine,C_1C_T36
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T36
+HNeg_2173,Inosine,C_1C_T36
+HNeg_2634,Trehalose,C_1C_T36
+HNeg_2635,Sucrose,C_1C_T36
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T36
+HNeg_609,"Taurine, 2H4",C_1C_T36
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T36
+HNeg_sky11,D-Gluconic acid,C_1C_T36
+HNeg_sky19,L-Cysteic acid,C_1C_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T36
+HNeg_sky32,Taurine,C_1C_T36
+HNeg_sky34,Threonic acid,C_1C_T36
+HNeg_sky36,Thymine,C_1C_T36
+HNeg_sky6,Adenosine monophosphate,C_1C_T36
+HPos_1007,Hypoxanthine,C_1C_T36
+HPos_108,Glycine,C_1C_T36
+HPos_1157,Ectoine,C_1C_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T36
+HPos_1241,L-Glutamine,C_1C_T36
+HPos_1251,L-Lysine,C_1C_T36
+HPos_1419,L-Histidine,C_1C_T36
+HPos_1496,5-Hydroxyectoine,C_1C_T36
+HPos_1519,Betonicine,C_1C_T36
+HPos_1848,Arsenobetaine,C_1C_T36
+HPos_1926,L-Tyrosine,C_1C_T36
+HPos_257,Sarcosine,C_1C_T36
+HPos_261,L-Alanine,C_1C_T36
+HPos_2837,Ergothioneine,C_1C_T36
+HPos_3067,Cytidine,C_1C_T36
+HPos_3196,Deoxyadenosine,C_1C_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T36
+HPos_3429,Adenosine,C_1C_T36
+HPos_3670,Guanosine,C_1C_T36
+HPos_556,Cytosine,C_1C_T36
+HPos_5986,Glutathione disulfide,C_1C_T36
+HPos_639,L-Proline,C_1C_T36
+HPos_705,L-Threonine,C_1C_T36
+HPos_954,L-Asparagine,C_1C_T36
+HPos_962,L-Aspartic acid,C_1C_T36
+HPos_978,Dimethylsulfoniopropionate,C_1C_T36
+HPos_989,Adenine,C_1C_T36
+HPos_sky35,Glycine betaine,C_1C_T36
+HPos_sky38,Guanine,C_1C_T36
+HPos_sky45,Hypotaurine,C_1C_T36
+HPos_sky51,L-Glutamic acid,C_1C_T36
+HPos_sky54,L-Homoserine,C_1C_T36
+HPos_sky55,L-Isoleucine,C_1C_T36
+HPos_sky59,L-Methionine,C_1C_T36
+HPos_sky60,L-Methionine S-oxide,C_1C_T36
+HPos_sky64,L-Serine,C_1C_T36
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T36
+HPos_sky72,Ophthalmic acid,C_1C_T36
+HPos_sky73,Pipecolic acid,C_1C_T36
+HPos_sky74,Proline betaine,C_1C_T36
+RP_14640,Methylthioadenosine,C_1C_T36
+RP_20713,Riboflavin,C_1C_T36
+RP_3959,L-Phenylalanine,C_1C_T36
+RP_6828,L-Tryptophan,C_1C_T36
+RP_7155,L-Kynurenine,C_1C_T36
+RP_7669,Desthiobiotin,C_1C_T36
+RP_sky1,Agmatine,C_1C_T36
+RP_sky15,Nicotinic acid,C_1C_T36
+RP_sky16,Pantothenic acid,C_1C_T36
+RP_sky17,Pyridoxal,C_1C_T36
+RP_sky21,Pyridoxine,C_1C_T36
+RP_sky23,S-Adenosylhomocysteine,C_1C_T36
+RP_sky24,S-Adenosylmethionine,C_1C_T36
+RP_sky29,Xanthine,C_1C_T36
+HNeg_1963,Thymidine,C_1C_T42
+HNeg_1982,Uridine,C_1C_T42
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T42
+HNeg_2173,Inosine,C_1C_T42
+HNeg_2634,Trehalose,C_1C_T42
+HNeg_2635,Sucrose,C_1C_T42
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T42
+HNeg_609,"Taurine, 2H4",C_1C_T42
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T42
+HNeg_sky11,D-Gluconic acid,C_1C_T42
+HNeg_sky19,L-Cysteic acid,C_1C_T42
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T42
+HNeg_sky32,Taurine,C_1C_T42
+HNeg_sky34,Threonic acid,C_1C_T42
+HNeg_sky36,Thymine,C_1C_T42
+HNeg_sky6,Adenosine monophosphate,C_1C_T42
+HPos_1007,Hypoxanthine,C_1C_T42
+HPos_108,Glycine,C_1C_T42
+HPos_1157,Ectoine,C_1C_T42
+HPos_1241,L-Glutamine,C_1C_T42
+HPos_1419,L-Histidine,C_1C_T42
+HPos_1496,5-Hydroxyectoine,C_1C_T42
+HPos_1519,Betonicine,C_1C_T42
+HPos_1848,Arsenobetaine,C_1C_T42
+HPos_1926,L-Tyrosine,C_1C_T42
+HPos_257,Sarcosine,C_1C_T42
+HPos_261,L-Alanine,C_1C_T42
+HPos_2837,Ergothioneine,C_1C_T42
+HPos_3067,Cytidine,C_1C_T42
+HPos_3196,Deoxyadenosine,C_1C_T42
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T42
+HPos_3429,Adenosine,C_1C_T42
+HPos_3670,Guanosine,C_1C_T42
+HPos_556,Cytosine,C_1C_T42
+HPos_5986,Glutathione disulfide,C_1C_T42
+HPos_639,L-Proline,C_1C_T42
+HPos_705,L-Threonine,C_1C_T42
+HPos_954,L-Asparagine,C_1C_T42
+HPos_962,L-Aspartic acid,C_1C_T42
+HPos_978,Dimethylsulfoniopropionate,C_1C_T42
+HPos_989,Adenine,C_1C_T42
+HPos_sky35,Glycine betaine,C_1C_T42
+HPos_sky38,Guanine,C_1C_T42
+HPos_sky45,Hypotaurine,C_1C_T42
+HPos_sky51,L-Glutamic acid,C_1C_T42
+HPos_sky54,L-Homoserine,C_1C_T42
+HPos_sky55,L-Isoleucine,C_1C_T42
+HPos_sky59,L-Methionine,C_1C_T42
+HPos_sky60,L-Methionine S-oxide,C_1C_T42
+HPos_sky64,L-Serine,C_1C_T42
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T42
+HPos_sky72,Ophthalmic acid,C_1C_T42
+HPos_sky73,Pipecolic acid,C_1C_T42
+HPos_sky74,Proline betaine,C_1C_T42
+RP_14640,Methylthioadenosine,C_1C_T42
+RP_20713,Riboflavin,C_1C_T42
+RP_3959,L-Phenylalanine,C_1C_T42
+RP_6828,L-Tryptophan,C_1C_T42
+RP_7155,L-Kynurenine,C_1C_T42
+RP_7669,Desthiobiotin,C_1C_T42
+RP_sky1,Agmatine,C_1C_T42
+RP_sky16,Pantothenic acid,C_1C_T42
+RP_sky17,Pyridoxal,C_1C_T42
+RP_sky21,Pyridoxine,C_1C_T42
+RP_sky23,S-Adenosylhomocysteine,C_1C_T42
+RP_sky24,S-Adenosylmethionine,C_1C_T42
+RP_sky29,Xanthine,C_1C_T42
+HNeg_1963,Thymidine,C_1C_T48
+HNeg_1982,Uridine,C_1C_T48
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T48
+HNeg_2173,Inosine,C_1C_T48
+HNeg_2634,Trehalose,C_1C_T48
+HNeg_2635,Sucrose,C_1C_T48
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T48
+HNeg_609,"Taurine, 2H4",C_1C_T48
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T48
+HNeg_sky11,D-Gluconic acid,C_1C_T48
+HNeg_sky19,L-Cysteic acid,C_1C_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T48
+HNeg_sky27,Succinic acid,C_1C_T48
+HNeg_sky32,Taurine,C_1C_T48
+HNeg_sky34,Threonic acid,C_1C_T48
+HNeg_sky36,Thymine,C_1C_T48
+HNeg_sky6,Adenosine monophosphate,C_1C_T48
+HPos_1007,Hypoxanthine,C_1C_T48
+HPos_1022,Trigonelline,C_1C_T48
+HPos_108,Glycine,C_1C_T48
+HPos_1157,Ectoine,C_1C_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T48
+HPos_1241,L-Glutamine,C_1C_T48
+HPos_1251,L-Lysine,C_1C_T48
+HPos_1419,L-Histidine,C_1C_T48
+HPos_1496,5-Hydroxyectoine,C_1C_T48
+HPos_1519,Betonicine,C_1C_T48
+HPos_1848,Arsenobetaine,C_1C_T48
+HPos_1926,L-Tyrosine,C_1C_T48
+HPos_257,Sarcosine,C_1C_T48
+HPos_261,L-Alanine,C_1C_T48
+HPos_2837,Ergothioneine,C_1C_T48
+HPos_3067,Cytidine,C_1C_T48
+HPos_3196,Deoxyadenosine,C_1C_T48
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T48
+HPos_3429,Adenosine,C_1C_T48
+HPos_3670,Guanosine,C_1C_T48
+HPos_556,Cytosine,C_1C_T48
+HPos_5986,Glutathione disulfide,C_1C_T48
+HPos_639,L-Proline,C_1C_T48
+HPos_705,L-Threonine,C_1C_T48
+HPos_954,L-Asparagine,C_1C_T48
+HPos_962,L-Aspartic acid,C_1C_T48
+HPos_978,Dimethylsulfoniopropionate,C_1C_T48
+HPos_989,Adenine,C_1C_T48
+HPos_sky16,Creatine,C_1C_T48
+HPos_sky35,Glycine betaine,C_1C_T48
+HPos_sky38,Guanine,C_1C_T48
+HPos_sky45,Hypotaurine,C_1C_T48
+HPos_sky51,L-Glutamic acid,C_1C_T48
+HPos_sky54,L-Homoserine,C_1C_T48
+HPos_sky55,L-Isoleucine,C_1C_T48
+HPos_sky59,L-Methionine,C_1C_T48
+HPos_sky60,L-Methionine S-oxide,C_1C_T48
+HPos_sky64,L-Serine,C_1C_T48
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T48
+HPos_sky72,Ophthalmic acid,C_1C_T48
+HPos_sky73,Pipecolic acid,C_1C_T48
+HPos_sky74,Proline betaine,C_1C_T48
+RP_14640,Methylthioadenosine,C_1C_T48
+RP_20713,Riboflavin,C_1C_T48
+RP_3959,L-Phenylalanine,C_1C_T48
+RP_6828,L-Tryptophan,C_1C_T48
+RP_7155,L-Kynurenine,C_1C_T48
+RP_7669,Desthiobiotin,C_1C_T48
+RP_sky1,Agmatine,C_1C_T48
+RP_sky15,Nicotinic acid,C_1C_T48
+RP_sky16,Pantothenic acid,C_1C_T48
+RP_sky17,Pyridoxal,C_1C_T48
+RP_sky21,Pyridoxine,C_1C_T48
+RP_sky23,S-Adenosylhomocysteine,C_1C_T48
+RP_sky24,S-Adenosylmethionine,C_1C_T48
+RP_sky29,Xanthine,C_1C_T48
+HNeg_1982,Uridine,C_1C_T6
+HNeg_2117,D-Fructose 6-phosphate,C_1C_T6
+HNeg_2173,Inosine,C_1C_T6
+HNeg_2634,Trehalose,C_1C_T6
+HNeg_2635,Sucrose,C_1C_T6
+HNeg_3117,UDP-N-acetylglucosamine,C_1C_T6
+HNeg_sky1,2-Ketoglutaric acid,C_1C_T6
+HNeg_sky11,D-Gluconic acid,C_1C_T6
+HNeg_sky19,L-Cysteic acid,C_1C_T6
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_1C_T6
+HNeg_sky32,Taurine,C_1C_T6
+HNeg_sky6,Adenosine monophosphate,C_1C_T6
+HPos_1007,Hypoxanthine,C_1C_T6
+HPos_1157,Ectoine,C_1C_T6
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_1C_T6
+HPos_1241,L-Glutamine,C_1C_T6
+HPos_1496,5-Hydroxyectoine,C_1C_T6
+HPos_1848,Arsenobetaine,C_1C_T6
+HPos_1926,L-Tyrosine,C_1C_T6
+HPos_261,L-Alanine,C_1C_T6
+HPos_3067,Cytidine,C_1C_T6
+HPos_3196,Deoxyadenosine,C_1C_T6
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_1C_T6
+HPos_3429,Adenosine,C_1C_T6
+HPos_3670,Guanosine,C_1C_T6
+HPos_556,Cytosine,C_1C_T6
+HPos_5986,Glutathione disulfide,C_1C_T6
+HPos_639,L-Proline,C_1C_T6
+HPos_705,L-Threonine,C_1C_T6
+HPos_962,L-Aspartic acid,C_1C_T6
+HPos_978,Dimethylsulfoniopropionate,C_1C_T6
+HPos_989,Adenine,C_1C_T6
+HPos_sky35,Glycine betaine,C_1C_T6
+HPos_sky38,Guanine,C_1C_T6
+HPos_sky45,Hypotaurine,C_1C_T6
+HPos_sky51,L-Glutamic acid,C_1C_T6
+HPos_sky54,L-Homoserine,C_1C_T6
+HPos_sky55,L-Isoleucine,C_1C_T6
+HPos_sky59,L-Methionine,C_1C_T6
+HPos_sky60,L-Methionine S-oxide,C_1C_T6
+HPos_sky71,N6-Acetyl-L-lysine,C_1C_T6
+HPos_sky72,Ophthalmic acid,C_1C_T6
+HPos_sky73,Pipecolic acid,C_1C_T6
+HPos_sky74,Proline betaine,C_1C_T6
+RP_14640,Methylthioadenosine,C_1C_T6
+RP_20713,Riboflavin,C_1C_T6
+RP_3959,L-Phenylalanine,C_1C_T6
+RP_6828,L-Tryptophan,C_1C_T6
+RP_7155,L-Kynurenine,C_1C_T6
+RP_7669,Desthiobiotin,C_1C_T6
+RP_sky15,Nicotinic acid,C_1C_T6
+RP_sky16,Pantothenic acid,C_1C_T6
+RP_sky17,Pyridoxal,C_1C_T6
+RP_sky21,Pyridoxine,C_1C_T6
+RP_sky23,S-Adenosylhomocysteine,C_1C_T6
+RP_sky24,S-Adenosylmethionine,C_1C_T6
+RP_sky29,Xanthine,C_1C_T6
+HNeg_1982,Uridine,C_3LV_T0
+HNeg_2117,D-Fructose 6-phosphate,C_3LV_T0
+HNeg_2173,Inosine,C_3LV_T0
+HNeg_2635,Sucrose,C_3LV_T0
+HNeg_3117,UDP-N-acetylglucosamine,C_3LV_T0
+HNeg_sky1,2-Ketoglutaric acid,C_3LV_T0
+HNeg_sky11,D-Gluconic acid,C_3LV_T0
+HNeg_sky19,L-Cysteic acid,C_3LV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_3LV_T0
+HNeg_sky32,Taurine,C_3LV_T0
+HNeg_sky36,Thymine,C_3LV_T0
+HNeg_sky6,Adenosine monophosphate,C_3LV_T0
+HPos_1157,Ectoine,C_3LV_T0
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_3LV_T0
+HPos_1241,L-Glutamine,C_3LV_T0
+HPos_1848,Arsenobetaine,C_3LV_T0
+HPos_1926,L-Tyrosine,C_3LV_T0
+HPos_257,Sarcosine,C_3LV_T0
+HPos_261,L-Alanine,C_3LV_T0
+HPos_3067,Cytidine,C_3LV_T0
+HPos_3196,Deoxyadenosine,C_3LV_T0
+HPos_3429,Adenosine,C_3LV_T0
+HPos_3670,Guanosine,C_3LV_T0
+HPos_556,Cytosine,C_3LV_T0
+HPos_5986,Glutathione disulfide,C_3LV_T0
+HPos_639,L-Proline,C_3LV_T0
+HPos_705,L-Threonine,C_3LV_T0
+HPos_962,L-Aspartic acid,C_3LV_T0
+HPos_978,Dimethylsulfoniopropionate,C_3LV_T0
+HPos_989,Adenine,C_3LV_T0
+HPos_sky16,Creatine,C_3LV_T0
+HPos_sky35,Glycine betaine,C_3LV_T0
+HPos_sky38,Guanine,C_3LV_T0
+HPos_sky45,Hypotaurine,C_3LV_T0
+HPos_sky51,L-Glutamic acid,C_3LV_T0
+HPos_sky54,L-Homoserine,C_3LV_T0
+HPos_sky55,L-Isoleucine,C_3LV_T0
+HPos_sky59,L-Methionine,C_3LV_T0
+HPos_sky60,L-Methionine S-oxide,C_3LV_T0
+HPos_sky64,L-Serine,C_3LV_T0
+HPos_sky71,N6-Acetyl-L-lysine,C_3LV_T0
+HPos_sky72,Ophthalmic acid,C_3LV_T0
+HPos_sky73,Pipecolic acid,C_3LV_T0
+HPos_sky74,Proline betaine,C_3LV_T0
+RP_14640,Methylthioadenosine,C_3LV_T0
+RP_20713,Riboflavin,C_3LV_T0
+RP_3959,L-Phenylalanine,C_3LV_T0
+RP_6828,L-Tryptophan,C_3LV_T0
+RP_7155,L-Kynurenine,C_3LV_T0
+RP_7669,Desthiobiotin,C_3LV_T0
+RP_sky1,Agmatine,C_3LV_T0
+RP_sky16,Pantothenic acid,C_3LV_T0
+RP_sky17,Pyridoxal,C_3LV_T0
+RP_sky21,Pyridoxine,C_3LV_T0
+RP_sky23,S-Adenosylhomocysteine,C_3LV_T0
+RP_sky24,S-Adenosylmethionine,C_3LV_T0
+HNeg_1963,Thymidine,C_3LV_T12
+HNeg_1982,Uridine,C_3LV_T12
+HNeg_2117,D-Fructose 6-phosphate,C_3LV_T12
+HNeg_2173,Inosine,C_3LV_T12
+HNeg_2634,Trehalose,C_3LV_T12
+HNeg_2635,Sucrose,C_3LV_T12
+HNeg_3117,UDP-N-acetylglucosamine,C_3LV_T12
+HNeg_609,"Taurine, 2H4",C_3LV_T12
+HNeg_sky1,2-Ketoglutaric acid,C_3LV_T12
+HNeg_sky11,D-Gluconic acid,C_3LV_T12
+HNeg_sky19,L-Cysteic acid,C_3LV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_3LV_T12
+HNeg_sky27,Succinic acid,C_3LV_T12
+HNeg_sky32,Taurine,C_3LV_T12
+HNeg_sky34,Threonic acid,C_3LV_T12
+HNeg_sky36,Thymine,C_3LV_T12
+HNeg_sky6,Adenosine monophosphate,C_3LV_T12
+HPos_1007,Hypoxanthine,C_3LV_T12
+HPos_108,Glycine,C_3LV_T12
+HPos_1157,Ectoine,C_3LV_T12
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_3LV_T12
+HPos_1241,L-Glutamine,C_3LV_T12
+HPos_1419,L-Histidine,C_3LV_T12
+HPos_1496,5-Hydroxyectoine,C_3LV_T12
+HPos_1519,Betonicine,C_3LV_T12
+HPos_1848,Arsenobetaine,C_3LV_T12
+HPos_1926,L-Tyrosine,C_3LV_T12
+HPos_261,L-Alanine,C_3LV_T12
+HPos_3067,Cytidine,C_3LV_T12
+HPos_3196,Deoxyadenosine,C_3LV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_3LV_T12
+HPos_3429,Adenosine,C_3LV_T12
+HPos_3670,Guanosine,C_3LV_T12
+HPos_556,Cytosine,C_3LV_T12
+HPos_5986,Glutathione disulfide,C_3LV_T12
+HPos_639,L-Proline,C_3LV_T12
+HPos_705,L-Threonine,C_3LV_T12
+HPos_954,L-Asparagine,C_3LV_T12
+HPos_962,L-Aspartic acid,C_3LV_T12
+HPos_978,Dimethylsulfoniopropionate,C_3LV_T12
+HPos_989,Adenine,C_3LV_T12
+HPos_sky16,Creatine,C_3LV_T12
+HPos_sky35,Glycine betaine,C_3LV_T12
+HPos_sky38,Guanine,C_3LV_T12
+HPos_sky45,Hypotaurine,C_3LV_T12
+HPos_sky51,L-Glutamic acid,C_3LV_T12
+HPos_sky54,L-Homoserine,C_3LV_T12
+HPos_sky55,L-Isoleucine,C_3LV_T12
+HPos_sky59,L-Methionine,C_3LV_T12
+HPos_sky60,L-Methionine S-oxide,C_3LV_T12
+HPos_sky64,L-Serine,C_3LV_T12
+HPos_sky71,N6-Acetyl-L-lysine,C_3LV_T12
+HPos_sky72,Ophthalmic acid,C_3LV_T12
+HPos_sky73,Pipecolic acid,C_3LV_T12
+HPos_sky74,Proline betaine,C_3LV_T12
+RP_14640,Methylthioadenosine,C_3LV_T12
+RP_20713,Riboflavin,C_3LV_T12
+RP_3959,L-Phenylalanine,C_3LV_T12
+RP_6828,L-Tryptophan,C_3LV_T12
+RP_7155,L-Kynurenine,C_3LV_T12
+RP_7669,Desthiobiotin,C_3LV_T12
+RP_sky1,Agmatine,C_3LV_T12
+RP_sky16,Pantothenic acid,C_3LV_T12
+RP_sky17,Pyridoxal,C_3LV_T12
+RP_sky21,Pyridoxine,C_3LV_T12
+RP_sky23,S-Adenosylhomocysteine,C_3LV_T12
+RP_sky24,S-Adenosylmethionine,C_3LV_T12
+HNeg_1963,Thymidine,C_3LV_T24
+HNeg_1982,Uridine,C_3LV_T24
+HNeg_2117,D-Fructose 6-phosphate,C_3LV_T24
+HNeg_2173,Inosine,C_3LV_T24
+HNeg_2634,Trehalose,C_3LV_T24
+HNeg_2635,Sucrose,C_3LV_T24
+HNeg_3117,UDP-N-acetylglucosamine,C_3LV_T24
+HNeg_609,"Taurine, 2H4",C_3LV_T24
+HNeg_sky1,2-Ketoglutaric acid,C_3LV_T24
+HNeg_sky11,D-Gluconic acid,C_3LV_T24
+HNeg_sky19,L-Cysteic acid,C_3LV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_3LV_T24
+HNeg_sky27,Succinic acid,C_3LV_T24
+HNeg_sky32,Taurine,C_3LV_T24
+HNeg_sky34,Threonic acid,C_3LV_T24
+HNeg_sky36,Thymine,C_3LV_T24
+HNeg_sky6,Adenosine monophosphate,C_3LV_T24
+HPos_1007,Hypoxanthine,C_3LV_T24
+HPos_108,Glycine,C_3LV_T24
+HPos_1157,Ectoine,C_3LV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_3LV_T24
+HPos_1241,L-Glutamine,C_3LV_T24
+HPos_1419,L-Histidine,C_3LV_T24
+HPos_1496,5-Hydroxyectoine,C_3LV_T24
+HPos_1519,Betonicine,C_3LV_T24
+HPos_1848,Arsenobetaine,C_3LV_T24
+HPos_1926,L-Tyrosine,C_3LV_T24
+HPos_257,Sarcosine,C_3LV_T24
+HPos_261,L-Alanine,C_3LV_T24
+HPos_2837,Ergothioneine,C_3LV_T24
+HPos_3067,Cytidine,C_3LV_T24
+HPos_3196,Deoxyadenosine,C_3LV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_3LV_T24
+HPos_3429,Adenosine,C_3LV_T24
+HPos_3670,Guanosine,C_3LV_T24
+HPos_556,Cytosine,C_3LV_T24
+HPos_5986,Glutathione disulfide,C_3LV_T24
+HPos_639,L-Proline,C_3LV_T24
+HPos_705,L-Threonine,C_3LV_T24
+HPos_954,L-Asparagine,C_3LV_T24
+HPos_962,L-Aspartic acid,C_3LV_T24
+HPos_978,Dimethylsulfoniopropionate,C_3LV_T24
+HPos_989,Adenine,C_3LV_T24
+HPos_sky16,Creatine,C_3LV_T24
+HPos_sky35,Glycine betaine,C_3LV_T24
+HPos_sky38,Guanine,C_3LV_T24
+HPos_sky45,Hypotaurine,C_3LV_T24
+HPos_sky51,L-Glutamic acid,C_3LV_T24
+HPos_sky54,L-Homoserine,C_3LV_T24
+HPos_sky55,L-Isoleucine,C_3LV_T24
+HPos_sky59,L-Methionine,C_3LV_T24
+HPos_sky60,L-Methionine S-oxide,C_3LV_T24
+HPos_sky64,L-Serine,C_3LV_T24
+HPos_sky71,N6-Acetyl-L-lysine,C_3LV_T24
+HPos_sky72,Ophthalmic acid,C_3LV_T24
+HPos_sky73,Pipecolic acid,C_3LV_T24
+HPos_sky74,Proline betaine,C_3LV_T24
+RP_14640,Methylthioadenosine,C_3LV_T24
+RP_20713,Riboflavin,C_3LV_T24
+RP_3959,L-Phenylalanine,C_3LV_T24
+RP_6828,L-Tryptophan,C_3LV_T24
+RP_7155,L-Kynurenine,C_3LV_T24
+RP_7669,Desthiobiotin,C_3LV_T24
+RP_sky1,Agmatine,C_3LV_T24
+RP_sky16,Pantothenic acid,C_3LV_T24
+RP_sky17,Pyridoxal,C_3LV_T24
+RP_sky21,Pyridoxine,C_3LV_T24
+RP_sky23,S-Adenosylhomocysteine,C_3LV_T24
+RP_sky24,S-Adenosylmethionine,C_3LV_T24
+HNeg_1963,Thymidine,C_3LV_T36
+HNeg_1982,Uridine,C_3LV_T36
+HNeg_2117,D-Fructose 6-phosphate,C_3LV_T36
+HNeg_2173,Inosine,C_3LV_T36
+HNeg_2634,Trehalose,C_3LV_T36
+HNeg_2635,Sucrose,C_3LV_T36
+HNeg_3117,UDP-N-acetylglucosamine,C_3LV_T36
+HNeg_609,"Taurine, 2H4",C_3LV_T36
+HNeg_sky1,2-Ketoglutaric acid,C_3LV_T36
+HNeg_sky11,D-Gluconic acid,C_3LV_T36
+HNeg_sky19,L-Cysteic acid,C_3LV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_3LV_T36
+HNeg_sky32,Taurine,C_3LV_T36
+HNeg_sky34,Threonic acid,C_3LV_T36
+HNeg_sky36,Thymine,C_3LV_T36
+HNeg_sky6,Adenosine monophosphate,C_3LV_T36
+HPos_1007,Hypoxanthine,C_3LV_T36
+HPos_1022,Trigonelline,C_3LV_T36
+HPos_108,Glycine,C_3LV_T36
+HPos_1157,Ectoine,C_3LV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_3LV_T36
+HPos_1241,L-Glutamine,C_3LV_T36
+HPos_1251,L-Lysine,C_3LV_T36
+HPos_1419,L-Histidine,C_3LV_T36
+HPos_1496,5-Hydroxyectoine,C_3LV_T36
+HPos_1519,Betonicine,C_3LV_T36
+HPos_1848,Arsenobetaine,C_3LV_T36
+HPos_1926,L-Tyrosine,C_3LV_T36
+HPos_257,Sarcosine,C_3LV_T36
+HPos_261,L-Alanine,C_3LV_T36
+HPos_2837,Ergothioneine,C_3LV_T36
+HPos_3067,Cytidine,C_3LV_T36
+HPos_3196,Deoxyadenosine,C_3LV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_3LV_T36
+HPos_3429,Adenosine,C_3LV_T36
+HPos_3670,Guanosine,C_3LV_T36
+HPos_556,Cytosine,C_3LV_T36
+HPos_5986,Glutathione disulfide,C_3LV_T36
+HPos_639,L-Proline,C_3LV_T36
+HPos_705,L-Threonine,C_3LV_T36
+HPos_954,L-Asparagine,C_3LV_T36
+HPos_962,L-Aspartic acid,C_3LV_T36
+HPos_978,Dimethylsulfoniopropionate,C_3LV_T36
+HPos_989,Adenine,C_3LV_T36
+HPos_sky16,Creatine,C_3LV_T36
+HPos_sky35,Glycine betaine,C_3LV_T36
+HPos_sky38,Guanine,C_3LV_T36
+HPos_sky45,Hypotaurine,C_3LV_T36
+HPos_sky51,L-Glutamic acid,C_3LV_T36
+HPos_sky54,L-Homoserine,C_3LV_T36
+HPos_sky55,L-Isoleucine,C_3LV_T36
+HPos_sky59,L-Methionine,C_3LV_T36
+HPos_sky60,L-Methionine S-oxide,C_3LV_T36
+HPos_sky64,L-Serine,C_3LV_T36
+HPos_sky71,N6-Acetyl-L-lysine,C_3LV_T36
+HPos_sky72,Ophthalmic acid,C_3LV_T36
+HPos_sky73,Pipecolic acid,C_3LV_T36
+HPos_sky74,Proline betaine,C_3LV_T36
+RP_14640,Methylthioadenosine,C_3LV_T36
+RP_20713,Riboflavin,C_3LV_T36
+RP_3959,L-Phenylalanine,C_3LV_T36
+RP_6828,L-Tryptophan,C_3LV_T36
+RP_7155,L-Kynurenine,C_3LV_T36
+RP_7669,Desthiobiotin,C_3LV_T36
+RP_sky1,Agmatine,C_3LV_T36
+RP_sky16,Pantothenic acid,C_3LV_T36
+RP_sky17,Pyridoxal,C_3LV_T36
+RP_sky21,Pyridoxine,C_3LV_T36
+RP_sky23,S-Adenosylhomocysteine,C_3LV_T36
+RP_sky24,S-Adenosylmethionine,C_3LV_T36
+RP_sky29,Xanthine,C_3LV_T36
+HNeg_1963,Thymidine,C_3LV_T48
+HNeg_1982,Uridine,C_3LV_T48
+HNeg_2117,D-Fructose 6-phosphate,C_3LV_T48
+HNeg_2173,Inosine,C_3LV_T48
+HNeg_2634,Trehalose,C_3LV_T48
+HNeg_3117,UDP-N-acetylglucosamine,C_3LV_T48
+HNeg_sky1,2-Ketoglutaric acid,C_3LV_T48
+HNeg_sky11,D-Gluconic acid,C_3LV_T48
+HNeg_sky19,L-Cysteic acid,C_3LV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_3LV_T48
+HNeg_sky27,Succinic acid,C_3LV_T48
+HNeg_sky32,Taurine,C_3LV_T48
+HNeg_sky34,Threonic acid,C_3LV_T48
+HNeg_sky36,Thymine,C_3LV_T48
+HNeg_sky6,Adenosine monophosphate,C_3LV_T48
+HPos_1007,Hypoxanthine,C_3LV_T48
+HPos_1022,Trigonelline,C_3LV_T48
+HPos_108,Glycine,C_3LV_T48
+HPos_1157,Ectoine,C_3LV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_3LV_T48
+HPos_1241,L-Glutamine,C_3LV_T48
+HPos_1251,L-Lysine,C_3LV_T48
+HPos_1419,L-Histidine,C_3LV_T48
+HPos_1496,5-Hydroxyectoine,C_3LV_T48
+HPos_1519,Betonicine,C_3LV_T48
+HPos_1848,Arsenobetaine,C_3LV_T48
+HPos_1926,L-Tyrosine,C_3LV_T48
+HPos_257,Sarcosine,C_3LV_T48
+HPos_261,L-Alanine,C_3LV_T48
+HPos_3067,Cytidine,C_3LV_T48
+HPos_3196,Deoxyadenosine,C_3LV_T48
+HPos_3429,Adenosine,C_3LV_T48
+HPos_3670,Guanosine,C_3LV_T48
+HPos_556,Cytosine,C_3LV_T48
+HPos_5986,Glutathione disulfide,C_3LV_T48
+HPos_639,L-Proline,C_3LV_T48
+HPos_705,L-Threonine,C_3LV_T48
+HPos_954,L-Asparagine,C_3LV_T48
+HPos_962,L-Aspartic acid,C_3LV_T48
+HPos_978,Dimethylsulfoniopropionate,C_3LV_T48
+HPos_989,Adenine,C_3LV_T48
+HPos_sky16,Creatine,C_3LV_T48
+HPos_sky35,Glycine betaine,C_3LV_T48
+HPos_sky38,Guanine,C_3LV_T48
+HPos_sky45,Hypotaurine,C_3LV_T48
+HPos_sky51,L-Glutamic acid,C_3LV_T48
+HPos_sky54,L-Homoserine,C_3LV_T48
+HPos_sky55,L-Isoleucine,C_3LV_T48
+HPos_sky59,L-Methionine,C_3LV_T48
+HPos_sky60,L-Methionine S-oxide,C_3LV_T48
+HPos_sky64,L-Serine,C_3LV_T48
+HPos_sky71,N6-Acetyl-L-lysine,C_3LV_T48
+HPos_sky72,Ophthalmic acid,C_3LV_T48
+HPos_sky73,Pipecolic acid,C_3LV_T48
+HPos_sky74,Proline betaine,C_3LV_T48
+RP_14640,Methylthioadenosine,C_3LV_T48
+RP_20713,Riboflavin,C_3LV_T48
+RP_3959,L-Phenylalanine,C_3LV_T48
+RP_6828,L-Tryptophan,C_3LV_T48
+RP_7155,L-Kynurenine,C_3LV_T48
+RP_sky1,Agmatine,C_3LV_T48
+RP_sky15,Nicotinic acid,C_3LV_T48
+RP_sky16,Pantothenic acid,C_3LV_T48
+RP_sky17,Pyridoxal,C_3LV_T48
+RP_sky23,S-Adenosylhomocysteine,C_3LV_T48
+RP_sky24,S-Adenosylmethionine,C_3LV_T48
+RP_sky29,Xanthine,C_3LV_T48
+HNeg_1963,Thymidine,C_6HV_T0
+HNeg_1982,Uridine,C_6HV_T0
+HNeg_2117,D-Fructose 6-phosphate,C_6HV_T0
+HNeg_2173,Inosine,C_6HV_T0
+HNeg_2635,Sucrose,C_6HV_T0
+HNeg_3117,UDP-N-acetylglucosamine,C_6HV_T0
+HNeg_609,"Taurine, 2H4",C_6HV_T0
+HNeg_sky1,2-Ketoglutaric acid,C_6HV_T0
+HNeg_sky11,D-Gluconic acid,C_6HV_T0
+HNeg_sky19,L-Cysteic acid,C_6HV_T0
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_6HV_T0
+HNeg_sky32,Taurine,C_6HV_T0
+HNeg_sky36,Thymine,C_6HV_T0
+HNeg_sky6,Adenosine monophosphate,C_6HV_T0
+HPos_1007,Hypoxanthine,C_6HV_T0
+HPos_1157,Ectoine,C_6HV_T0
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_6HV_T0
+HPos_1241,L-Glutamine,C_6HV_T0
+HPos_1848,Arsenobetaine,C_6HV_T0
+HPos_1926,L-Tyrosine,C_6HV_T0
+HPos_257,Sarcosine,C_6HV_T0
+HPos_261,L-Alanine,C_6HV_T0
+HPos_3067,Cytidine,C_6HV_T0
+HPos_3196,Deoxyadenosine,C_6HV_T0
+HPos_3429,Adenosine,C_6HV_T0
+HPos_3670,Guanosine,C_6HV_T0
+HPos_556,Cytosine,C_6HV_T0
+HPos_5986,Glutathione disulfide,C_6HV_T0
+HPos_639,L-Proline,C_6HV_T0
+HPos_705,L-Threonine,C_6HV_T0
+HPos_954,L-Asparagine,C_6HV_T0
+HPos_962,L-Aspartic acid,C_6HV_T0
+HPos_978,Dimethylsulfoniopropionate,C_6HV_T0
+HPos_989,Adenine,C_6HV_T0
+HPos_sky16,Creatine,C_6HV_T0
+HPos_sky35,Glycine betaine,C_6HV_T0
+HPos_sky38,Guanine,C_6HV_T0
+HPos_sky45,Hypotaurine,C_6HV_T0
+HPos_sky51,L-Glutamic acid,C_6HV_T0
+HPos_sky54,L-Homoserine,C_6HV_T0
+HPos_sky55,L-Isoleucine,C_6HV_T0
+HPos_sky59,L-Methionine,C_6HV_T0
+HPos_sky60,L-Methionine S-oxide,C_6HV_T0
+HPos_sky64,L-Serine,C_6HV_T0
+HPos_sky71,N6-Acetyl-L-lysine,C_6HV_T0
+HPos_sky72,Ophthalmic acid,C_6HV_T0
+HPos_sky73,Pipecolic acid,C_6HV_T0
+HPos_sky74,Proline betaine,C_6HV_T0
+RP_14640,Methylthioadenosine,C_6HV_T0
+RP_20713,Riboflavin,C_6HV_T0
+RP_3959,L-Phenylalanine,C_6HV_T0
+RP_6828,L-Tryptophan,C_6HV_T0
+RP_7155,L-Kynurenine,C_6HV_T0
+RP_7669,Desthiobiotin,C_6HV_T0
+RP_sky1,Agmatine,C_6HV_T0
+RP_sky16,Pantothenic acid,C_6HV_T0
+RP_sky17,Pyridoxal,C_6HV_T0
+RP_sky21,Pyridoxine,C_6HV_T0
+RP_sky23,S-Adenosylhomocysteine,C_6HV_T0
+RP_sky24,S-Adenosylmethionine,C_6HV_T0
+RP_sky29,Xanthine,C_6HV_T0
+HNeg_1963,Thymidine,C_6HV_T12
+HNeg_1982,Uridine,C_6HV_T12
+HNeg_2117,D-Fructose 6-phosphate,C_6HV_T12
+HNeg_2173,Inosine,C_6HV_T12
+HNeg_2634,Trehalose,C_6HV_T12
+HNeg_2635,Sucrose,C_6HV_T12
+HNeg_3117,UDP-N-acetylglucosamine,C_6HV_T12
+HNeg_sky1,2-Ketoglutaric acid,C_6HV_T12
+HNeg_sky11,D-Gluconic acid,C_6HV_T12
+HNeg_sky19,L-Cysteic acid,C_6HV_T12
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_6HV_T12
+HNeg_sky32,Taurine,C_6HV_T12
+HNeg_sky36,Thymine,C_6HV_T12
+HNeg_sky6,Adenosine monophosphate,C_6HV_T12
+HPos_1007,Hypoxanthine,C_6HV_T12
+HPos_108,Glycine,C_6HV_T12
+HPos_1157,Ectoine,C_6HV_T12
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_6HV_T12
+HPos_1241,L-Glutamine,C_6HV_T12
+HPos_1496,5-Hydroxyectoine,C_6HV_T12
+HPos_1519,Betonicine,C_6HV_T12
+HPos_1848,Arsenobetaine,C_6HV_T12
+HPos_1926,L-Tyrosine,C_6HV_T12
+HPos_257,Sarcosine,C_6HV_T12
+HPos_261,L-Alanine,C_6HV_T12
+HPos_3067,Cytidine,C_6HV_T12
+HPos_3196,Deoxyadenosine,C_6HV_T12
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_6HV_T12
+HPos_3429,Adenosine,C_6HV_T12
+HPos_3670,Guanosine,C_6HV_T12
+HPos_556,Cytosine,C_6HV_T12
+HPos_5986,Glutathione disulfide,C_6HV_T12
+HPos_639,L-Proline,C_6HV_T12
+HPos_705,L-Threonine,C_6HV_T12
+HPos_954,L-Asparagine,C_6HV_T12
+HPos_962,L-Aspartic acid,C_6HV_T12
+HPos_978,Dimethylsulfoniopropionate,C_6HV_T12
+HPos_989,Adenine,C_6HV_T12
+HPos_sky16,Creatine,C_6HV_T12
+HPos_sky35,Glycine betaine,C_6HV_T12
+HPos_sky38,Guanine,C_6HV_T12
+HPos_sky45,Hypotaurine,C_6HV_T12
+HPos_sky51,L-Glutamic acid,C_6HV_T12
+HPos_sky54,L-Homoserine,C_6HV_T12
+HPos_sky55,L-Isoleucine,C_6HV_T12
+HPos_sky59,L-Methionine,C_6HV_T12
+HPos_sky60,L-Methionine S-oxide,C_6HV_T12
+HPos_sky64,L-Serine,C_6HV_T12
+HPos_sky71,N6-Acetyl-L-lysine,C_6HV_T12
+HPos_sky72,Ophthalmic acid,C_6HV_T12
+HPos_sky73,Pipecolic acid,C_6HV_T12
+HPos_sky74,Proline betaine,C_6HV_T12
+RP_14640,Methylthioadenosine,C_6HV_T12
+RP_20713,Riboflavin,C_6HV_T12
+RP_3959,L-Phenylalanine,C_6HV_T12
+RP_6828,L-Tryptophan,C_6HV_T12
+RP_7155,L-Kynurenine,C_6HV_T12
+RP_7669,Desthiobiotin,C_6HV_T12
+RP_sky1,Agmatine,C_6HV_T12
+RP_sky16,Pantothenic acid,C_6HV_T12
+RP_sky17,Pyridoxal,C_6HV_T12
+RP_sky21,Pyridoxine,C_6HV_T12
+RP_sky23,S-Adenosylhomocysteine,C_6HV_T12
+RP_sky24,S-Adenosylmethionine,C_6HV_T12
+RP_sky29,Xanthine,C_6HV_T12
+HNeg_1963,Thymidine,C_6HV_T24
+HNeg_1982,Uridine,C_6HV_T24
+HNeg_2117,D-Fructose 6-phosphate,C_6HV_T24
+HNeg_2173,Inosine,C_6HV_T24
+HNeg_2634,Trehalose,C_6HV_T24
+HNeg_2635,Sucrose,C_6HV_T24
+HNeg_3117,UDP-N-acetylglucosamine,C_6HV_T24
+HNeg_609,"Taurine, 2H4",C_6HV_T24
+HNeg_sky1,2-Ketoglutaric acid,C_6HV_T24
+HNeg_sky11,D-Gluconic acid,C_6HV_T24
+HNeg_sky19,L-Cysteic acid,C_6HV_T24
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_6HV_T24
+HNeg_sky27,Succinic acid,C_6HV_T24
+HNeg_sky32,Taurine,C_6HV_T24
+HNeg_sky34,Threonic acid,C_6HV_T24
+HNeg_sky36,Thymine,C_6HV_T24
+HNeg_sky6,Adenosine monophosphate,C_6HV_T24
+HPos_1007,Hypoxanthine,C_6HV_T24
+HPos_1022,Trigonelline,C_6HV_T24
+HPos_108,Glycine,C_6HV_T24
+HPos_1157,Ectoine,C_6HV_T24
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_6HV_T24
+HPos_1241,L-Glutamine,C_6HV_T24
+HPos_1251,L-Lysine,C_6HV_T24
+HPos_1419,L-Histidine,C_6HV_T24
+HPos_1496,5-Hydroxyectoine,C_6HV_T24
+HPos_1519,Betonicine,C_6HV_T24
+HPos_1848,Arsenobetaine,C_6HV_T24
+HPos_1926,L-Tyrosine,C_6HV_T24
+HPos_261,L-Alanine,C_6HV_T24
+HPos_2837,Ergothioneine,C_6HV_T24
+HPos_3067,Cytidine,C_6HV_T24
+HPos_3196,Deoxyadenosine,C_6HV_T24
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_6HV_T24
+HPos_3429,Adenosine,C_6HV_T24
+HPos_3670,Guanosine,C_6HV_T24
+HPos_556,Cytosine,C_6HV_T24
+HPos_5986,Glutathione disulfide,C_6HV_T24
+HPos_639,L-Proline,C_6HV_T24
+HPos_705,L-Threonine,C_6HV_T24
+HPos_954,L-Asparagine,C_6HV_T24
+HPos_962,L-Aspartic acid,C_6HV_T24
+HPos_978,Dimethylsulfoniopropionate,C_6HV_T24
+HPos_989,Adenine,C_6HV_T24
+HPos_sky16,Creatine,C_6HV_T24
+HPos_sky35,Glycine betaine,C_6HV_T24
+HPos_sky38,Guanine,C_6HV_T24
+HPos_sky45,Hypotaurine,C_6HV_T24
+HPos_sky51,L-Glutamic acid,C_6HV_T24
+HPos_sky54,L-Homoserine,C_6HV_T24
+HPos_sky55,L-Isoleucine,C_6HV_T24
+HPos_sky59,L-Methionine,C_6HV_T24
+HPos_sky60,L-Methionine S-oxide,C_6HV_T24
+HPos_sky64,L-Serine,C_6HV_T24
+HPos_sky71,N6-Acetyl-L-lysine,C_6HV_T24
+HPos_sky72,Ophthalmic acid,C_6HV_T24
+HPos_sky73,Pipecolic acid,C_6HV_T24
+HPos_sky74,Proline betaine,C_6HV_T24
+RP_14640,Methylthioadenosine,C_6HV_T24
+RP_20713,Riboflavin,C_6HV_T24
+RP_3959,L-Phenylalanine,C_6HV_T24
+RP_6828,L-Tryptophan,C_6HV_T24
+RP_7155,L-Kynurenine,C_6HV_T24
+RP_7669,Desthiobiotin,C_6HV_T24
+RP_sky16,Pantothenic acid,C_6HV_T24
+RP_sky17,Pyridoxal,C_6HV_T24
+RP_sky21,Pyridoxine,C_6HV_T24
+RP_sky23,S-Adenosylhomocysteine,C_6HV_T24
+RP_sky24,S-Adenosylmethionine,C_6HV_T24
+RP_sky29,Xanthine,C_6HV_T24
+HNeg_1963,Thymidine,C_6HV_T36
+HNeg_1982,Uridine,C_6HV_T36
+HNeg_2117,D-Fructose 6-phosphate,C_6HV_T36
+HNeg_2173,Inosine,C_6HV_T36
+HNeg_2634,Trehalose,C_6HV_T36
+HNeg_3117,UDP-N-acetylglucosamine,C_6HV_T36
+HNeg_sky1,2-Ketoglutaric acid,C_6HV_T36
+HNeg_sky11,D-Gluconic acid,C_6HV_T36
+HNeg_sky19,L-Cysteic acid,C_6HV_T36
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_6HV_T36
+HNeg_sky32,Taurine,C_6HV_T36
+HNeg_sky36,Thymine,C_6HV_T36
+HNeg_sky6,Adenosine monophosphate,C_6HV_T36
+HPos_1007,Hypoxanthine,C_6HV_T36
+HPos_1022,Trigonelline,C_6HV_T36
+HPos_108,Glycine,C_6HV_T36
+HPos_1157,Ectoine,C_6HV_T36
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_6HV_T36
+HPos_1241,L-Glutamine,C_6HV_T36
+HPos_1419,L-Histidine,C_6HV_T36
+HPos_1496,5-Hydroxyectoine,C_6HV_T36
+HPos_1519,Betonicine,C_6HV_T36
+HPos_1848,Arsenobetaine,C_6HV_T36
+HPos_1926,L-Tyrosine,C_6HV_T36
+HPos_257,Sarcosine,C_6HV_T36
+HPos_261,L-Alanine,C_6HV_T36
+HPos_2837,Ergothioneine,C_6HV_T36
+HPos_3067,Cytidine,C_6HV_T36
+HPos_3196,Deoxyadenosine,C_6HV_T36
+HPos_3236,2-O-alpha-D-Glucosylglycerol,C_6HV_T36
+HPos_3429,Adenosine,C_6HV_T36
+HPos_3670,Guanosine,C_6HV_T36
+HPos_556,Cytosine,C_6HV_T36
+HPos_5986,Glutathione disulfide,C_6HV_T36
+HPos_639,L-Proline,C_6HV_T36
+HPos_705,L-Threonine,C_6HV_T36
+HPos_962,L-Aspartic acid,C_6HV_T36
+HPos_978,Dimethylsulfoniopropionate,C_6HV_T36
+HPos_989,Adenine,C_6HV_T36
+HPos_sky16,Creatine,C_6HV_T36
+HPos_sky35,Glycine betaine,C_6HV_T36
+HPos_sky38,Guanine,C_6HV_T36
+HPos_sky45,Hypotaurine,C_6HV_T36
+HPos_sky51,L-Glutamic acid,C_6HV_T36
+HPos_sky54,L-Homoserine,C_6HV_T36
+HPos_sky55,L-Isoleucine,C_6HV_T36
+HPos_sky59,L-Methionine,C_6HV_T36
+HPos_sky60,L-Methionine S-oxide,C_6HV_T36
+HPos_sky64,L-Serine,C_6HV_T36
+HPos_sky71,N6-Acetyl-L-lysine,C_6HV_T36
+HPos_sky72,Ophthalmic acid,C_6HV_T36
+HPos_sky73,Pipecolic acid,C_6HV_T36
+HPos_sky74,Proline betaine,C_6HV_T36
+RP_14640,Methylthioadenosine,C_6HV_T36
+RP_20713,Riboflavin,C_6HV_T36
+RP_3959,L-Phenylalanine,C_6HV_T36
+RP_6828,L-Tryptophan,C_6HV_T36
+RP_7155,L-Kynurenine,C_6HV_T36
+RP_sky15,Nicotinic acid,C_6HV_T36
+RP_sky16,Pantothenic acid,C_6HV_T36
+RP_sky17,Pyridoxal,C_6HV_T36
+RP_sky21,Pyridoxine,C_6HV_T36
+RP_sky23,S-Adenosylhomocysteine,C_6HV_T36
+RP_sky24,S-Adenosylmethionine,C_6HV_T36
+HNeg_1963,Thymidine,C_6HV_T48
+HNeg_1982,Uridine,C_6HV_T48
+HNeg_2117,D-Fructose 6-phosphate,C_6HV_T48
+HNeg_2173,Inosine,C_6HV_T48
+HNeg_2634,Trehalose,C_6HV_T48
+HNeg_3117,UDP-N-acetylglucosamine,C_6HV_T48
+HNeg_sky1,2-Ketoglutaric acid,C_6HV_T48
+HNeg_sky11,D-Gluconic acid,C_6HV_T48
+HNeg_sky19,L-Cysteic acid,C_6HV_T48
+HNeg_sky22,N-Acetyl-L-glutamic acid,C_6HV_T48
+HNeg_sky32,Taurine,C_6HV_T48
+HNeg_sky34,Threonic acid,C_6HV_T48
+HNeg_sky36,Thymine,C_6HV_T48
+HNeg_sky6,Adenosine monophosphate,C_6HV_T48
+HPos_1007,Hypoxanthine,C_6HV_T48
+HPos_108,Glycine,C_6HV_T48
+HPos_1157,Ectoine,C_6HV_T48
+HPos_1230,(3-Carboxypropyl)trimethylammonium,C_6HV_T48
+HPos_1241,L-Glutamine,C_6HV_T48
+HPos_1419,L-Histidine,C_6HV_T48
+HPos_1496,5-Hydroxyectoine,C_6HV_T48
+HPos_1519,Betonicine,C_6HV_T48
+HPos_1848,Arsenobetaine,C_6HV_T48
+HPos_1926,L-Tyrosine,C_6HV_T48
+HPos_257,Sarcosine,C_6HV_T48
+HPos_261,L-Alanine,C_6HV_T48
+HPos_2837,Ergothioneine,C_6HV_T48
+HPos_3067,Cytidine,C_6HV_T48
+HPos_3196,Deoxyadenosine,C_6HV_T48
+HPos_3429,Adenosine,C_6HV_T48
+HPos_3670,Guanosine,C_6HV_T48
+HPos_556,Cytosine,C_6HV_T48
+HPos_5986,Glutathione disulfide,C_6HV_T48
+HPos_639,L-Proline,C_6HV_T48
+HPos_705,L-Threonine,C_6HV_T48
+HPos_962,L-Aspartic acid,C_6HV_T48
+HPos_978,Dimethylsulfoniopropionate,C_6HV_T48
+HPos_989,Adenine,C_6HV_T48
+HPos_sky16,Creatine,C_6HV_T48
+HPos_sky35,Glycine betaine,C_6HV_T48
+HPos_sky38,Guanine,C_6HV_T48
+HPos_sky45,Hypotaurine,C_6HV_T48
+HPos_sky51,L-Glutamic acid,C_6HV_T48
+HPos_sky54,L-Homoserine,C_6HV_T48
+HPos_sky55,L-Isoleucine,C_6HV_T48
+HPos_sky59,L-Methionine,C_6HV_T48
+HPos_sky60,L-Methionine S-oxide,C_6HV_T48
+HPos_sky64,L-Serine,C_6HV_T48
+HPos_sky71,N6-Acetyl-L-lysine,C_6HV_T48
+HPos_sky73,Pipecolic acid,C_6HV_T48
+HPos_sky74,Proline betaine,C_6HV_T48
+RP_14640,Methylthioadenosine,C_6HV_T48
+RP_20713,Riboflavin,C_6HV_T48
+RP_3959,L-Phenylalanine,C_6HV_T48
+RP_6828,L-Tryptophan,C_6HV_T48
+RP_7155,L-Kynurenine,C_6HV_T48
+RP_sky16,Pantothenic acid,C_6HV_T48
+RP_sky17,Pyridoxal,C_6HV_T48
+RP_sky21,Pyridoxine,C_6HV_T48
+RP_sky23,S-Adenosylhomocysteine,C_6HV_T48
+RP_sky24,S-Adenosylmethionine,C_6HV_T48
+RP_sky29,Xanthine,C_6HV_T48

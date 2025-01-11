@@ -1,0 +1,19 @@
+experiment,treatment,replicate,time,division,division_sd,carbon_fixation,fixation_sd,carbon_loss,loss_sd
+Ac,Control,A,24,0.426,0.027,33.984,0.601,19.199,0.918
+Ahv,High virus,A,24,0.274,0.041,22.743,0.461,11.549,1.336
+Alv,Low virus,A,24,0.384,0.033,32.286,0.637,19.906,1.261
+Bc,Control,B,24,0.42,0.023,35.769,0.677,20.518,0.615
+Bhv,High virus,B,24,0.231,0.017,26.01,0.5,12.827,0.788
+Blv,Low virus,B,24,0.359,0.02,33.245,0.544,19.783,0.582
+Cc,Control,C,24,0.569,0.056,31.848,0.913,14.983,1.745
+Chv,High virus,C,24,0.336,0.03,22.951,0.48,9.29,0.85
+Clv,Low virus,C,24,0.426,0.053,31.522,0.953,19.759,1.701
+Ac,Control,A,48,0.322,0.055,33.803,0.384,19.965,0.575
+Ahv,High virus,A,48,NA,NA,NA,NA,NA,NA
+Alv,Low virus,A,48,0.271,0.015,23.803,0.384,9.965,0.575
+Bc,Control,B,48,0.422,0.033,35.053,0.776,20.593,0.673
+Bhv,High virus,B,48,NA,NA,NA,NA,NA,NA
+Blv,Low virus,B,48,0.23,0.027,26.611,0.449,14.713,0.739
+Cc,Control,C,48,0.554,0.023,30.698,0.845,15.5,0.964
+Chv,High virus,C,48,NA,NA,NA,NA,NA,NA
+Clv,Low virus,C,48,0.408,0.034,26.218,0.615,9.167,0.827
