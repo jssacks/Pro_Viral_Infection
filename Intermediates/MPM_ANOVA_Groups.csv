@@ -1,0 +1,16 @@
+treatment,Time,groups,parameter,alpha
+Low virus,24,a,c_loss,0.01
+Control,48,a,c_loss,0.01
+Control,24,a,c_loss,0.01
+Low virus,48,b,c_loss,0.01
+High virus,24,b,c_loss,0.01
+Control,24,a,division,0.01
+Control,48,ab,division,0.01
+Low virus,24,ab,division,0.01
+Low virus,48,b,division,0.01
+High virus,24,b,division,0.01
+Control,24,a,C_fixation,0.01
+Control,48,a,C_fixation,0.01
+Low virus,24,a,C_fixation,0.01
+Low virus,48,b,C_fixation,0.01
+High virus,24,b,C_fixation,0.01

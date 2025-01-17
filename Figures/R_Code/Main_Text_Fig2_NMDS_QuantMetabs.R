@@ -10,8 +10,8 @@ library(viridis)
 
 
 ###
-quant.dat <- read_csv("Intermediates/ProMo_Particulate_Quant_Output.csv")
-qc2.dat <- read_csv("Intermediates/ProMo_Particulate_QC2_data.csv")
+metab.dat <- read_csv("Intermediates/Final_Processed_Untargeted_Data.csv")
+quant.dat <- read_csv("Intermediates/Final_Processed_Quantified_Data.csv")
 
 
 
@@ -21,45 +21,37 @@ qc2.dat <- read_csv("Intermediates/ProMo_Particulate_QC2_data.csv")
 ####################
 #Define inputs
 
-MF.details <- qc2.dat %>%
-  select(MF, mz, RT) %>%
-  unique()
+# MF.details <- metab.dat %>%
+#   select(MF, mz, RT) %>%
+#   unique()
 
 
 ####Sample Meta data
-samp.meta.dat <- qc2.dat %>%
+samp.meta.dat <- metab.dat %>%
   select(SampID, Time, biorep, treatment, Pro, BacTot, BacSml, BacLrg, Phage) %>%
   unique() %>%
   filter(treatment %in% c("C", "LV", "HV")) %>%
-  filter(!SampID == "C_3LV_T48")
+  filter(!SampID == "C_3LV_T48") %>%
+  filter(treatment %in% c("C", "LV", "HV")) %>%
+  mutate(treatment = fct_relevel(treatment, c("C", "LV", "HV"))) 
 
 
 ###Generate Sample Subsets:
-norm.dat <- qc2.dat %>%
+norm.dat <- metab.dat %>%
   select(MF, SampID, Adjusted_Area, Vol.filt.mL, Time, biorep, treatment, Pro, BacTot, BacSml, BacLrg, Phage, Name, fraction) %>%
   mutate(vol.norm.area = Adjusted_Area/Vol.filt.mL) %>%
   filter(treatment %in% c("C", "LV", "HV")) %>%
   filter(!MF == "Vit_OH-pB12") %>%
-  filter(!SampID == "C_3LV_T48")# %>%
+  filter(!SampID == "C_3LV_T48") %>%
+  unique()# %>%
 #  filter(Time %in% c(0, 12, 24, 36, 48))
 
-nmds.dat <- norm.dat %>%
-  select(MF, SampID, vol.norm.area) %>%
-  pivot_wider(id_cols = SampID, names_from = MF, values_from = vol.norm.area) %>%
-  column_to_rownames(var = "SampID")
+
+
 
 
 ####################
 # NMDS Analysis of Samples 
-
-norm.dat <- qc2.dat %>%
-  select(MF, SampID, Adjusted_Area, Vol.filt.mL, Time, biorep, treatment, Pro, BacTot, BacSml, BacLrg, Phage, Name, fraction) %>%
-  mutate(vol.norm.area = Adjusted_Area/Vol.filt.mL) %>%
-  filter(treatment %in% c("C", "LV", "HV")) %>%
-  filter(!MF == "Vit_OH-pB12") %>%
-  filter(!SampID == "C_3LV_T48")# %>%
-#  filter(Time %in% c(0, 12, 24, 36, 48))
-
 nmds.dat <- norm.dat %>%
   select(MF, SampID, vol.norm.area) %>%
   pivot_wider(id_cols = SampID, names_from = MF, values_from = vol.norm.area) %>%
@@ -87,7 +79,7 @@ nmds.fig <- ggplot(nmds.out.plot, aes(x = MDS2, y = MDS1, shape = treatment)) +
   # geom_polygon(data = hull, aes(x = MDS2, y = MDS1), alpha = 0.2) +
   geom_point(size = 3.5, stroke = 1, alpha = 0.8, aes(fill = factor(Time)))  +
   theme_test() + 
-  scale_shape_manual(values = c(22, 21, 24)) +
+  scale_shape_manual(values = c(21, 22, 24)) +
   scale_fill_viridis(option = "B", discrete = "TRUE", direction = 1) +
   scale_color_viridis(option = "B", discrete = "TRUE", direction = 1) +
   guides(fill = guide_legend(override.aes = list(shape = 21)),
@@ -103,12 +95,12 @@ nmds.fig
 ##################################
 ###Define inputs
 microb.C.file <- "Intermediates/microbial_C_content.csv"
-quant.metab.file <- "Intermediates/ProMo_Particulate_Quant_Output.csv"
-metab.meta.file  <- "Intermediates/ProMo_Particulate_QC2_data.csv"
-
+quant.metab.file <- "Intermediates/Final_Processed_Quantified_Data.csv"
+metab.meta.file  <- "Intermediates/Final_Processed_Untargeted_Data.csv"
+pal <- c("#cfd4d8", "#73a596", "#365759")
 
 #metabolite data:
-metab.meta.dat <- read_csv(metab.file) %>%
+metab.meta.dat <- read_csv(metab.meta.file) %>%
   filter(treatment %in% c("C", "LV", "HV")) %>%
   select(SampID, Time, biorep, treatment) %>%
   rename("time" = Time) %>%
@@ -130,13 +122,14 @@ m.C.dat <- read_csv(microb.C.file) %>%
 
 ###Combine metabolite and C data:
 metab.c.dat <- left_join(quant.metab.dat, m.C.dat) %>%
-  mutate(Metab_Perc_C = (nM_C/microb.C.nM)*100)
+  mutate(Metab_Perc_C = (nM_C/microb.C.nM)*100) %>%
+  filter(!is.na(Metab_Perc_C))
 
 
 ###Aggregate figure
 agg.dat <- metab.c.dat %>%
   group_by(biorep, treatment, time) %>%
-  summarize(metab.tot.C = sum(Metab_Perc_C)) %>%
+  summarize(metab.tot.C = sum(Metab_Perc_C, na.rm = TRUE)) %>%
   filter(!is.na(treatment)) %>%
   ungroup() %>%
   mutate(treatment = fct_relevel(treatment, c("C", "LV", "HV")))  
@@ -145,12 +138,12 @@ metab.c.perc.fig <- ggplot(agg.dat, aes(x = treatment, y = metab.tot.C)) +
   geom_boxplot(width = 0.5, alpha = 0.5) +
   geom_jitter(size = 2.5, width = 0.1, aes(shape = biorep, fill = treatment)) +
   scale_shape_manual(values = c(21, 22, 23)) +
-  scale_fill_manual(values = c("aliceblue", "steelblue", "darkblue")) +
+  scale_fill_manual(values = pal) +
   scale_y_continuous(limits = c(0,15)) +
   theme_bw() +
   guides(fill = guide_legend(override.aes = list(shape=21))) +
-  ylab("Percent of Microbial C in metabolites (%)")
-
+  ylab("Percent of microbial C in metabolites (%)")
+metab.c.perc.fig
 
 
 ################################# Quantified Metabolite Bar Plots
@@ -224,7 +217,7 @@ barplot.fig <- ggplot(dat.fig, aes(x = Timepoint, y = nM.C, fill = reorder(Name,
   scale_fill_tableau(palette = "Tableau 20")+
   theme_test() +
   scale_y_continuous(expand = c(0, NA, NA, NA)) +
-  ylab("Mean mol % C") +
+  ylab("Mole Fraction C (%)") +
   labs(fill = "Compound") +
   #scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
@@ -237,13 +230,13 @@ barplot.fig
 metabolome.fig <- ggarrange(
   ggarrange(nmds.fig, NA, metab.c.perc.fig,
             nrow = 1, ncol = 3, widths = c(0.6, 0.05, 0.35),
-            labels = c("A", NA, "B")), NA,
+            labels = c("A", NA, "C")), NA,
   barplot.fig, nrow = 3, ncol = 1, heights = c(0.4, 0.05, 0.55),
-  labels = c(NA, NA, "C")
+  labels = c(NA, NA, "B")
   )
 metabolome.fig
 
-ggsave(metabolome.fig, filename = "Figures/Figures/NMDS_QuantMetab_Fig.png",
+ggsave(metabolome.fig, filename = "Figures/Outputs/NMDS_QuantMetab_Fig.png",
        dpi = 800, scale = 1.3, bg = "white",
        units = "in", height = 8, width = 8)
 

@@ -5,8 +5,8 @@ library(ggdendro)
 
 
 ###
-transcript.file <- "Data_Raw/Transcripts/MED4_annot_DE+non-DE_082823_normalized.csv"
-transcript.file.2 <- "Data_Raw/Transcripts/HV_LFC+pval_MED4norm.csv"
+transcript.file <- "Collaborator_Data/Transcripts/MED4_annot_DE+non-DE_082823_normalized.csv"
+transcript.file.2 <- "Collaborator_Data/Transcripts/HV_LFC+pval_MED4norm.csv"
 
 transcript.dat <- read_csv(transcript.file)
 transcript.dat.2 <- read_csv(transcript.file.2)
@@ -29,7 +29,7 @@ t.sml.p <- t.sml %>%
                             val <= 0.01 & val > 0.005 ~ "**",
                             val <= 0.005 ~ "***",
                             TRUE ~ "")) %>%
-  select(GENE.NAME, Samp_Name, val, signif)
+  select(GENE.NAME, Samp_Name, signif)
 
 t.sml.dat <- t.sml %>%
   filter(param == "FC") %>%
@@ -52,7 +52,7 @@ suc.t.plots <- ggplot(suc.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
   geom_tile(color = "black", height = 0.4, width = 1) +
   theme_test() +
   geom_text(aes(label = signif), color = "white", size = 5.5, vjust = 0.8) +
-  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12) +
+  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12, limits = c(-2, 2)) +
   facet_wrap(.~GENE.NAME, scales = "free") +
   theme(strip.background = element_blank(), 
         strip.text = element_blank(), 
@@ -69,7 +69,7 @@ suc.t.plots <- ggplot(suc.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
 suc.t.plots
 
 
-ggsave(suc.t.plots, filename = "Figures/Figures/Sucrose_Transcripts_Separate.png",
+ggsave(suc.t.plots, filename = "Figures/Outputs/Sucrose_Transcripts_Separate.png",
        height = 5, width = 10, scale = 1.2, dpi = 1200)
 
 
@@ -82,7 +82,7 @@ asp.t.plots <- ggplot(asp.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
   geom_tile(color = "black", height = 0.4, width = 1) +
   theme_test() +
   geom_text(aes(label = signif), color = "white", size = 5.5, vjust = 0.8) +
-  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12) +
+  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12, limits = c(-2, 2)) +
   facet_wrap(.~GENE.NAME, scales = "free") +
   theme(strip.background = element_blank(), 
         strip.text = element_blank(), 
@@ -98,8 +98,8 @@ asp.t.plots <- ggplot(asp.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
 
 asp.t.plots
 
-ggsave(asp.t.plots, filename = "Figures/Figures/Aspartate_Transcripts_Separate.png",
-       height = 5, width = 10, scale = 1.2, dpi = 1200)
+ggsave(asp.t.plots, filename = "Figures/Outputs/Aspartate_Transcripts_Separate.png",
+       height = 7, width = 10, scale = 1.2, dpi = 1200)
 
 ####### Antioxidant Transcripts:
 
@@ -110,7 +110,7 @@ gssg.t.plots <- ggplot(gssg.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, 
   geom_tile(color = "black", height = 0.4, width = 1) +
   theme_test() +
   geom_text(aes(label = signif), color = "white", size = 5.5, vjust = 0.8) +
-  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12) +
+  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12, limits = c(-2, 2)) +
   facet_wrap(.~GENE.NAME, scales = "free") +
   theme(strip.background = element_blank(), 
         strip.text = element_blank(), 
@@ -127,7 +127,7 @@ gssg.t.plots <- ggplot(gssg.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, 
 gssg.t.plots
 
 
-ggsave(gssg.t.plots, filename = "Figures/Figures/GSSG_Transcripts_Separate.png",
+ggsave(gssg.t.plots, filename = "Figures/Outputs/GSSG_Transcripts_Separate.png",
        height = 5, width = 10, scale = 1.2, dpi = 1200)
 
 
@@ -140,7 +140,7 @@ sam.t.plots <- ggplot(sam.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
   geom_tile(color = "black", height = 0.4, width = 1) +
   theme_test() +
   geom_text(aes(label = signif), color = "white", size = 5.5, vjust = 0.8) +
-  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12) +
+  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12, limits = c(-2, 2)) +
   facet_wrap(.~GENE.NAME, scales = "free") +
   theme(strip.background = element_blank(), 
         strip.text = element_blank(), 
@@ -156,7 +156,7 @@ sam.t.plots <- ggplot(sam.t.dat, aes(x = as.factor(Samp_Name), y = GENE.NAME, fi
 
 sam.t.plots
 
-ggsave(sam.t.plots, filename = "Figures/Figures/SAM_Transcripts_Separate.png",
+ggsave(sam.t.plots, filename = "Figures/Outputs/SAM_Transcripts_Separate.png",
        height = 5, width = 10, scale = 1.2, dpi = 1200)
 
 
@@ -190,16 +190,20 @@ dend.order <- dend.dat$labels %>%
 
 cob.t.fig <- left_join(cob.t.dat, dend.order)
 
-ggplot(cob.t.fig, aes(x = as.factor(Samp_Name), y = reorder(GENE.NAME, -order), fill = FC)) + 
+pb12.t.fig <- ggplot(cob.t.fig, aes(x = as.factor(Samp_Name), y = reorder(GENE.NAME, -order), fill = FC)) + 
   geom_tile(color = "black") +
   theme_minimal() +
   geom_text(aes(label = signif), color = "white", size = 5.5, vjust = 0.8) +
-  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12) +
+  scale_fill_steps2(low = "steelblue3", mid = "white", high = "red2", n.breaks = 12, limits = c(-2, 2)) +
   theme(legend.key.height= unit(1.5, 'cm'),
         legend.key.width= unit(0.5, 'cm')) +
   xlab("Time") +
   ylab("Gene Name")
+pb12.t.fig
 
+#export pb12 transcript plot:
+ggsave(pb12.t.fig, file = "Figures/Outputs/cob_transcripts_heatmap.png",
+       dpi = 800, units = "in", height = 7, width = 4, bg = "white")
 
 
 
