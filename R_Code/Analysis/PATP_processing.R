@@ -61,6 +61,20 @@ pATP.sum <- pATP.keep %>%
 write_csv(pATP.sum, file = "Intermediates/pATP_nM_processed.csv")
 
 
+#make supplemental table:
+atp.sup <- pATP.sum %>%
+  rename("Treatment" = treatment,
+         "Time" = time,
+         "Rep" = biorep,
+         "Mean_Particulate_ATP_Conc_nM" = mean.conc.nM,
+         "SD_Particulate_ATP_Conc_nM" = sd.conc.nM,
+         "Mean_ATP_Estimated_Living_Biomass_fg_mL" = mean.live.C.fg.mL,
+         "SD_ATP_Estimated_Living_Biomass_fg_mL" = sd.live.C.fg.mL) %>%
+  select(Treatment, Time, Rep, Mean_Particulate_ATP_Conc_nM, SD_Particulate_ATP_Conc_nM,
+         Mean_ATP_Estimated_Living_Biomass_fg_mL, SD_ATP_Estimated_Living_Biomass_fg_mL)
+
+#save supplemental table
+write_csv(atp.sup, file = "Tables/Outputs/ATP_Supplemental_Table.csv")
 
 
 

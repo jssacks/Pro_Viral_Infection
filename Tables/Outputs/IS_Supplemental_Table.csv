@@ -1,0 +1,31 @@
+IS,IS.Conc.uM,Fraction
+"Indole-3-acetic acid, 2H5",5,RP
+"L-Phenylalanine, 2H8",0.1,RP
+"L-Tryptophan, 2H3",0.1,RP
+"Pyridoxal, 2H3",0.2,RP
+"Vitamin B2, 13C4, 15N2",0.1,RP
+"Thiamine, 13C3",0.2,RP
+"Tryptamine, 2H4",2.5,RP
+"3-Sulfolactate, 13C3",1,HILIC
+"Adenine, 15N2",1,HILIC
+"AMP, 15N5",5,HILIC
+"Arsenobetaine, 13C2",1,HILIC
+"Cytosine, 13C2, 15N3",2,HILIC
+"DL-Alanine, 2H3",5,HILIC
+"DL-Histidine, 15N",2.5,HILIC
+"DL-Proline, 2H7",1,HILIC
+"DL-Valine, 2H8",1,HILIC
+"Glycine betaine, 13C5, 15N",1,HILIC
+"Guanine, 13C, 15N2",2,HILIC
+"GMP, 15N5",2,HILIC
+"Homarine, 2H3",4,HILIC
+"Isethionic acid, 13C2",0.5,HILIC
+"L-Cysteic acid, 2H3",1,HILIC
+"L-Isoleucine, 15N",0.5,HILIC
+"L-Methionine, 2H3",1,HILIC
+"Succinic acid, 2H4",10,HILIC
+"Sucrose, 13C",5,HILIC
+"Sulfoacetic acid, 13C2",2.5,HILIC
+"Taurine, 2H4",1,HILIC
+"Thymine, 2H4",6,HILIC
+"Trehalose, 13C",5,HILIC

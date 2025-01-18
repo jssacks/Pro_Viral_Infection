@@ -26,6 +26,9 @@ mpm.dat.factor <- mpm.dat %>%
          replicate = as.factor(replicate)) %>%
   mutate(treatment = fct_relevel(treatment, c("Control", "Low virus", "High virus")))
 
+##Make into supplemental table
+
+
 #Visualize Datasets:
 
 #carbon fixation

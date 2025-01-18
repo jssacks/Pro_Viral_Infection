@@ -142,7 +142,7 @@ bact.corr.test.out <- bact.corr.dat %>%
 
 ###Identification of confidently altered metabolites due to viral infection
 fc.bcorr.dat <- left_join(FC.Carbon.out, bact.corr.test.out) %>%
-  select(MF, Name, mean.log2.fc, p, signif, bact.cor.pearson, bactlm.p.adj) %>%
+  select(MF, Name, mean.log2.fc, p, wilcox_p, signif, bact.cor.pearson, bactlm.p.adj) %>%
   unique() 
 
 #identify bact correlated MFs
