@@ -19,12 +19,18 @@ fc.file <- "Intermediates/fc_analysis_all_mfs.csv"
 #load data:
 mf.dat <- read_csv(mf.file) %>%
   mutate(vol.norm.area = Adjusted_Area/Vol.filt.mL) %>%
-  select(SampID, Time, biorep, treatment, MF, Name, FinalBMIS, fraction, RT, mz, vol.norm.area, Predicted_Adduct_Ion) %>%
+  dplyr::select(SampID, Time, biorep, treatment, MF, Name, FinalBMIS, fraction, RT, mz, vol.norm.area, Predicted_Adduct_Ion) %>%
   unique() %>%
   rename("Rep" = biorep,
          "Treatment" = treatment,
          "Fraction" = fraction,
          "Volume_Normalized_Area" = vol.norm.area)
+
+mf.dat.sum <- mf.dat %>%
+  dplyr::select(MF, Fraction) %>%
+  unique() %>%
+ # group_by(Fraction) %>%
+  reframe(count = n())
 
 #Export Table
 write_csv(mf.dat, file = "Tables/Outputs/Supplemental_All_MF_Table.csv")

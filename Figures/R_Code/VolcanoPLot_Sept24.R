@@ -13,7 +13,9 @@ library(patchwork)
 v.mf.file = "Intermediates/virally_altered_mfs.csv"
 all.mf.file = "Intermediates/fc_analysis_all_mfs.csv"
 
-
+all.mf.sum <- read_csv(v.mf.file) %>%
+  filter(!Name == "Unknown")
+#  mutate()
 # ###Make figures for Cell size, Cellular carbon content, and infection rates
 # ###C-content files
 # c.pro.file <- "Meta_Data/Abundance_Dat/Prochloro_size_abundance_rates_C_content.csv"
@@ -62,8 +64,8 @@ all.mf.file = "Intermediates/fc_analysis_all_mfs.csv"
 
 ########Make bar chart of differentially abundant metabolites:
 barplot.dat <- read_csv(all.mf.file) %>%
-  mutate(behavior = case_when(mean.log2.fc > log2(1.25) & signif == TRUE ~ "Increased",
-                              mean.log2.fc < log2(0.75) & signif == TRUE ~ "Decreased",
+  mutate(behavior = case_when(mean.log2.fc > 0.5 & signif == TRUE ~ "Increased",
+                              mean.log2.fc < -0.5 & signif == TRUE ~ "Decreased",
                               TRUE ~ "Not Changed")) %>%
   mutate(behavior = as.factor(behavior)) %>%
   mutate(behavior = fct_relevel(behavior, c("Decreased", "Not Changed", "Increased"))) %>%
@@ -71,6 +73,11 @@ barplot.dat <- read_csv(all.mf.file) %>%
                                   TRUE ~ "No")) %>%
   mutate(sig.bact.cor = as.factor(sig.bact.cor)) %>%
   mutate(sig.bact.cor= fct_relevel(sig.bact.cor, c("Yes", "No"))) 
+
+barplot.dat.sum <- barplot.dat %>%
+  filter(!sig.bact.cor == "Yes") %>%
+  group_by(behavior) %>%
+  reframe(count = n())
 
 
 count.plot <- ggplot(barplot.dat, aes(x = behavior, fill = sig.bact.cor)) + 

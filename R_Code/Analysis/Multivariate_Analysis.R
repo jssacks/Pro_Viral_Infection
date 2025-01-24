@@ -108,7 +108,7 @@ mc.out
 #ANOSIM and/or PerMANOVA 
 
 samp.dat <- norm.dat %>%
-  select(MF, SampID, vol.norm.area) %>%
+  dplyr::select(MF, SampID, vol.norm.area) %>%
   pivot_wider(id_cols = SampID, names_from = MF, values_from = vol.norm.area) %>%
   column_to_rownames(var = "SampID")
 samp.dat.stand <- decostand(samp.dat, method = "max", MARGIN = 2)
