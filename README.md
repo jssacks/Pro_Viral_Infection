@@ -204,13 +204,13 @@ ___
 #### SuppFig5_Metab_FC_Figure.R  
 * This script produces supplemental figure 5 which shows the fold change relative to the control of all significantly different, known metabolites across treatments and timepoints.
 
-##AD_Figures:
+## AD_Figures:
 * This folder contains the affinity designer documents and outputs for making main text figures 1, 5, 6, and 7 and supplemental figure 6.
 
 
-#Folder 4: Tables:
+# Folder 4: Tables:
 
-##R_Code:
+## R_Code:
 ### Script 4.1
 #### Abundances_SuppTable.R
 * This script compiles and produces supplemental table 1 containing the abundances, carbon quotas, and biomass estimates from flow cytometry for Prochlorococcus and the size classes of bacteria.
