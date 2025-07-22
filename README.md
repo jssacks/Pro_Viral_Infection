@@ -9,56 +9,56 @@ A repository for the data and code for Sacks et al. (in prep). Written in R.
 ___ 
 # Repo structure:
 
-#Data:
-##Folder 1: Data_Raw: 
+# Data:
+## Folder 1: Data_Raw: 
 * This folder contains the integrated metabolomics data output files from Skyline and MSDIAL, and the predicted annotation outputs from SIRIUS 5 in three separate folders. Each folder is separated into the three metabolomics analytical fractions: HILIC positive (Pos), HILIC Negative (Neg), and Reverse Phase (RP) outputs. 
 
-###Skyline
+### Skyline
 * This folder contains two skyline output .csv files that collectively contain all samples and compounds integrated in skyline for each analytical fraction (HILIC_Pos, HILIC_Neg, RP). The transition list (m/z and retention times for each compound) used to search for compounds in Skyline is also provided for each analytical fraction. Finally, the skyline output for the targeted vitamin analysis performed on the TQS mass spectrometer is also in this folder. 
 
-###MSDIAL
+### MSDIAL
 * This folder contains the MSDIAL output for each analytical fraction (HILIC_Pos, HILIC_Neg, RP) for peak areas (Area files) and signal to noise (SN files).
 
 
 
-###SIRIUS
+### SIRIUS
 * This folder contains all SIRIUS 5 output for unknown compounds for each analytical fraction
 
 
 
-##Folder 2: Collaborator_Data
+## Folder 2: Collaborator_Data
 * This folder contains non-metabolomics data included in this paper that was produced outside of the Ingalls Lab. Specifically, it includes ATP data from the Karl Lab at the University of Hawaii, flow cytometry data from the Lindell Lab at the Technion and the Armbrust Lab at the University of Washington, the output of the matrix population model used to predict carbon fixation, growth, and loss rates for Prochlorococcocus from the Armbrust Lab at the University of Washington, and Transcript data produced by the Dyhrman Lab at Columbia University and the Chisholm Lab at MIT.
 
-###ATP
+### ATP
 * This folder contains particulate ATP data as a csv file.
 
-###FCM
+### FCM
 * This folder contains abundances, estimated mean sizes, carbon quotas for Prochlorococcus and two sizes of bacteria (large and small) estimated using flow cytometry. This folder also contains phage abundances estimated using qPCR.
 
-###MPM
+### MPM
 * This folder contains the output of the matrix population model for both all model runs (MPM_results_final_raw) and summarized for each time window and treatment (MPM_results_final.csv). 
 
-###Transcripts
+### Transcripts
 * This folder contains two folders: Transcript_Data and Archive. The Transcript_Data folder contains the normalized transcripts counts for MED4 genes, the associated gene annotations and functions from KEGG, and the sample metadata. The Archive folder contains older versions of transcript analysis outputs and raw data.
 
 
-##Folder 3: Meta_Data
+## Folder 3: Meta_Data
 * This folder contains information related to metabolomics data processing including sample lists, the list of adducts searched for, the volumes filtered for each sample, the Ingalls lab standards list and compound information from when the samples were run, the overall sampling scheme, and the specific transitions monitored for the TQS vitamins.
 
 
 ___ 
 # Data Processing, Analysis, and Visualization:
 
-#Folder 1: Source_Code
+# Folder 1: Source_Code
 * This folder contains the biostats.R code and documentation used for the multivariate analysis of the metabolomics data.
 
-#Folder 2: R_Code
+# Folder 2: R_Code
 * This folder contains three folder and one script (detailed below). The folder “Metabolomics_Data_Processing” contains scripts for processing, normalizing, and quantifying the metabolomics data to produce final peak lists and quantified metabolite data tables. The folder “Analysis” contains scripts for all statistical analysis and comparisons on metabolite, transcript, flow cytometry, ATP, and matrix population model data. The folder “Metabolomics_Workbench_Upload” contains scripts to produce required tables and documents.
 
-##Script 2.0: Functions.R
+## Script 2.0: Functions.R
 * This script contains functions used for reading and organizing skyline, MSDIAL, and SIRIUS output, finding adducts, matching SIRIUS annotations to MFs defined by MSDIAL, performing quality control, and matching transcripts to KEGG IDs and pathway information.
 
-##Metabolomics_Data_Processing
+## Metabolomics_Data_Processing
 ### Script 2.1.1
 #### Sky_Targeted_Processing.R
 * This script identifies targeted compounds present in the pooled samples, determines their batch- and sample-specific mass, accounting for mass defects, and their batch- and sample-specific retention time. This information is then exported as a tab-separated .txt file that can be imported into MS DIAL to identify these targeted compounds in the untargeted dataset.
@@ -114,7 +114,7 @@ ___
 
 
 
-##Analysis
+## Analysis
 
 ### Script 2.2.1
 #### PATP_processing.R
@@ -128,7 +128,7 @@ ___
 
 ### Script 2.2.3
 #### Multivariate_Analysis.R
-* This script sources untargeted metabolomics data and functions from biostats.R, performs an NMDS analysis, a monteccarlo analysis to determine the significance of the projection, and a  PerMANOVA on all three independent variables (treatment*timepoint*replicate) as well as each possible subset of variables (ex. treatment*replicate for each timepoint separately). 
+* This script sources untargeted metabolomics data and functions from biostats.R, performs an NMDS analysis, a monteccarlo analysis to determine the significance of the projection, and a  PerMANOVA on all three independent variables ("treatment*timepoint*replicate") as well as each possible subset of variables (ex. treatment*replicate for each timepoint separately). 
 
 ### Script 2.2.4
 #### FC_Analysis.R
@@ -240,19 +240,19 @@ ___
 
 
 ___
-##Output Folders:
+## Output Folders:
 
-##Intermediates:
-This folder contains all intermediates files used in workflow. 
+## Intermediates:
+* This folder contains all intermediates files used in workflow. 
 
-##Tables/Outputs:
-This folder contains all final table outputs produced by this workflow. 
+## Tables/Outputs:
+* This folder contains all final table outputs produced by this workflow. 
 
 ## Figures:
-This folder contains all final figure outputs produced by this workflow.
+* This folder contains all final figure outputs produced by this workflow.
 ___
-##Citation:
-##TBD:
+## Citation:
+## TBD:
 
 
 
