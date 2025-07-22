@@ -81,7 +81,7 @@ write_csv(all.C.dat, file = "Intermediates/microbial_C_content.csv")
 
 
 
-### 2. Calculate % of metabolite carbon in XYZ  _______________
+### 2. Calculate % of metabolite carbon in meetabolites _______________
 
 
 #load in metabolite data:

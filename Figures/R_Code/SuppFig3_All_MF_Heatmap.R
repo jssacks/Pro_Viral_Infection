@@ -71,6 +71,7 @@ heatmap.fig <- ggplot(metab.fig, aes(x = reorder(SampID, time), y = reorder(MF, 
   facet_grid(.~treatment, scales = "free", space = "free") +
   xlab("Sample") +
   ylab("Mass Feature") +
+  labs(fill = "Normalized Area") +
   theme(axis.text.y = element_blank(),
         axis.text.x = element_text(angle = 90)) +
   scale_fill_gradient2(low = "white", mid = "#73a596", high = "#365759", midpoint = 0.5) +

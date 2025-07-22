@@ -25,7 +25,8 @@ pal.fc.plots <- c("#73a596", "aliceblue")
 #metabolite data::
 metab.dat <- read_csv(metab.file) %>%
   select(SampID, Vol.filt.mL, Time, biorep, treatment, treatment_number, MF, Name, Adjusted_Area, Pro, BacTot, BacSml, BacLrg, Phage)  %>%
-  rename("time" = Time)
+  rename("time" = Time) 
+
 
 #make list of known virally altered MFs:
 vfc.known.dat <- read_csv(v.mf.file) %>%
@@ -90,18 +91,22 @@ FC.Carbon.test <- FC.Carbon.dat %>%
   mutate(mean.log2.fc = mean(log2.fc),
          sd.log2.fc = sd(log2.fc)) %>%
   select(-biorep, - SampID, -C.norm.area, -log2.fc) %>%
-  unique()
+  unique() %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-"))  %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
+
 
 #Make a dataset for each compound:
 suc.dat <- FC.Carbon.test %>% filter(Name == "Sucrose")
 UDP.dat <- FC.Carbon.test %>% filter(Name == "UDP-N-acetylglucosamine")
 AMP.dat <- FC.Carbon.test %>% filter(Name == "Adenosine monophosphate")
 GBB.dat <- FC.Carbon.test %>% filter(Name == "(3-Carboxypropyl)trimethylammonium")
-lys.dat <- FC.Carbon.test %>% filter(Name == "L-Lysine")
+lys.dat <- FC.Carbon.test %>% filter(Name == "Lysine")
 bet.dat <- FC.Carbon.test %>% filter(Name == "Betonicine")
-GG.dat <- FC.Carbon.test %>% filter(Name == "2-O-alpha-D-Glucosylglycerol")
-GSSG.dat <- FC.Carbon.test %>% filter(Name == "Glutathione disulfide")
-asp.dat <- FC.Carbon.test %>% filter(Name == "L-Aspartic acid")
+GG.dat <- FC.Carbon.test %>% filter(Name == "Glucosylglycerol")
+GSSG.dat <- FC.Carbon.test %>% filter(Name == "Glutathione (disulfide)")
+asp.dat <- FC.Carbon.test %>% filter(Name == "Aspartic acid")
 Ad.dat <- FC.Carbon.test %>% filter(Name == "Adenine")
 OA.dat <- FC.Carbon.test %>% filter(Name == "Ophthalmic acid")
 Des.dat <- FC.Carbon.test %>% filter(Name == "Desthiobiotin")
@@ -139,8 +144,8 @@ fc_fig_plotter <- function(input.dat) {
     geom_vline(data=filter(fig.dat, treatment == "LV"), aes(xintercept = 3.5), color = "gray", linetype = "dashed") +
     theme_classic() +
     geom_hline(yintercept = 0) +
-    xlab("Time (hr)") +
-    ylab("Log2(FC) (Treatment/Control)") +
+    xlab("Time (h)") +
+    ylab("Log2FC (HVI/Control)") +
     theme(legend.position = "none") +
     labs(title = fig.dat$Name)
   fig
@@ -178,6 +183,10 @@ ggsave(comb.fig, file = "Figures/Outputs/Supplemental_Fold_Change_Figure.png", d
 
 
 
+#save figure for presentation:
+ggsave(comb.fig, file = "Figures/Outputs/Presentation_Supplemental_Fold_Change_Figure.pdf", dpi = 600, 
+       height = 10, width = 8, units = "in",
+       bg = "white", scale = 1.5)
 
 
 

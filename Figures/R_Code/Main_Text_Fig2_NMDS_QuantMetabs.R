@@ -6,6 +6,8 @@ library(ggsci)
 library(ggthemes)
 library(vegan)
 library(viridis)
+library(patchwork)
+library(ggpubr)
 
 
 
@@ -157,7 +159,14 @@ subset.dat <- quant.dat %>%
   separate(SampID, into = c("Rep", "Treatment", "Timepoint"), remove = FALSE) %>%
   filter(!Treatment == "4LGV") %>%
   mutate(Timepoint = str_replace(Timepoint, "T6", "T06")) %>%
-  filter(!SampID == "C_3LV_T48")
+  filter(!SampID == "C_3LV_T48") %>%
+  mutate(Treatment = as.factor(case_when(Treatment == "1C" ~ "C",
+                               Treatment == "3LV" ~ "LV",
+                               Treatment == "6HV" ~ "HV"))) %>%
+  mutate(Treatment = fct_relevel(Treatment, c("C", "LV", "HV"))) %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-"))  %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
 
 #ggplot(subset.dat, aes(x = SampID, y = nM_C, fill = Name)) +
 #  geom_col(color = "black")
@@ -199,7 +208,11 @@ ma.dat.fig <- full_join(dat.2, ma.dat) %>%
 
 dat.fig <- rbind(ma.dat.fig, dat.other) %>%
   group_by(Name, order, Treatment, Timepoint) %>%
-  reframe(nM.C = mean(mean.Nmol.C))
+   reframe(nM.C = mean(mean.Nmol.C)) 
+  # mutate(HVI = case_when(Timepoint == "T12" & Treatment == "6HV" ~ "Yes",
+  #                        Timepoint == "T24" & Treatment == "6HV" ~ "Yes",
+  #                        Timepoint == "T36" & Treatment == "3LV" ~ "Yes",
+  #                        TRUE ~ "No"))
 
 
 #ggplot(dat.fig, aes(x = Timepoint, y = mean.Nmol.C, fill = reorder(Name, order))) +
@@ -213,11 +226,12 @@ dat.fig <- rbind(ma.dat.fig, dat.other) %>%
 
 barplot.fig <- ggplot(dat.fig, aes(x = Timepoint, y = nM.C, fill = reorder(Name, order))) +
   geom_col(color = "black", position = "fill", size = 0.2) +
+ # scale_color_manual(values = c("gray", "black")) +
   facet_grid(.~Treatment, scales = "free_x") + 
   scale_fill_tableau(palette = "Tableau 20")+
   theme_test() +
   scale_y_continuous(expand = c(0, NA, NA, NA)) +
-  ylab("Mole Fraction C (%)") +
+  ylab("Mole Fraction C") +
   labs(fill = "Compound") +
   #scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
@@ -228,11 +242,11 @@ barplot.fig
 
 ###########Arrange into a nice plot:
 metabolome.fig <- ggarrange(
-  ggarrange(nmds.fig, NA, metab.c.perc.fig,
-            nrow = 1, ncol = 3, widths = c(0.6, 0.05, 0.35),
-            labels = c("A", NA, "C")), NA,
+  ggarrange(metab.c.perc.fig, NA, nmds.fig,
+            nrow = 1, ncol = 3, widths = c(0.35, 0.05, 0.6),
+            labels = c("A", NA, "B")), NA,
   barplot.fig, nrow = 3, ncol = 1, heights = c(0.4, 0.05, 0.55),
-  labels = c(NA, NA, "B")
+  labels = c(NA, NA, "C")
   )
 metabolome.fig
 

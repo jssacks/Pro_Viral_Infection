@@ -17,7 +17,7 @@ pal.full <- c("#73a596", "#cfd4d8", "#dd9914", "#365759", "#4cb8da", "#465f61")
 ###define order
 x <- data.frame(
   measurement = c("Prochlorococcus", "Bacteria", "Phage", "Metabolites", "Transcripts", "ATP"),
-  order = c(1, 2, 3, 4, 5, 6, 7)
+  order = c(1, 2, 3, 4, 5, 6)
 )
 
 
@@ -58,7 +58,7 @@ samp.scheme <- ggplot(sample.long, aes(x = time, y = reorder(measurement, -order
   #  scale_fill_continuous(low = "aliceblue", mid = "steelblue", high = "darkblue") +
   scale_fill_manual(values = pal.full, ) +
   theme_bw() +
-  xlab("Time (hr)") +
+  xlab("Time (h)") +
   ylab("Measurement") +
   theme(legend.position = "blank")
 samp.scheme

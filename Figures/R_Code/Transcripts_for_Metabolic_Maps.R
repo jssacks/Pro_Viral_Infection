@@ -4,23 +4,33 @@ library(vegan)
 library(ggdendro)
 
 
-###
-transcript.file <- "Collaborator_Data/Transcripts/MED4_annot_DE+non-DE_082823_normalized.csv"
-transcript.file.2 <- "Collaborator_Data/Transcripts/HV_LFC+pval_MED4norm.csv"
-
-transcript.dat <- read_csv(transcript.file)
-transcript.dat.2 <- read_csv(transcript.file.2)
+###Define inputs
+# transcript.file <- "Collaborator_Data/Transcripts/MED4_annot_DE+non-DE_082823_normalized.csv"
+# transcript.file.2 <- "Collaborator_Data/Transcripts/HV_LFC+pval_MED4norm.csv"
+med4.transcript.file <- "Intermediates/MED4_DE_transcripts.csv"
 
 
-t.sml <- transcript.dat.2 %>%
-  select(GENE.NAME, KEGG, HV0_LFC_nonDE_log2FoldChange:HV36_LFC_nonDE_padj, PathwayID, Pathway_info, Details) %>%
-  pivot_longer(cols = HV0_LFC_nonDE_log2FoldChange:HV36_LFC_nonDE_padj, names_to = "Samp_Name", values_to = "val") %>%
+
+#Load in data:
+# transcript.dat <- read_csv(transcript.file)
+# transcript.dat.2 <- read_csv(transcript.file.2)
+med4.transcript.dat <- read_csv(med4.transcript.file)
+
+
+
+#Organize transcript data
+t.sml <- med4.transcript.dat %>%
+  #  select(GENE.NAME, KEGG,      HV0_LFC_nonDE_log2FoldChange:HV36_LFC_nonDE_padj, PathwayID, Pathway_info, Details) %>%
+  pivot_longer(cols = HV0_LFC_nonDE_padj:HV36_LFC_nonDE_log2FoldChange, names_to = "Samp_Name", values_to = "val") %>%
   mutate(param = case_when(str_detect(Samp_Name, "log2FoldChange") ~ "FC",
                            str_detect(Samp_Name, "padj") ~ "p_adj")) %>%
   mutate(Samp_Name = str_remove(Samp_Name, "_LFC_nonDE_log2FoldChange")) %>%
   mutate(Samp_Name = str_remove(Samp_Name, "_LFC_nonDE_padj")) %>%
   mutate(Samp_Name = as.numeric(str_remove(Samp_Name, "HV"))) %>%
   mutate(GENE.NAME = str_remove(GENE.NAME, "MED4_")) 
+
+
+
 
 ##Assign significance levels to p-values 
 t.sml.p <- t.sml %>%  
@@ -71,6 +81,11 @@ suc.t.plots
 
 ggsave(suc.t.plots, filename = "Figures/Outputs/Sucrose_Transcripts_Separate.png",
        height = 5, width = 10, scale = 1.2, dpi = 1200)
+
+#save for presentation:
+ggsave(suc.t.plots, filename = "Figures/Outputs/Pres_Sucrose_Transcripts_Separate.pdf",
+       height = 5, width = 10, scale = 1.1, dpi = 1200)
+
 
 
 

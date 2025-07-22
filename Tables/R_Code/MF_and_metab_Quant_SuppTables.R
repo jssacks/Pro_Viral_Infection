@@ -2,7 +2,7 @@
 
 
 
-
+library(tidyverse)
 
 
 
@@ -24,7 +24,10 @@ mf.dat <- read_csv(mf.file) %>%
   rename("Rep" = biorep,
          "Treatment" = treatment,
          "Fraction" = fraction,
-         "Volume_Normalized_Area" = vol.norm.area)
+         "Volume_Normalized_Area" = vol.norm.area) %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-")) %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
 
 mf.dat.sum <- mf.dat %>%
   dplyr::select(MF, Fraction) %>%
@@ -39,15 +42,34 @@ write_csv(mf.dat, file = "Tables/Outputs/Supplemental_All_MF_Table.csv")
 
 ### Make MF annotation supplemental table
 anot.dat <- read_csv(annotation.file) %>%
-  select(MF, Name, mz, RT, fraction, adduct, molecularFormula, `ClassyFire#all classifications`, `ClassyFire#most specific class Probability`, name,  ConfidenceScore) %>%
+  dplyr::select(MF, Name, mz, RT, fraction, adduct, molecularFormula, `ClassyFire#class`, `ClassyFire#class Probability`, `ClassyFire#most specific class`, `ClassyFire#most specific class Probability`, name,  ConfidenceScore) %>%
   rename("Fraction" = fraction,
          "SIRUS_adduct" = adduct,
          "SIRIUS_molecular_formula" = molecularFormula,
-         "Classyfire_all_classifications" = `ClassyFire#all classifications`,
+         "Classyfire_class" = `ClassyFire#class`,
+         "Classyfire_class_probability" = `ClassyFire#class Probability`,
+         "Classyfire_most_specific_classification" = `ClassyFire#most specific class`,
          "Classyfire_most_specific_classification_probability" = `ClassyFire#most specific class Probability`,
          "SIRIUS_predicted_identity" = name,
          "SIRIUS_identity_confidence_score" = ConfidenceScore) %>%
-  unique()
+  unique() %>% 
+  left_join(., read_csv(fc.file) %>%
+  mutate(bact_cor_determination = case_when(bact.cor.pearson > 0 & bactlm.p.adj < 0.05 ~ "Bact_correlated",
+                                            TRUE ~ NA),
+         final_fc_determination = case_when(mean.log2.fc > 0.5 & is.na(bact_cor_determination) & signif == TRUE ~ "Increased",
+                                            mean.log2.fc < 0.5 & is.na(bact_cor_determination) & signif == TRUE ~ "Decreased",
+                                            TRUE ~ "Not Changed")) %>%
+  rename("mean_log2_fc" = mean.log2.fc,
+         "t_test_p" = p,
+         "bact_cor_pearson" = bact.cor.pearson,
+         "bact_cor_lm_p" = bactlm.p.adj) %>%
+  dplyr::select(MF, final_fc_determination)) %>%
+  dplyr::select(MF, Name, final_fc_determination, everything()) %>%
+  filter(!is.na(final_fc_determination)) %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-")) %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
+
 
 #Export annotations:
 write_csv(anot.dat, file = "Tables/Outputs/Supplemental_MF_Annotation_Table.csv")
@@ -71,7 +93,10 @@ quant.dat <- read_csv(quant.file) %>%
          "Metab_nM_C_in_sample" = nM_C,
          "Metab_nM_N_in_sample" = nM_N,
          "Total_FCM_biomass_C_in_sample_nM" = tot.C.nM,
-         "Percent_metab_C" = metab_C_perc)
+         "Percent_metab_C" = metab_C_perc) %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-")) %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
 
 #Export quant table:
 write_csv(quant.dat, file = "Tables/Outputs/Supplemental_Metab_Quant_Table.csv")
@@ -93,7 +118,10 @@ fc.dat <- read_csv(fc.file) %>%
          "t_test_p" = p,
          "bact_cor_pearson" = bact.cor.pearson,
          "bact_cor_lm_p" = bactlm.p.adj) %>%
-  select(MF, Name, mean_log2_fc, t_test_p, wilcox_p, bact_cor_pearson, bact_cor_lm_p, bact_cor_determination, final_fc_determination)
+  dplyr::select(MF, Name, mean_log2_fc, t_test_p, wilcox_p, bact_cor_pearson, bact_cor_lm_p, bact_cor_determination, final_fc_determination) %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-")) %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
 
 
 #export fold change table:

@@ -142,6 +142,8 @@ volcano.plot <- ggplot() +
   geom_hline(yintercept = -log10(0.05), size = 0.25, linetype = "dashed") +
   geom_point(data = not.sig.mfs, aes(x = mean.log2.fc, y = -log10(p)), shape = 21, size = 3.5, fill = "darkgray", color = "black", stroke = 0.1, alpha = 0.65) +
   geom_point(data = sig.mfs, aes(x = mean.log2.fc, y = -log10(p), fill = mean.log2.fc), size = 3.5, color = "black", stroke = 0.1, shape = 21) +
+  geom_point(data = label.dat.pos, aes(x = mean.log2.fc, y = -log10(p)), size = 3.5, color = "black", stroke = 0.3, shape = 21) +
+  geom_point(data = label.dat.neg, aes(x = mean.log2.fc, y = -log10(p)), size = 3.5, color = "black", stroke = 0.3, shape = 21) +
   geom_label_repel(data = label.dat.pos, aes(x = mean.log2.fc, y = -log10(p), label = Name),
                    label.size = 0.1,
                    size = 3,
@@ -194,22 +196,72 @@ ggsave(comb.plot, filename = "Figures/Outputs/Volcano_Inset_Plot.png",
 
 
 
+###Make plot for PhD Defense:
+volcano.plot.pres <- ggplot() +
+  geom_vline(xintercept = 0.5, size = 0.25, linetype = "dashed") +
+  geom_vline(xintercept = -0.5, size = 0.25, linetype = "dashed") +
+  geom_hline(yintercept = -log10(0.05), size = 0.25, linetype = "dashed") +
+  geom_point(data = not.sig.mfs, aes(x = mean.log2.fc, y = -log10(p)), shape = 21, size = 3.5, fill = "darkgray", color = "black", stroke = 0.1, alpha = 0.65) +
+  geom_point(data = sig.mfs, aes(x = mean.log2.fc, y = -log10(p), fill = mean.log2.fc), size = 3.5, color = "black", stroke = 0.1, shape = 21) +
+  geom_point(data = label.dat.pos, aes(x = mean.log2.fc, y = -log10(p)), size = 3.5, color = "black", stroke = 0.3, shape = 21) +
+  geom_point(data = label.dat.neg, aes(x = mean.log2.fc, y = -log10(p)), size = 3.5, color = "black", stroke = 0.3, shape = 21) +
+  # geom_label_repel(data = label.dat.pos, aes(x = mean.log2.fc, y = -log10(p), label = Name),
+  #                  label.size = 0.1,
+  #                  size = 3,
+  #                  min.segment.length = 0.01, 
+  #                  point.padding = 0, 
+  #                  box.padding = 1,
+  #                  segment.size = 0.25,
+  #                  force = 5, 
+  #                  #  fontface = "bold",
+  #                  xlim = c(2, NA),
+  #                  max.overlaps = 40) +
+  # geom_label_repel(data = label.dat.neg, aes(x = mean.log2.fc, y = -log10(p), label = Name),
+  #                  label.size = 0.1,
+  #                  size = 2.5,
+  #                  min.segment.length = 0.01, 
+  #                  point.padding = 0, 
+  #                  box.padding = 1,
+  #                  force = 5, 
+  #                  #  fontface = "bold",
+  #                  xlim = c(NA, -1.5),
+  #                  segment.size = 0.25,
+  #                  segment.angle = 30,
+  #                  max.overlaps = 40) +
+  scale_fill_gradient2(low = "steelblue", mid = "white", high = "darkred", midpoint = 0, limits = c(-2.5, 2.5), oob = squish) +
+  scale_y_continuous(expand = c(0, NA, NA, NA), limits = c(0,5.5)) +
+  xlab("Mean log2FC (HVI/C)") +
+  ylab("-log(p)") +
+  labs(fill = "Log2FC") +
+  theme_test()
+
+volcano.plot.pres
+
+#save:
+ggsave(volcano.plot.pres, filename = "Figures/Outputs/Volcano_Pres_Plot.pdf", 
+       dpi = 800, bg = "white", scale = 1.2,
+       units = "in", height = 4, width = 4.5)
+#
+
+
 
 #Arrange everything
-group.plot <-  ggarrange(
-  NA,
-  ggarrange(NA, Pro.C.fig, NA, count.plot, NA,
-            nrow = 1, ncol = 5, widths = c(0.04, 0.44, 0.03, 0.46, 0.02),
-            labels = c("A", NA, NA, "B", NA)), 
-  NA,
-  volcano.plot, ncol = 1, nrow = 4, heights = c(0.03, 0.32, 0.03, 0.62),
-  labels = c(NA, NA, NA, "C")
-)
-group.plot
+# group.plot <-  ggarrange(
+#   NA,
+#   ggarrange(NA, Pro.C.fig, NA, count.plot, NA,
+#             nrow = 1, ncol = 5, widths = c(0.04, 0.44, 0.03, 0.46, 0.02),
+#             labels = c("A", NA, NA, "B", NA)), 
+#   NA,
+#   volcano.plot, ncol = 1, nrow = 4, heights = c(0.03, 0.32, 0.03, 0.62),
+#   labels = c(NA, NA, NA, "C")
+# )
+# group.plot
+# 
+# ggsave(group.plot, filename = "Figures/Figures/Volcano_Full_Group_Plot.png", 
+#        dpi = 800, bg = "white", scale = 1.4,
+#        units = "in", height = 8, width = 7)
 
-ggsave(group.plot, filename = "Figures/Figures/Volcano_Full_Group_Plot.png", 
-       dpi = 800, bg = "white", scale = 1.4,
-       units = "in", height = 8, width = 7)
+
 
 
 

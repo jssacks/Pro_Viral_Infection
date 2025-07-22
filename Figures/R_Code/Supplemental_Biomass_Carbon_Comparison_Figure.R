@@ -26,7 +26,7 @@ atp.dat <- read_csv(atp.file)
 c.dat <- left_join(atp.dat, metab.c.comparison) %>%
   mutate(microb.C.fg.mL = total.C) %>%
   mutate(metab.tot.C.fg.mL = tot_metab_C_nM*12.011/1000/(1e-6)) %>%
-  mutate(metab.tot.C.fg.mL.10 = tot_metab_C_nM*12.011/1000/(1e-6)*10)
+  mutate(metab.tot.C.fg.mL.10 = tot_metab_C_nM*12.011/1000/(1e-6)/0.07)
 
 
 # Make plot of correlations between prameters -----------------------------
@@ -84,7 +84,7 @@ c.dat.sum.means <- c.dat %>%
   rename("Mean_fg_C" = value) %>%
   mutate(parameter = case_when(str_detect(name, "atp") ~ "ATP",
                                str_detect(name, "fcm") ~ "FCM",
-                               str_detect(name, "metab") ~ "metabX10")) %>%
+                               str_detect(name, "metab") ~ "metab estimated C")) %>%
   select(treatment, time, Mean_fg_C, parameter) 
 
 #organize standard deviations
@@ -99,7 +99,7 @@ c.dat.sum.sds <- c.dat %>%
   rename("SD_fg_C" = value) %>%
   mutate(parameter = case_when(str_detect(name, "atp") ~ "ATP",
                                str_detect(name, "fcm") ~ "FCM",
-                               str_detect(name, "metab") ~ "metabX10")) %>%
+                               str_detect(name, "metab") ~ "Metab estimated C")) %>%
   select(treatment, time, SD_fg_C, parameter) 
 
 ###merge datasets

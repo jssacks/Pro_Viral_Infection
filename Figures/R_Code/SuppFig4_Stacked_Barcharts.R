@@ -31,7 +31,10 @@ subset.dat <- quant.dat %>%
   separate(SampID, into = c("Rep", "Treatment", "Timepoint"), remove = FALSE) %>%
   filter(!Treatment == "4LGV") %>%
   mutate(Timepoint = str_replace(Timepoint, "T6", "T06")) %>%
-  filter(!SampID == "C_3LV_T48")
+  filter(!SampID == "C_3LV_T48") %>%
+  mutate(Name = str_remove(Name, "L-")) %>%
+  mutate(Name = str_remove(Name, "2-O-alpha-D-")) %>%
+  mutate(Name = str_replace(Name, "disulfide", "(disulfide)"))
 
 #ggplot(subset.dat, aes(x = SampID, y = nM_C, fill = Name)) +
 #  geom_col(color = "black")
@@ -39,7 +42,7 @@ subset.dat <- quant.dat %>%
 
 ###Generate figure
 dat <- subset.dat %>%
-  filter(!Name == "Succinic acid")
+  filter(!Name == "Succinic acid") 
 
 dat.2 <- dat %>%  
   rename(mean.conc = nM.in.smp,
@@ -101,7 +104,7 @@ rel.fig <- ggplot(dat.fig, aes(x = Timepoint, y = nM_C, fill = reorder(Name, ord
   scale_fill_tableau(palette = "Tableau 20")+
   theme_test() +
   scale_y_continuous(expand = c(0, NA, NA, NA)) +
-  ylab("Mole Fraction C (%)") +
+  ylab("Mole Fraction C") +
   labs(fill = "Compound") +
   #scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
@@ -114,7 +117,7 @@ comb.plot
 
 ##export plot:
 ggsave(comb.plot, file = "Figures/Outputs/Supplemental_all_stacked_barcharts.png",
-       bg = "white", dpi = 600, units = "in", height = 8, width = 8, scale = 1.3)
+       bg = "white", dpi = 600, units = "in", height = 10, width = 8, scale = 1.3)
 
 
 
