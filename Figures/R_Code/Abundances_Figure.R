@@ -56,7 +56,7 @@ pro.fig <- ggplot(abu.dat, aes(x = Time, y = Pro.avg, fill = Treatment, shape = 
   geom_point(data = hvi.dat, stroke = 0.75, fill = "#dd9914", color = "black", size = 2.5) +
   theme_classic() +
 #  guides(fill = guide_legend(override.aes = list(shape=21))) +
-  ylab(expression(Prochlorococcus~(cells~mL^-1))) +
+  ylab(expression(italic(Prochlorococcus)~(cells~mL^-1))) +
   xlab("Time (h)") + 
   theme(legend.text = element_text(size = 16),
         legend.title = element_text(size = 16))  +

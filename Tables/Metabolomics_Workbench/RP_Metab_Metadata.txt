@@ -1,0 +1,15 @@
+Compound_Name	mz	RT_minute	PubChem_Code	KEGG_Code
+Methylthioadenosine	298.097387	2.1	NA	cpd:C00170
+Phenylalanine	166.086804	1.15	NA	cpd:C00079
+Tryptophan	205.097703	2.07	NA	cpd:C00078
+Kynurenine	209.092618	1.27	161166	cpd:C00328
+Desthiobiotin	215.139568	4.5	643	cpd:C01909
+Agmatine	131.129671	0.62	199	cpd:C00179
+Pantothenic acid	220.118498	1.17	6613	cpd:C00864
+Pyridoxal	168.066069	0.86	1050	cpd:C00250
+Pyridoxine	170.081719	0.88	1054	cpd:C00314
+S-Adenosylhomocysteine	385.129416	0.96	NA	cpd:C00021
+S-Adenosylmethionine	399.145066	0.71	34755	cpd:C00019
+Riboflavin	377.146111	4.39	493570	cpd:C00255
+Xanthine	153.041251	1.11	1188	cpd:C00385
+Nicotinic acid	124.039854	0.88	938	cpd:C00253

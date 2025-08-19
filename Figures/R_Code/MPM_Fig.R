@@ -132,7 +132,7 @@ mpm.group.fig
 
 
 #export figure
-ggsave(mpm.group.fig, filename = "Figures/Outputs/MPM_Results.png", dpi = 800, scale = 1.4,
+ggsave(mpm.group.fig, filename = "Figures/Outputs/MPM_Results.pdf", dpi = 800, scale = 1.4,
        units = "in", height = 3, width = 6, bg = "white"
        )
 

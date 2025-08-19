@@ -1,0 +1,41 @@
+Compound_Name	mz	RT_minute	PubChem_Code	KEGG_Code
+Ectoine	143.082053	9.25	126041	cpd:C06231
+Glutamine	147.076968	11.7	NA	cpd:C00064
+5-Hydroxyectoine	159.076968	11.07	NA	cpd:C16432
+Arsenobetaine	179.005326	7.06	47364	cpd:C19331
+Tyrosine	182.081719	9.76	NA	cpd:C00082
+Sarcosine	90.055504	10.6	1088	cpd:C00213
+Alanine	90.055504	11.3	NA	cpd:C00041
+Cytidine	244.093347	8.55	6175	cpd:C00475
+Deoxyadenosine	252.109665	3.44	NA	cpd:C00559
+2-O-alpha-D-Glucosylglycerol	255.107995	10.1	NA	cpd:C11546
+Adenosine	268.10458	4.46	60961	cpd:C00212
+Guanosine	284.099495	9.06	135398635	cpd:C00387
+Glutathione disulfide	613.159793	14.98	NA	cpd:C00127
+Proline	116.071154	9.49	NA	cpd:C00148
+Threonine	120.066069	10.92	NA	cpd:C00188
+Aspartic acid	134.045334	12.86	NA	cpd:C00049
+Dimethylsulfoniopropionate	135.047977	9.325	NA	cpd:C04022
+Adenine	136.06232	4.72	190	cpd:C00147
+Creatine	132.077302	11.34	586	cpd:C00300
+Glycine betaine	118.086804	7.86	NA	cpd:C00719
+Guanine	152.057235	8.61	135398634	cpd:C00242
+Hypotaurine	110.027576	11.36	107812	cpd:C00519
+Glutamic acid	148.060984	12.41	NA	cpd:C00025
+Homoserine	120.066069	11.32	12647	cpd:C00263
+Methionine	150.058876	7.96	NA	cpd:C00073
+Methionine S-oxide	166.053791	9.73	NA	cpd:C02989
+Serine	106.050419	11.86	NA	cpd:C00065
+N6-Acetyl-lysine	189.123918	9.71	92832	cpd:C02727
+Ophthalmic acid	290.135212	10.73	7018721	cpd:C21016
+Proline betaine	144.102454	7.18	NA	cpd:C10172
+(3-Carboxypropyl)trimethylammonium	146.118104	9.91	NA	cpd:C01181
+Histidine	156.077302	11.45	NA	cpd:C00135
+Cytosine	112.051087	7.41	597	cpd:C00380
+Asparagine	133.061318	11.86	NA	cpd:C00152
+Isoleucine	132.102454	8.17	NA	cpd:C00407
+Hypoxanthine	137.046336	5.51	135398638	cpd:C00262
+Betonicine	160.097369	8.45	164642	cpd:C08269
+Ergothioneine	230.096324	11.29	5351619	cpd:C05570
+Trigonelline	138.055503	8.36	5570	cpd:C01004
+Lysine	147.113353	17.5	NA	cpd:C00047

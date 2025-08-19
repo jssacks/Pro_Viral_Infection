@@ -12,6 +12,7 @@ library(lme4)
 metab.file <- "Intermediates/Final_Processed_Untargeted_Data.csv"
 fcm.carbon.file <- "Intermediates/microbial_C_content.csv"
 atp.file <- "Intermediates/pATP_nM_processed.csv"
+
 #
 
 
@@ -23,6 +24,15 @@ atp.file <- "Intermediates/pATP_nM_processed.csv"
 metab.dat <- read_csv(metab.file) %>%
   select(SampID, Vol.filt.mL, Time, biorep, treatment, treatment_number, MF, Name, Adjusted_Area, Pro, BacTot, BacSml, BacLrg, Phage)  %>%
   rename("time" = Time)
+
+
+
+#vitamin data:
+
+
+
+
+
 
 ###ATP data:
 
@@ -95,12 +105,32 @@ FC.nonparametric <- FC.Carbon.test %>%
 #combine FC data with t-test results
 FC.Carbon.out <- left_join(FC.Carbon.test, FC.Carbon.results) %>%
   left_join(., FC.nonparametric) %>%
-  mutate(signif = case_when(p <= 0.05 & wilcox_p <= 0.05 ~ TRUE,
+  mutate(signif = case_when(p <= 0.05 & wilcox_p <= 0.1 ~ TRUE,
                             TRUE ~ FALSE)) %>%
   unique() 
 
 
 
+#Vis
+ggplot(FC.Carbon.out, aes(x = -log10(p), y = -log10(wilcox_p))) +
+  geom_point() +
+  geom_abline(slope = 1, intercept = 0)
+
+
+ggplot(FC.Carbon.out, aes(x = -log10(p))) +
+  geom_histogram(bins = 60) +
+  geom_vline(xintercept = -log10(0.05))
+
+ggplot(FC.Carbon.out, aes(x = -log10(wilcox_p))) +
+  geom_histogram(bins = 60) +
+  geom_vline(xintercept = -log10(0.05))
+
+#OH.pB12 <- FC.Carbon.test %>%
+#  filter(Name == "OH-Pseudocob")
+
+#ggplot(OH.pB12, aes(x = treatment, color = as.factor(time), shape = biorep, y = log2.fc)) +
+#  geom_point(size = 3) +
+#  geom_hline(yintercept = 0)
 
 
 # Correlation analysis comparing bacterial carbon and metabolite abundance using linear models---------------------
@@ -153,14 +183,15 @@ bact.corr.mfs <- fc.bcorr.dat %>%
 #identify MFs meeting FC requirements (0.5 threshold)
 fc.mfs <- fc.bcorr.dat %>%
   filter(mean.log2.fc >= 0.5 | mean.log2.fc <= -0.5) %>%
-  filter(p <= 0.05)
+  filter(p <= 0.05,
+         wilcox_p <= 0.1)
 
 
 #identify MFs signficantly and positively correlated with bacterial abundance. 
 
 final.fc.mf.list <- fc.bcorr.dat %>%
   filter(MF %in% fc.mfs$MF) %>%
-  filter(!MF %in% bact.corr.mfs$MF) %>%
+  filter(!MF %in% bact.corr.mfs$MF) # %>%
   left_join(read_csv(metab.file) %>% select(MF, SIRIUS_molecularFormula, SIRIUS_name) %>% unique())
 
 

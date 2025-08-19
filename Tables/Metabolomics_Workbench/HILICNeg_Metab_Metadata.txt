@@ -1,0 +1,18 @@
+Compound_Name	mz	RT_minute	PubChem_Code	KEGG_Code
+Uridine	243.061713	6.02	6029	cpd:C00299
+D-Fructose 6-phosphate	259.021897	13.51	NA	cpd:C00085
+Inosine	267.072946	7.57	135398641	cpd:C00294
+Sucrose	341.10839	11.93	5988	cpd:C00089
+UDP-N-acetylglucosamine	606.073753	12.75	NA	cpd:C00043
+2-Ketoglutaric acid	145.0137	10.845	NA	cpd:C00026
+D-Gluconic acid	195.05048	10.79	NA	cpd:C00257
+Cysteic acid	167.996671	12.15	72886	cpd:C00506
+N-Acetyl-glutamic acid	188.055899	11.84	70914	cpd:C00624
+Taurine	124.006841	11.13	1123	cpd:C00245
+Thymine	125.035103	3.02	1135	cpd:C00178
+Adenosine monophosphate	346.055262	11.585	6083	cpd:C00020
+Trehalose	341.10839	13	7427	cpd:C01083
+Taurine, 2H4	128.0325	10	NA	NA
+Threonic acid	135.02935	10.37	151152	cpd:C01620
+Thymidine	241.082448	3.27	5789	cpd:C00214
+Succinic acid	117.018785	11.9	1110	cpd:C00042

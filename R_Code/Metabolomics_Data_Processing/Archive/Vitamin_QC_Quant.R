@@ -85,6 +85,20 @@ vit.qc <- left_join(vit.dat, Blk.dat) %>%
                                    TRUE ~ F)) %>%
   left_join(., RSD.dat) 
 
+
+
+####vitamin data:
+OHpB12.dat <- vit.qc %>%
+  filter(Compound == "OH-Pseudocob") %>%
+  filter(!str_detect(SampID, "4LGV"),
+         !str_detect(SampID, "LG"))
+ggplot(OHpB12.dat, aes(x = SampID, y = Area)) +
+  geom_col() +
+  theme(axis.text.x = element_text(angle = 90))
+
+
+
+
 ###########Perform min sample present comparison to only keep compounds that pass pass QC as being present in a 
 # minimum number of triplicates (compound above min area and blk threshold in all three triplicates). Min number of triplicates is user defined. 
 present.dat <- vit.qc %>%

@@ -1,13 +1,6 @@
 
 
 
-# This script has 3 sections:
-# 1. Calculate Total Microbial Biomass and % Pro C for each sample estimated from flow cytometry
-# 2. 
-
-
-
-
 
 library(tidyverse)
 

@@ -79,7 +79,7 @@ hull <- nmds.out.plot %>%
 nmds.fig <- ggplot(nmds.out.plot, aes(x = MDS2, y = MDS1, shape = treatment)) + 
   geom_polygon(data = nmds.out.plot, aes(x = MDS2, y = MDS1, fill = factor(Time)), color = "gray", alpha = 0) +
   # geom_polygon(data = hull, aes(x = MDS2, y = MDS1), alpha = 0.2) +
-  geom_point(size = 3.5, stroke = 1, alpha = 0.8, aes(fill = factor(Time)))  +
+  geom_point(size = 3.5, stroke = 0.6, alpha = 0.8, aes(fill = factor(Time)))  +
   theme_test() + 
   scale_shape_manual(values = c(21, 22, 24)) +
   scale_fill_viridis(option = "B", discrete = "TRUE", direction = 1) +
@@ -250,7 +250,7 @@ metabolome.fig <- ggarrange(
   )
 metabolome.fig
 
-ggsave(metabolome.fig, filename = "Figures/Outputs/NMDS_QuantMetab_Fig.png",
+ggsave(metabolome.fig, filename = "Figures/Outputs/NMDS_QuantMetab_Fig.pdf",
        dpi = 800, scale = 1.3, bg = "white",
        units = "in", height = 8, width = 8)
 

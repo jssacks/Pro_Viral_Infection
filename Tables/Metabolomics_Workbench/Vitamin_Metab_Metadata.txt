@@ -1,0 +1,4 @@
+Compound_Name	mz	RT_minute	PubChem_Code	KEGG_Code
+Hydroxocobalamin	664.7861	4.35	70678542	cpd:C08230
+Cyanopseudocobalamin	673.2805	4.3	NA	NA
+Hyrodoxopseudocobalamin	659.775	3.5	NA	NA

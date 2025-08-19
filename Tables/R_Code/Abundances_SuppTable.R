@@ -25,18 +25,17 @@ abu.dat <- read_csv(abu.file)  %>%
   rename("Pro.count" = Pro,
          "BacSml.count" = BacSml,
          "BacLrg.count" = BacLrg,
-         "BacTot.count" = BacTot)
+         "BacTot.count" = BacTot,
+         "Phage.abun" = Phage)
 
 
 
 c.dat <- read_csv(microb.c.file) %>%
-  select(experiment, treatment, time, Pro.Qc, Pro.C, B1.Qc, B1.C, B2.Qc, B2.C, bacterial.C, total.C, Pro.C.perc) %>%
+  select(experiment, treatment, time, Pro.C, B1.C, B2.C, bacterial.C, total.C, Pro.C.perc) %>%
   rename("Rep" = experiment,
          "Treatment" = treatment,
          "Time" = time,
-         "BacSml.Qc" = B1.Qc,
          "BacSml.C" = B1.C,
-         "BacLrg.Qc" = B2.Qc,
          "BacLrg.C" = B2.C,
          "BacTot.C" = bacterial.C,
          "TotMicrobial.C" = total.C,
@@ -44,7 +43,7 @@ c.dat <- read_csv(microb.c.file) %>%
 
 
 abu.c.dat <- left_join(abu.dat, c.dat) %>%
-  select(Time, Treatment, Rep, Pro.count, Pro.Qc, Pro.C, BacSml.count, BacSml.Qc, BacSml.C, BacLrg.count, BacLrg.Qc, BacLrg.C, BacTot.count, BacTot.C, TotMicrobial.C, Pro.C.Fraction)
+  select(Time, Treatment, Rep, Pro.count, BacSml.count, BacLrg.count, BacTot.count, Phage.abun, Pro.C, BacSml.C, BacLrg.C,  BacTot.C, TotMicrobial.C, Pro.C.Fraction)
 
 
 

@@ -188,7 +188,7 @@ comb.plot <- volcano.plot + inset_element(count.plot, left = 0.01, bottom = 0.71
 comb.plot
 
 #save plot
-ggsave(comb.plot, filename = "Figures/Outputs/Volcano_Inset_Plot.png", 
+ggsave(comb.plot, filename = "Figures/Outputs/Volcano_Inset_Plot.pdf", 
        dpi = 800, bg = "white", scale = 1.3,
        units = "in", height = 6, width = 7)
 #
