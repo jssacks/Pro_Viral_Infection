@@ -177,7 +177,7 @@ comb.fig <- suc.fig + UDP.fig + AMP.fig + GBB.fig + lys.fig + bet.fig + GG.fig +
 comb.fig
 
 #save figure:
-ggsave(comb.fig, file = "Figures/Outputs/Supplemental_Fold_Change_Figure.png", dpi = 600, 
+ggsave(comb.fig, file = "Figures/Outputs/SuppFig5_Fold_Change_Figure.png", dpi = 1200, 
        height = 10, width = 8, units = "in",
        bg = "white", scale = 1.5)
 

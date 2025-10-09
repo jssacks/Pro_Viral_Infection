@@ -192,6 +192,13 @@ ggsave(comb.plot, filename = "Figures/Outputs/Volcano_Inset_Plot.pdf",
        dpi = 800, bg = "white", scale = 1.3,
        units = "in", height = 6, width = 7)
 #
+ggsave(comb.plot, filename = "Figures/Outputs/Submission_figures/Fig3.png", 
+       dpi = 1200, bg = "white", scale = 1.3,
+       units = "in", height = 6, width = 7)
+#
+
+
+
 
 
 

@@ -116,8 +116,8 @@ comb.plot <- abs.fig/rel.fig +
 comb.plot
 
 ##export plot:
-ggsave(comb.plot, file = "Figures/Outputs/Supplemental_all_stacked_barcharts.png",
-       bg = "white", dpi = 600, units = "in", height = 10, width = 8, scale = 1.3)
+ggsave(comb.plot, file = "Figures/Outputs/SuppFig4_all_stacked_barcharts.png",
+       bg = "white", dpi = 1200, units = "in", height = 10, width = 8, scale = 1.3)
 
 
 

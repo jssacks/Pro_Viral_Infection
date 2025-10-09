@@ -136,7 +136,9 @@ ggsave(mpm.group.fig, filename = "Figures/Outputs/MPM_Results.pdf", dpi = 800, s
        units = "in", height = 3, width = 6, bg = "white"
        )
 
-
+ggsave(mpm.group.fig, filename = "Figures/Outputs/Submission_Figures/Fig4.png", dpi = 1200, scale = 1.4,
+       units = "in", height = 3, width = 6, bg = "white"
+)
 
 
 

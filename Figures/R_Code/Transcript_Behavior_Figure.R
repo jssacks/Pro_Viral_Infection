@@ -68,8 +68,8 @@ plot
 
 
 ###export 
-ggsave(plot, file = "Figures/Outputs/Transcript_behavior_plot.png",
-       bg = "white", dpi = 600, units = "in", height = 5, width = 5)
+ggsave(plot, file = "Figures/Outputs/SuppFig1_Transcript_behavior_plot.png",
+       bg = "white", dpi = 1200, units = "in", height = 5, width = 5)
 
 
 

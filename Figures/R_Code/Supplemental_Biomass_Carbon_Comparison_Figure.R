@@ -125,7 +125,7 @@ comb.plot <- (atp.fcm.plot | atp.metab.plot | fcm.metab.plot)/biomass.plot + plo
 comb.plot
 
 ##Export Plot:
-ggsave(comb.plot, file = "Figures/Outputs/Biomass_FCM_ATP_Metab_Comparison_Supplemental_Fig.png", dpi = 600,
+ggsave(comb.plot, file = "Figures/Outputs/SuppFig2_Biomass_FCM_ATP_Metab_Comparison_Supplemental_Fig.png", dpi = 1200,
        bg = "white", units = "in", height = 6, width = 8, scale = 1.3)
 
 

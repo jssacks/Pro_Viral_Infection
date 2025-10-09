@@ -250,11 +250,13 @@ metabolome.fig <- ggarrange(
   )
 metabolome.fig
 
-ggsave(metabolome.fig, filename = "Figures/Outputs/NMDS_QuantMetab_Fig.pdf",
-       dpi = 800, scale = 1.3, bg = "white",
+ggsave(metabolome.fig, filename = "Figures/Outputs/NMDS_QuantMetab_Fig.png",
+       dpi = 1200, scale = 1.3, bg = "white",
        units = "in", height = 8, width = 8)
 
-
+ggsave(metabolome.fig, filename = "Figures/Outputs/Submission_Figures/Fig2.png",
+       dpi = 1200, scale = 1.3, bg = "white",
+       units = "in", height = 8, width = 8)
 
 
 

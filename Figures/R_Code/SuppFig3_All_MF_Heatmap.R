@@ -85,7 +85,7 @@ heatmap.fig <- ggplot(metab.fig, aes(x = reorder(SampID, time), y = reorder(MF, 
 heatmap.fig
 
 #save heatmap
-ggsave(heatmap.fig, filename = "Figures/Outputs/heatmap.png", dpi = 800, scale = 1.2,
+ggsave(heatmap.fig, filename = "Figures/Outputs/SuppFig3_heatmap.png", dpi = 1200, scale = 1.2,
        units = "in", height = 8, width = 7, bg = "white")
 
 
